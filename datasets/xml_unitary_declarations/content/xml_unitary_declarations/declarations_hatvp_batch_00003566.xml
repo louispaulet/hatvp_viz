@@ -1,0 +1,964 @@
+<declarations><declaration>
+		<dateDepot>30/09/2020 22:56:21</dateDepot>
+		<uuid>5f676fb0-cd43-4545-8411-339579eb11a5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>CDEA d&#233;signations juillet 2020.pdf</fileName>
+				<serverFileName>5f676fb0-cd43-4545-8411-339579eb11a5_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>CDEA d&#233;signations septembre 2020.pdf</fileName>
+				<serverFileName>5f676fb0-cd43-4545-8411-339579eb11a5_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>repr&#233;sentations r&#233;gion.xls</fileName>
+				<serverFileName>5f676fb0-cd43-4545-8411-339579eb11a5_pj03</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En situation de cr&#233;ation de soci&#233;t&#233; indemnis&#233; par mes indemnit&#233;s de ch&#244;mage j'ai fait le choix de ne pas me r&#233;mun&#233;rer afin de prendre en compte la viabilit&#233; de la soci&#233;t&#233;</commentaire>
+					<nomEmployeur>MD Strat &amp; Com</nomEmployeur>
+					<description>communication, strat&#233;gie, relations institutionnelles, accompagnement de projet</description>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>08/2020</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>directrice administrative et financi&#232;re</description>
+					<employeur>UDI</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>64548</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>64554</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>64539</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>64595</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>76075</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>11/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j'ai &#233;t&#233; nomm&#233;e conseill&#232;re sp&#233;ciale de la r&#233;gion ile de France en mai 2019. Cette fonction ne donne droit &#224; aucune indemnit&#233; suppl&#233;mentaire.</commentaire>
+					<descriptionMandat>conseiller r&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2261</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33181</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32497</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>32513</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>32670</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21780</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;lue maire en juillet 2020</commentaire>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3351</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;lue Vice Pr&#233;sidente de l'Agglom&#233;ration en juillet 2020</commentaire>
+					<descriptionMandat>vice - Pr&#233;sidente Communaut&#233; d'agglom&#233;ration</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1865</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>42 857&#8364; de dividendes per&#231;us en 2020</commentaire>
+					<nomSociete>MD Strat &amp; Com</nomSociete>
+					<activite>communication, conseil, strat&#233;gie, relations institutionnelles, accompagnement de projet</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La R&#233;gion est le Premier financeur du GIP G&#233;nopole que j'ai pr&#233;sid&#233; &#224; ce titre. La fonction de Pr&#233;sident ne donne pas lieu &#224; r&#233;mun&#233;ration</commentaire>
+					<nomSociete>GIP Genopole</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>03/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La fonction de Vice - Pr&#233;sident ne donne pas lieu &#224; r&#233;mun&#233;ration</commentaire>
+					<nomSociete>GIP G&#233;nopole</nomSociete>
+					<activite>Vice - Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>le mandat de membre du CA d'IDFM ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;</commentaire>
+					<nomSociete>Ile de France Mobilit&#233;s</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Jacques Pr&#233;vert (Logjumeau)</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Jean Perrin (Longjumeau) 91</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Andr&#233;-Marie Amp&#232;re (Morsang sur Orge) 91</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Albert Einstein (Sainte Genevi&#232;ve des Bois) 91</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Paul Langevin (Saint Genevi&#232;ve des Bois) 91</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e L&#233;onard de Vinci (Saint Michel sur Orge) 91</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e priv&#233; Saint Louis Saint Cl&#233;ment ( Viry Chatillon) 91</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Gaspard Monge (Savigny sur Orge) 91</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des EPLE (Lyc&#233;es) ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Lyc&#233;e Jean Baptiste Corot ( Savigny sur Orge) 91</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration des Missions locales ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Mission locale du Val d'Orge</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration de la SPL ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>SPL PLateforme d'approvisionnement de la restauration de l'Est francilien</nomSociete>
+					<activite>membre de l'AG</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration de la Facult&#233; des m&#233;tiers ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Facult&#233; des M&#233;tiers de l'Essonne</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de co- Pr&#233;sidente de l'IRC Austerlitz ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>IRC de la Gare d'Austerlitz</nomSociete>
+					<activite>co-Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre de la CDCA ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>CDCA de l'Essonne</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration de la R&#233;gie Publique Eau Coeur Essonne ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>R&#233;gie Publique Eau Coeur Essonne</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration du Syndicat de l'Orge ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Syndicat de l'Orge</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration du SYMGHAV ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>SYMGHAV</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la fonction de membre du conseil d'administration de l'Ecole de la 2&#232;me chance ne donne pas droit &#224; r&#233;mun&#233;ration ni indemnit&#233;s</commentaire>
+					<nomSociete>Ecole de la 2&#232;me chance en Essonne</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Mobiliser D&#233;cider Strat&#233;gie et communication</nomSociete>
+					<evaluation>10762</evaluation>
+					<remuneration>Dividendes bruts 42 857&#8364; en 2020</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>661188</evaluation>
+					<remuneration>4370&#8364; en 2019</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>4223</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>J'ai fait une d&#233;claration compl&#232;te qui int&#232;gre mes nouveaux mandats de maire et de Vice Pr&#233;sidente de l'agglom&#233;ration Coeur d'essonne mais qui compl&#232;te &#233;galement la d&#233;claration d'int&#233;r&#234;t que j'avais faite l'ann&#233;e derni&#232;re au titre de mon mandat de Conseill&#232;re r&#233;gionale 
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>91434</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Morsang-sur-Orge (91)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Morsang-sur-Orge (91)/maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>DURANTON</nom>
+				<prenom>Marianne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/05/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

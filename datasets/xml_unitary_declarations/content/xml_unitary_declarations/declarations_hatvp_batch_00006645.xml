@@ -1,0 +1,201 @@
+<declarations><declaration>
+		<dateDepot>01/12/2021 12:12:11</dateDepot>
+		<uuid>8c75d99f-5fda-4b22-8b07-904c81308a2d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Conducteur de bus</description>
+					<employeur>Esterel Cars</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17&#8239;326</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17&#8239;326</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15&#8239;468</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18&#8239;309</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6&#8239;549</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#8239;678</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20&#8239;400</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Est&#233;rel Cote d'Azur Agglom&#233;ration</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>vice pr&#233;sident</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Est&#233;rel Cote d'Azur Agglom&#233;ration/vice pr&#233;sident</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Marchand</nom>
+				<prenom>Charles</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/02/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,213 @@
+<declarations><declaration>
+		<dateDepot>03/11/2022 11:32:37</dateDepot>
+		<uuid>9d5a7f49-3892-4977-9ea3-5ba0558f6206</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cessation d'activit&#233;s enregistr&#233;e au greffe du tribunal de commerce de Meaux le 30 juin 2019</commentaire>
+					<conservee>false</conservee>
+					<description>Agent immobilier</description>
+					<employeur>Autoentrepreneur</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7312</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>RHINO</employeurConjoint>
+					<activiteProf>M&#233;tallier</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8&#8239;683</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;105</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>77&#8239;927</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>37&#8239;263</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>IGNASIAK Victor</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GAI Laura</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Lemoine</nom>
+				<prenom>Patricia</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/12/1961</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

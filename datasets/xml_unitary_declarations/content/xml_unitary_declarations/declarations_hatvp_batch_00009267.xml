@@ -1,0 +1,485 @@
+<declarations><declaration>
+		<dateDepot>28/09/2022 10:16:35</dateDepot>
+		<uuid>1ec48132-58cc-401b-8fcf-ee4f9cdbe2a4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ACTIVITE saisonni&#232;re</commentaire>
+					<description>SALARIEE</description>
+					<employeur>SARL FERRIERE FRERES HORTICULTEURS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3478</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2017</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ACTIVITE EXERCEE A TEMPS PARTIEL. CESSATION DE L'ACTIVITE AU JOUR DE LA DEMISSION DE M. PATRICE VERCHERE</commentaire>
+					<description>COLLABORATRICE PARLEMENTAIRE DE M. PATRICE VERCHERE, DEPUTE DU RHONE</description>
+					<employeur>COLLABORATRICE PARLEMENTAIRE - ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8433</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12545</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7070</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2018</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>BAYER SAS</employeurConjoint>
+					<activiteProf>RESPONSABLE DE GESTION DE PROJETS AU SEIN DU SERVICE "BUSINESS SERVICES"</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CONSEILLERE MUNICIPALE</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEIL MUNICIPAL DE L'ARBRESLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>D&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>37&#8239;897</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>35&#8239;338</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ADH&#201;RENTE DE L&#8217;ASSOCIATION DE D&#201;CEMBRE 2003 A 2008. SECR&#201;TAIRE (2008 A 2015) PUIS PR&#201;SIDENTE DE L&#8217;ASSOCIATION (DEPUIS 2016). ASSOCIATION POUR LA PR&#201;VENTION ET LA LUTTE CONTRE LES RISQUES INONDATION DANS LES BASSINS VERSANTS DE LA BREVENNE ET DE LA TURDINE. CETTE ASSOCIATION, AUJOURD&#8217;HUI EN SOMMEIL, N&#8217;A PLUS AUCUNE UTILIT&#201;. JE SOUHAITE EN CONS&#201;QUENCE ABANDONNER MES FONCTIONS DE PR&#201;SIDENTE D&#8217;ICI LA FIN DE L&#8217;ANNEE.</commentaire>
+					<nomSociete>ASSOCIATION "TOUS UNIS CONTRE LES INONDATIONS"</nomSociete>
+					<activite>PRESIDENT DE L'ASSOCIATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>PAROISSE SAINTE CLAIRE ET SAINT-FRANCOIS DE L&#8217;ARBRESLE</nomSociete>
+					<activite>MEMBRE DU CONSEIL ECONOMIQUE DE LA PAROISSE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>OBJET DE L&#8217;ASSOCIATION : PROMOUVOIR LES ETUDES HISTORIQUES CONCERNANT LA R&#201;GION DE L&#8217;ARBRESLE. FAIRE CONNAITRE, SAUVEGARDER ET METTRE EN VALEUR LES MONUMENTS ET OBJETS HISTORIQUES. JE N&#8217;AI PAS RENOUVEL&#201; MON ADH&#201;SION A L&#8217;ASSOCIATION EN D&#201;CEMBRE 2019.</commentaire>
+					<nomSociete>AMIS DU VIEIL ARBRESLE</nomSociete>
+					<activite>MEMBRE DU BUREAU</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>AUjourd'hui MEMBRE DU CONSEIL D'ADMINISTRATION DE L&#8217;H&#212;PITAL au titre de d&#233;put&#233; sans pouvoir d&#233;lib&#233;ratif</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>HOPITAL DE L'ARBRESLE</nomSociete>
+					<activite>MEMBRE DU CONSEIL D'ADMINISTRATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'ASSOCIATION SSIAD L'ARBRESLE ECULLY PROPOSE DES SERVICES POUR SENIORS ET DES SOINS A DOMICILE. ELLE INTERVIENT SUR LES COMMUNES SUIVANTES : BESSENAY, BIBOST, BULLY, CHAMPAGNE-AU-MONT-D'OR, CHESSY, CHEVINAY, CHATILLON, DARDILLY, DOMMARTIN, FLEURIEUX-SUR-L'ARBRESLE, L'ARBRESLE, LA TOUR-DE-SALVAGNY, LE BREUIL, LENTILLY, NUELLES, SAIN-BEL, SAINT-GERMAIN-SUR-L'ARBRESLE, SAINT-JULIEN-SUR-BIBOST, SAINT-PIERRE-LA-PALUD, SARCEY, SAVIGNY, SOURCIEUX-LES-MINES, &#201;CULLY, &#201;VEUX.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>ASSOCIATION SERVICES DE SOINS INFIRMIERS A DOMICILE DE L'ARBRESLE - ECULLY</nomSociete>
+					<activite>MEMBRE DU BUREAU</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SOCIETAIRE DE LA BANQUE POPULAIRE AUVERGNE RHONE ALPES (ETABLISSEMENT TENEUR DE MES COMPTES)</commentaire>
+					<nomSociete>BANQUE POPULAIRE AUVERGNE RHONE ALPES</nomSociete>
+					<evaluation>208</evaluation>
+					<remuneration>N&#201;ANT</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>collaborateur &#224; temps plein en circonscription</commentaire>
+					<nom>Mme DUCROS CELINE</nom>
+					<employeur>aucun</employeur>
+					<descriptionActivite>aucune</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>collaborateur &#224; temps plein en circonscription</commentaire>
+					<nom>M. DUMONT Sylvain</nom>
+					<employeur>aucun</employeur>
+					<descriptionActivite>aucun</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>M. ESNAULT Paul</nom>
+					<employeur>COMMUNAUT&#201; DE COMMUNES DE L'OUEST RHODANIEN (COR)</employeur>
+					<descriptionActivite>DIRECTEUR DE CABINET DU PR&#201;SIDENT DE LA C.O.R.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>collaborateur &#224; temps plein en circonscription</commentaire>
+					<nom>Mme MEUNIER Nathalie</nom>
+					<employeur>aucun</employeur>
+					<descriptionActivite>aucun</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ASSISTANT PARLEMENTAIRE A TEMPS partiel</commentaire>
+					<nom>M. PECOUT Roger</nom>
+					<employeur>aucun</employeur>
+					<descriptionActivite>aucun</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Rh&#244;ne(69)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Rh&#244;ne(69)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>SERRE</nom>
+				<prenom>Nathalie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>17/08/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,278 @@
+<declarations><declaration>
+		<dateDepot>24/10/2022 10:40:06</dateDepot>
+		<uuid>e3afb2b7-acef-437b-9361-ff1884e2d6e5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Directrice de projets RH</description>
+					<employeur>MPI Executive</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17&#8239;920</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15&#8239;093</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>355&#8364; (non d&#233;duits des calculs) sont vers&#233;s &#224; l'association de financement du Rassemblement National chaque mois. Soit 4260&#8364;.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller r&#233;gional Aquitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14&#8239;552</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12&#8239;899</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Juin: 9303&#8364; Juillet: 171063&#8364; (Salaire du mois de juillet + indemnit&#233; de rupture conventionnelle (bulletin de salaire &#224; disposition si n&#233;cessaire) D&#233;l&#233;gu&#233;e g&#233;n&#233;rale du 01/10/2011 au 31/07/2017</commentaire>
+					<nomSociete>Association Fran&#231;aise de l'Aluminium</nomSociete>
+					<activite>D&#233;l&#233;gu&#233;e g&#233;n&#233;rale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>180&#8239;366</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI familiale</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>G&#233;rante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>400000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>MONGELOUS Aymeric</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>HERRBACH Charles</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BOURLIEUX Jimmy</nom>
+					<employeur>Groupe Rassemblement national au Conseil r&#233;gional de Nouvelle-Aquitaine</employeur>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>16</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Charente(16)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Charente(16)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>COLOMBIER</nom>
+				<prenom>Caroline</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/08/1957</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

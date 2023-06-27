@@ -1,0 +1,267 @@
+<declarations><declaration>
+		<dateDepot>10/02/2021 16:16:53</dateDepot>
+		<uuid>9603adbe-d0e6-48f4-ad18-a56774de5c4b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Entreprise individuelle cr&#233;&#233;e en octobre 2019, mais n'ayant eu aucune activit&#233; jusqu'&#224; ce jour</commentaire>
+					<description>Recherches et publications historiques</description>
+					<employeur>Entreprise individuelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>02/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Assembl&#233;e nationale</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller r&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#8239;006</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>25&#8239;089</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24&#8239;794</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24&#8239;170</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10&#8239;328</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-Pr&#233;sident de la Communaut&#233; d'Agglom&#233;ration du Grand Chalon</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22&#8239;290</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22&#8239;354</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22&#8239;026</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21&#8239;768</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21&#8239;868</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;110</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Election aux fonctions de pr&#233;sident de l'&#233;tablissement public industriel et commercial "Office de Tourisme et des Congr&#232;s du Grand Chalon" depuis le d&#233;but du mandat (encore en cours)</commentaire>
+					<nomSociete>EPIC Office de Tourisme et des Congr&#232;s du Grand Chalon</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>02/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>71076</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Chalon-sur-Sa&#244;ne (71)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>71</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Chalon-sur-Sa&#244;ne (71)</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/05/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PLATRET</nom>
+				<prenom>Gilles</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>19/04/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

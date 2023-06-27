@@ -1,0 +1,211 @@
+<declarations><declaration>
+		<dateDepot>20/12/2020 12:57:33</dateDepot>
+		<uuid>38f29394-863f-4493-96c1-d42ee921f31e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Sans emploi aujourd'hui
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce sont montants bruts imp&#244;ts 2015 Cons. metrop 7447 euros brut imp&#244;ts Adjointe 26398 bruts imp&#244;ts D&#233;put&#233;e 52878 cumul imposable 2016 cons m&#233;trop 10603 Adjointe 26478 D&#233;put&#233;e 52690 2017. Cons metrop 12029 Adjointe 26730 D&#233;put&#233;e 29262 2018. Cons m&#233;tropole 13005 Adjointe 26879 2019. Cons m&#233;tropole 13068 Adjointe 27009 2020 cons m&#233;tropole 13404 Adjointe 25492</commentaire>
+					<descriptionMandat>adjointe au maire, conseill&#232;re m&#233;tropolitaine et d&#233;put&#233; entre 2014 et 2017</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>57&#160;908</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>89&#160;781</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>89&#160;771</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68&#160;021</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>39&#160;884</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40&#160;077</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>38&#160;896</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La soci&#233;t&#233; DOMATELLE est un loueur en meubl&#233; non professionnel. 
+        [Donn&#233;es non publi&#233;es]
+     Madame Laurence ARRIBAGE d&#233;tient 1 part sur les 500 parts composant le capital de la soci&#233;t&#233;. Madame Laurence ARRIBAGE ne per&#231;oit aucune r&#233;mun&#233;ration dans cette soci&#233;t&#233;.</commentaire>
+					<nomSociete>DOMATELLE</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La soci&#233;t&#233; DOMATELLE est un loueur en meubl&#233; non professionnel. 
+        [Donn&#233;es non publi&#233;es]
+    dont Madame Laurence ARRIBAGE d&#233;tient 1 part sur les 500 parts composant le capital de la soci&#233;t&#233;. Madame Laurence ARRIBAGE ne per&#231;oit aucune r&#233;mun&#233;ration dans cette soci&#233;t&#233;.</commentaire>
+					<nomSociete>DOMATELLE</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31555</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Toulouse (31)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>31</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Toulouse (31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>arribage</nom>
+				<prenom>laurence</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>25/05/1970</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

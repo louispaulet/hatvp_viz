@@ -1,0 +1,525 @@
+<declarations><declaration>
+		<dateDepot>30/11/2022 15:11:58</dateDepot>
+		<uuid>fb299825-4385-4c91-a5e6-65f672b4b666</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>+80m2 environ de garage et remise</commentaire>
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>170</superficieBati>
+					<superficieNonBati>0.16</superficieNonBati>
+					<dateAcquisition>1986</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>122800</prixAcquisition>
+					<prixTravaux>60000</prixTravaux>
+					<valeurVenale>600000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI familiale
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>4.0</capitalDetenu>
+					<autreActif>Immobilisation (maison) 110000 Disponibilit&#233; financi&#232;re 1626,44 (fin 2021) TOTAL: 111626,44</autreActif>
+					<passif>Parts sociales des associ&#233;s (dont JF et 
+        [Donn&#233;es non publi&#233;es]
+     Carenco) autres: n&#233;ant TOTAL 111626,44</passif>
+					<valeur>4465</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>N'ayant pas le montant du prix d'acquisition, nous avons not&#233; le prix de la valeur v&#233;nale actuelle</commentaire>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 48)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>120</superficieBati>
+							<superficieNonBati>0.0222</superficieNonBati>
+							<dateAcquisition>2008</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>4.0</quotePart>
+							<prixAcquisition>110000</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>110000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI familiale 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>30.0</capitalDetenu>
+					<autreActif>Immobilisation corporelle 235283 disponibilit&#233; et cr&#233;ances 1506 TOTAL 236789</autreActif>
+					<passif>Capitaux propres 10530 dont capital social 4000 Dettes 226259 dont CCA 30000 Dettes bancaires 191564 TOTAL 236789</passif>
+					<valeur>10000</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Local commercial</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>164</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2018</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>30.0</quotePart>
+							<prixAcquisition>255000</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>255000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>soci&#233;t&#233; quincanela</denomination>
+					<valeurActuelle>22409</valeurActuelle>
+					<participation>5.8</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<titulaire>carenco jean fran&#231;ois</titulaire>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>6000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>6000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>carenco jean Fran&#231;ois</souscripteur>
+					<etablissement>Quintessa</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>05/07/2022</dateSouscription>
+					<valeurRachat>145000</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>quintessa</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>08/01/2019</dateSouscription>
+					<valeurRachat>81118</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>19007</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>carenco jean fran&#231;ois</titulaire>
+					<valeur>19005</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Carenco jean fran&#231;ois</titulaire>
+					<valeur>58010</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>CEL</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>14028</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>29073</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>CEL</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>carenco jean fran&#231;ois</titulaire>
+					<valeur>10028</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>jean francois carenco</titulaire>
+					<valeur>29072</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>12000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>carenco jean fran&#231;ois</titulaire>
+					<valeur>12000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>bpsud</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>jean francois et 
+        [Donn&#233;es non publi&#233;es]
+    carenco</titulaire>
+					<valeur>17000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items/>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>renault clio</marque>
+					<anneeAchat>2017</anneeAchat>
+					<valeurAchat>19040</valeurAchat>
+					<valeur>5000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>renault twingo</marque>
+					<anneeAchat>2006</anneeAchat>
+					<valeurAchat>11000</valeurAchat>
+					<valeur>2000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items/>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items/>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items/>
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>outmer</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; des outre-mer</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233; aupr&#232;s du ministre de l'int&#233;rieur et des outre-mer, charg&#233; des outre-mer</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233; aupr&#232;s du ministre de l'int&#233;rieur et des outre-mer, charg&#233; des outre-mer</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>Communaut&#233; l&#233;gale r&#233;duite aux acqu&#234;ts</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>carenco</nom>
+				<prenom>jean-fran&#231;ois</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>07/07/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,292 @@
+<declarations><declaration>
+		<dateDepot>24/07/2022 11:03:56</dateDepot>
+		<uuid>7c18d29a-9ffa-420c-832e-32ea38972e13</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Orange</employeurConjoint>
+					<activiteProf>Adjointe au Directeur technique
+        [Donn&#233;es non publi&#233;es]
+     cadre sup&#233;rieur</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de l'activit&#233; de tr&#233;sorier pr&#233;vue en septembre 2022</commentaire>
+					<nomStructure>Parti Radical des Deux-S&#232;vres</nomStructure>
+					<descriptionActivite>Tr&#233;sorier</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de la fonction d'adjoint au Maire le 13/07 pour devenir simple conseiller municipal. Choix de ne percevoir que l'indemnit&#233; de Conseiller R&#233;gional entre le 19/06 (date de l'&#233;lection comme d&#233;put&#233;) et le 13/07. Un trop per&#231;u de 484 &#8364; de l'indemnit&#233; d'adjoint sur le mois de juin a ici &#233;t&#233; d&#233;duite car rembours&#233;e en juillet.</commentaire>
+					<descriptionMandat>Adjoint au Maire de Niort</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11&#8239;577</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;140</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8&#8239;058</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de la fonction de D&#233;l&#233;gu&#233; du Pr&#233;sident d'agglom&#233;ration le 13/07 pour devenir simple conseiller communautaire. Choix de ne percevoir que l'indemnit&#233; de Conseiller R&#233;gional entre le 19/06 (date de l'&#233;lection comme d&#233;put&#233;) et le 13/07. Un trop per&#231;u &#224; hauteur de 310 &#8364; de l'indemnit&#233; de D&#233;l&#233;gu&#233; du Pr&#233;sident sur le mois de juin (ici d&#233;duite) sera ainsi rembours&#233;e en juillet.</commentaire>
+					<descriptionMandat>D&#233;l&#233;gu&#233; du Pr&#233;sident de la Communaut&#233; d'Agglom&#233;ration du Niortais</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;350</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;093</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5&#8239;154</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission du Conseiller R&#233;gional le 13/07/2022</commentaire>
+					<descriptionMandat>Conseiller R&#233;gional de Nouvelle-Aquitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;719</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11&#8239;739</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Exerc&#233; comme repr&#233;sentant de la Ville de Niort</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEMIE</nomSociete>
+					<activite>administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Exerc&#233; comme repr&#233;sentant de la Ville de Niort</commentaire>
+					<nomSociete>Deux-S&#232;vres Habitat</nomSociete>
+					<activite>Administrateur membre du bureau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>169</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>294</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>227</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>05/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Recrut&#233; le 13/07/2022</commentaire>
+					<nom>Fran&#231;ois Bussery</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233; parlementaire bas&#233; &#224; Paris (r&#233;daction d'amendements, discours, notes ou interventions, organisation et assistance)</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>79</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Deux-S&#232;vres(79)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Deux-S&#232;vres(79)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Marchive</nom>
+				<prenom>Bastien</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>15/07/1990</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

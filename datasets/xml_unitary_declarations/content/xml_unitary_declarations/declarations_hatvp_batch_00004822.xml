@@ -1,0 +1,241 @@
+<declarations><declaration>
+		<dateDepot>17/10/2020 22:12:29</dateDepot>
+		<uuid>9c063874-da20-4a2f-88b9-2ffd1b8cb904</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Chef de projet de recherche</description>
+					<employeur>Office Fran&#231;ais de la Biodiversit&#233;</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28761</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>29716</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29324</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35877</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34350</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21597</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Education Nationale</employeurConjoint>
+					<activiteProf>Professeur des &#233;coles 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Elu dans la minorit&#233; municipale</commentaire>
+					<descriptionMandat>Conseiller municipal d'Orvault</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>360</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>480</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>480</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>480</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>480</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>480</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>240</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Actions dans le CIERC ENERCO qui investit dans la soci&#233;t&#233; EOLA (&#233;oliennes en pays d'Ancenis)</commentaire>
+					<nomSociete>CIERC ENERCO</nomSociete>
+					<evaluation>800</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>40</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; Cowatt qui d&#233;veloppe les &#233;nergies renouvelables gr&#226;ce &#224; du financement citoyen.</commentaire>
+					<nomSociete>Cowatt</nomSociete>
+					<evaluation>200</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Nantes m&#233;tropole</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Nantes m&#233;tropole</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Guitton</nom>
+				<prenom>Jean-S&#233;bastien</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/01/1976</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

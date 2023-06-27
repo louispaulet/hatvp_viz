@@ -1,0 +1,277 @@
+<declarations><declaration>
+		<dateDepot>22/08/2022 17:56:34</dateDepot>
+		<uuid>babfb164-354a-46aa-8907-67ff611680dd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>dirigeante de soci&#233;t&#233;</employeurConjoint>
+					<activiteProf>club sportif</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>aucune r&#233;mun&#233;ration</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Pr&#233;sident de l'association de centre-ville en mouvement</nomStructure>
+					<descriptionActivite>repr&#233;sentation &#224; titre b&#233;n&#233;vole</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1701</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2268</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2268</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2268</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>depute</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>69&#8239;825</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>73&#8239;769</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;105</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>35&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Revenu foncier 2016 90% = 5 272.00 &#8364;</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>569691</evaluation>
+					<remuneration>neant</remuneration>
+					<capitalDetenu>90</capitalDetenu>
+					<nombreParts>180</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Revenu foncier 2016 40% = 11 442.00 &#8364;</commentaire>
+					<nomSociete>sci 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>111207</evaluation>
+					<remuneration>neant</remuneration>
+					<capitalDetenu>40</capitalDetenu>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>neant</commentaire>
+					<nomSociete>acquaforme</nomSociete>
+					<evaluation>77147</evaluation>
+					<remuneration>neant</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>400</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>en dispo mairie montpellier</commentaire>
+					<nom>ichou fadila</nom>
+					<employeur>mairie de montpellier</employeur>
+					<descriptionActivite>assistante parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>aluce delage christian</nom>
+					<employeur>retraite</employeur>
+					<descriptionActivite>assistant parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>34</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>H&#233;rault(34)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/H&#233;rault(34)</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Vignal</nom>
+				<prenom>Patrick</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/01/1958</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

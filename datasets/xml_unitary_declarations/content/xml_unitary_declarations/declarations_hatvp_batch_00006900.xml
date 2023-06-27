@@ -1,0 +1,282 @@
+<declarations><declaration>
+		<dateDepot>30/08/2021 23:10:28</dateDepot>
+		<uuid>e40da655-15bb-4728-8923-067de339be65</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis professeure des universit&#233;s depuis 15 ans et ant&#233;rieurement ma&#238;tre de conf&#233;rences.</commentaire>
+					<description>PROFESSEURE DES UNIVERSITES</description>
+					<employeur>UNIVERSIT&#201; DE CORSE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>56692</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>56692</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>64&#8239;446</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>64&#8239;797</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67&#8239;262</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>36&#8239;555</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SARL
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>g&#233;rant d'une entreprise de b&#226;timent</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseill&#232;re ex&#233;cutive pr&#233;sidente de l'Agence du tourisme de la Corse</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>34&#8239;447</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35&#8239;207</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>44&#8239;482</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>44&#8239;446</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>44&#8239;446</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22&#8239;211</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agissait d'une indemnit&#233; d'expertise scientifique. je ne suis plus membre du CoCNRS depuis juillet 2016</commentaire>
+					<nomSociete>comit&#233; national du CNRS</nomSociete>
+					<activite>membre du conseil</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2680</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2533</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>06/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'une TPE artisanale au capital social de 100 euros. pour les valeurs v&#233;nales
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SARL 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>5</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>5</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI de gestion du patrimoine familial au capital social d'un montant de 200 euros
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>2</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Je suis membre du Comite&#769; Europ&#233;en des re&#769;gions depuis mars 2016 . Il s'agit d'une instance europe&#769;enne consultative dont les membres sont nomm&#233;s par le Premier ministre. Je signale que mes frais de missions (transport et he&#769;bergement) pour le compte du Comite&#769; des re&#769;gions sont pris en charge par celui-ci. Je suis de nouveau membre pour cette mandature.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivit&#233; &#224; statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivit&#233; &#224; statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivit&#233;</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSCORS</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivit&#233;s &#224; statut particulier</nomListeOrgane>
+				<labelOrgane>Assembl&#233;e de Corse</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Collectivit&#233; &#224; statut particulier/Assembl&#233;e de Corse</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Maupertuis</nom>
+				<prenom>Marie Antoinette</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>10/04/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,523 @@
+<declarations><declaration>
+		<dateDepot>30/11/2017 12:43:46</dateDepot>
+		<uuid>3753b65f-c329-422b-94ec-5124c0971cd4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER MUNICIPAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>3909</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>4745</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>4223</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4470</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4650</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4589</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4246</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai cess&#233; d'&#234;tre vice pr&#233;sident de la M&#233;tropole cons&#233;cutivement &#224; ma r&#233;&#233;lection au S&#233;nat . je suis d&#233;sormais simple conseiller m&#233;tropolitain et per&#231;ois 250,59 gros nets/mois.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>VICE PRESIDENT COMMUNAUTE URBAINE , puis METROPOLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>20163</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>20163</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>20163</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>22142</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24003</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24075</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18788</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>REELU</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>SENATEUR</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>12870</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>50121</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>50121</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50057</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>49767</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2011</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Atmo Grand Est est une association agr&#233;&#233;e de surveillance de la qualit&#233; de l'air , membre du r&#233;seau Atmo France; Le mandat &#233;lectif dure 3ans ; il est renouvelable . Cette fonction n'est pas r&#233;mun&#233;r&#233;e .</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ATMO GRAND EST</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Scalen est une agence d'urbanisme membre du r&#233;seau FNAU .F&#233;d&#233;r&#233;tion nationale des agences d'urbanisme . Scalen est une association ; La fonction de pr&#233;sident ne donne pas lieu &#224; r&#233;mun&#233;ration.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCALEN</nomSociete>
+					<activite>pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ALEC Nancy grands Territoires fait partie du r&#233;seau des agences locales de l'&#233;nergie/espace info &#233;nergie (EIE) sous statut associatif et ne donnant pas lieu &#224; r&#233;mun&#233;ration .</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ALEC NANCY GRANDS TERRITOIRES</nomSociete>
+					<activite>Pr&#233;sident de l'Agence Locale de l'ENERGIE</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La r&#233;mun&#233;ration attach&#233;e &#224; la fonction de pr&#233;sident a cess&#233; en mai 2014 , lors de ma r&#233;&#233;lection ; depuis le &amp;' octobre 2017 , j'ai cess&#233; d'etre pr&#233;sident et suis simplement Pr&#233;sident de commission au sein de ce syndicat mixte . je ne per&#231;ois aucune r&#233;mun&#233;ration pour cette fonction .</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCOT SUD 54</nomSociete>
+					<activite>Pr&#233;sident Syndicat mixte - sch&#233;ma de coh&#233;rence territoriale sud 54</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>15057</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>9492</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8929</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3728</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>sci 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>Aucune r&#233;mun&#233;ration</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>80000</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Marie Laurence BOUIGE</nom>
+					<employeur/>
+					<descriptionActivite>COLLABORATRICE PARLEMENTAIRE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Anne Marie MALPIECE</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Sophie CONRAD</nom>
+					<employeur/>
+					<descriptionActivite>COLLABORATRICE PARLEMENTAIRE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Laurence EVAIN</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Christophe CHEVARDE</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Nicolas KIMMEL</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Caroline JOLY-ENTEMEYER</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Valentin DETHOU</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gauthier GEOFFROY</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>M&#233;lanie COLLIN</nom>
+					<employeur/>
+					<descriptionActivite>collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Marie d'H&#233;rouville le Tanneur</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>54</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Meurthe-et-Moselle(54)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Meurthe-et-Moselle(54)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HUSSON</nom>
+				<prenom>JEAN FRANCOIS</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>17/04/1961</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

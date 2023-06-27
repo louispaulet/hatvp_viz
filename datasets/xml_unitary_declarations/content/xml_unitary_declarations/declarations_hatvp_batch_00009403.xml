@@ -1,0 +1,188 @@
+<declarations><declaration>
+		<dateDepot>10/09/2021 17:29:05</dateDepot>
+		<uuid>8f98b062-320e-4f0b-8c29-f8db923a0f91</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Equant France int&#233;gr&#233; &#224; Orange SA en 2018.</commentaire>
+					<description>Chef de projet informatique</description>
+					<employeur>ORANGE SA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>53&#8239;533</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>55&#8239;403</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>55&#8239;240</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>59&#8239;544</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>58&#8239;338</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>58&#8239;751</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37&#8239;095</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Neant</employeurConjoint>
+					<activiteProf>N&#233;ant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Pas de participation &#224; des organes dirigeants avant le 1/07/2021, date du d&#233;but du mandat. Depuis cette date du 1er juillet, j'ai &#233;t&#233; nomm&#233; Vice Pr&#233;sident en charge de la biodiversit&#233;, de l'eau et des ENS et dans le cadre de cette Vice Pr&#233;sidence, je suis d&#233;sormais convi&#233; par diff&#233;rents organismes en lien avec mes nouvelles responsabilit&#233;s (ex : agence de l'eau / Observatoire de l'environnement /Comit&#233; technique biodiversit&#233; et paysage / Soci&#233;t&#233; d'am&#233;nagement d'Ille &amp; Vilaine / etc.)</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>35</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Ille-et-Vilaine (35)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>53</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice president</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Ille-et-Vilaine (35)/Vice president</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SOULABAILLE</nom>
+				<prenom>Yann</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/02/1969</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

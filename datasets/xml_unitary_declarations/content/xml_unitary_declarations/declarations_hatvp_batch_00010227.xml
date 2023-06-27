@@ -1,0 +1,423 @@
+<declarations><declaration>
+		<dateDepot>20/06/2020 21:44:58</dateDepot>
+		<uuid>c2a9fc4d-8ff7-4106-856c-50dc877b67f5</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour les ann&#233;es 2014 &#224; 2019, base d&#233;claration d'impots. Pour 2020, r&#233;f&#233;rence au salaire net &#224; payer avant impots.</commentaire>
+					<description>Directeur d'&#233;tablissement social</description>
+					<employeur>Fondation de l'Arm&#233;e du Salut</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>44723</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>42645</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>45288</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>48152</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>55296</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>62517</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25490</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Fonction publique territoriale Ville de Chalons en Champagne</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Administrateur de janvier 2020 au 17 juin 2020 : date de ma d&#233;mission. Cette fonction est b&#233;n&#233;vole.</commentaire>
+					<nomStructure>SOLI'ACT Association n&#233;e de l'ex Uriopss Champagne Ardenne</nomStructure>
+					<descriptionActivite>Accompagnement, conseil, aide &#224; la r&#233;daction de projets des associations oeuvrant dans le champ du handicap, de la protection de l'enfance, de l'inclusion sociale, des personnes &#226;g&#233;es...Administrateur</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis le repr&#233;sentant de la Fondation de l'Arm&#233;e du Salut avec mon adjointe au sein de cette instance. J'y ai exerc&#233; la fonction de tr&#233;sorier de 2014 &#224; 2017.</commentaire>
+					<nomStructure>GCSMS 51 gestionnaire du SIAO Marne</nomStructure>
+					<descriptionActivite>Il s'agit du groupement des 4 associations et du CCAS de Reims et Chalons en Champagne qui g&#232;rent le SIAO dont le but est d'orienter les personnes sans domicile fixe. Membre.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette fonction sera exerc&#233;e par un autre dirigeant de la Fondation de l'Arm&#233;e du Salut.</commentaire>
+					<nomStructure>Uriopss Grand Est</nomStructure>
+					<descriptionActivite>L'Uriopss est un organisme f&#233;d&#233;ratif qui r&#233;unit les associations du champ du handicap, de la d&#233;pendance, du service &#224; domicile, de l'inclusion sociale, de la protection de l'enfance...etc J'y ai exerc&#233; la fonction d' administrateur repr&#233;sentant la Fondation de l'Arm&#233;e du Salut de sa cr&#233;ation en juillet 2019 au mois de 19 juin 2020 date de ma demission.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au sein de cette instance, j'&#233;tais administrateur nomm&#233; par la Pr&#233;sidente du grand Reims au titre des associations oeuvrant dans le champ de l'insertion.</commentaire>
+					<nomSociete>Reims Habitat</nomSociete>
+					<activite>Bailleur Social</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>225</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>301</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>301</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>376</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>376</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au sein de cette instance, j'&#233;tais administrateur nomm&#233; par la Maire de Reims au titre des associations oeuvrant dans le champ de l'exclusion et de l'insertion.</commentaire>
+					<nomSociete>Centre Communal d'Action Sociale</nomSociete>
+					<activite>Action Sociale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au sein de cette instance, je repr&#233;sentais le maire de Reims en qualit&#233; de personne qualifi&#233;e.</commentaire>
+					<nomSociete>Cr&#233;dit Municipal de Reims</nomSociete>
+					<activite>Banque de pr&#234;ts</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; nomm&#233; Pr&#233;sident de cette instance par la Pr&#233;sidente du Grand Reims repr&#233;sentant la soci&#233;t&#233; civile.</commentaire>
+					<nomSociete>Conseil du D&#233;veloppement du Grand Reims</nomSociete>
+					<activite>Les Conseils de d&#233;veloppement constituent des Espaces de dialogue entre la soci&#233;t&#233; civile et les &#233;lus locaux &#224; l'&#233;chelle des intercommunalit&#233;s. Ils contribuent &#224; enrichir les politiques publiques et emettent des vais notamment sur les action en lien avec le d&#233;veloppement durable.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2017</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#233;geais au sein de cette sc&#232;ne nationale en qualit&#233; d'administrateur membre du bureau. J'ai d&#233;missionn&#233; en mai 2020.</commentaire>
+					<nomSociete>La man&#232;ge de Reims</nomSociete>
+					<activite>Sc&#233;ne nationale de Danse et de cirque Contemporain.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La conf&#233;rence pauvret&#233; avait pour objet de r&#233;fl&#233;chir &#224; des actions innovantes qui pourraient &#234;tre mises en place dans le Grand Est. J'y exer&#231;ais la fonction d'animateur b&#233;n&#233;vole. J'ai d&#233;missionn&#233; en f&#233;vrier 2020.</commentaire>
+					<nomSociete>Conf&#233;rence pauvret&#233;</nomSociete>
+					<activite>Animation de groupe de r&#233;flexion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>La quasi totalit&#233; des mandats d'administrateur est &#224; mettre en lien avec ma fonction professionnelle de Directeur de la Fondation de l'Arm&#233;e du Salut. Sauf concernant Reims Habitat, ces engagements ne donnaient pas lieu &#224; r&#233;mun&#233;ration.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>51454</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Reims (51)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjoint titulaire d'une d&#233;l&#233;gation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Reims (51)/Adjoint titulaire d'une d&#233;l&#233;gation</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/05/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Wattier</nom>
+				<prenom>Philippe Claude Yvon</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>08/07/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

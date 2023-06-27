@@ -1,0 +1,347 @@
+<declarations><declaration>
+		<dateDepot>14/07/2021 20:46:45</dateDepot>
+		<uuid>0260af76-f46a-410b-bea9-265802f921be</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Directeur commercial</description>
+					<employeur>GitHub</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>151909</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>167461</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>328511</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1574920</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>543657</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>448902</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint du maire de Nantes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13645</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18425</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18693</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17507</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17197</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19064</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4672</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre du Conseil d'administration</commentaire>
+					<nomSociete>Accoord</nomSociete>
+					<activite>centre socio-culturel</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Cit&#233; des Congr&#232;s</nomSociete>
+					<activite>Cit&#233; des Congr&#232;s</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>68,61 euros/s&#233;ance</commentaire>
+					<nomSociete>Nantes M&#233;tropole Habitat</nomSociete>
+					<activite>Nantes M&#233;tropole Habitat, acteur public du logement social de la M&#233;tropole Nantaise, est propri&#233;taire et gestionnaire de 25 000 logements sociaux, permettant ainsi &#224; pr&#232;s de 50 000 personnes de se loger. Cr&#233;&#233; il y a un si&#232;cle (1913) &#8211; alors Office public d&#8217;habitations &#224; bon march&#233; de la Ville de Nantes &#8211; Nantes Habitat est devenu depuis janvier 2016 Nantes M&#233;tropole Habitat, au c&#339;ur d&#8217;un territoire de 24 communes et de 600 000 habitants.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>68</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>68</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>P&#244;le M&#233;tropolitain Nantes St Nazaire</nomSociete>
+					<activite>Le P&#244;le m&#233;tropolitain Nantes Saint-Nazaire est &#224; la fois un territoire et une institution m&#233;tropolitaine o&#249; les &#233;lus peuvent &#233;laborer une vision commune, partager des projets ambitieux et structurants &#224; l'&#233;chelle Nantes Saint-Nazaire et pr&#233;parer l&#8217;avenir. Il a pour objet l&#8217;&#233;laboration, l&#8217;approbation, le suivi et la r&#233;vision du Sch&#233;ma de Coh&#233;rence Territoriale et la mise en &#339;uvre des actions d&#8217;int&#233;r&#234;t m&#233;tropolitain dans plusieurs domaines de comp&#233;tences (d&#233;veloppement &#233;conomique, d&#233;veloppement de services et d&#8217;infrastructures de transports, protection de l&#8217;environnement, accompagnement pr&#233;-op&#233;rationnel de projets urbains).</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>230 par s&#233;ance du CA</commentaire>
+					<nomSociete>Nantes M&#233;tropole Am&#233;nagement</nomSociete>
+					<activite>Nantes M&#233;tropole Am&#233;nagement est une entreprise publique au service du projet urbain de Nantes M&#233;tropole pour concilier construction de nouveaux logements et qualit&#233; de vie, d&#233;sir de mobilit&#233; et enjeux environnementaux, maintien et d&#233;veloppement de l&#8217;emploi.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>230</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>230</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce sont des parts dans le capital de la soci&#233;t&#233; microsoft, maison m&#232;re de la soci&#233;t&#233; GitHub qui est mon employeur. Ce sont des parts per&#231;ues en fonction des mes r&#233;sultats professionnels. Il est probable que ce nombre e parts augmente dans le temps. La valeur indiqu&#233;e ci-dessous est fonction de la valorisation sur les march&#233;s financiers de la part Microsoft, donc susceptible de fluctuer.</commentaire>
+					<nomSociete>Microsoft</nomSociete>
+					<evaluation>430000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2197</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>44109</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Nantes (44)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>44</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Nantes (44)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ASSEH</nom>
+				<prenom>Bassem</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>19/11/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

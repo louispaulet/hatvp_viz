@@ -1,0 +1,933 @@
+<declarations><declaration>
+		<dateDepot>15/07/2022 15:25:47</dateDepot>
+		<uuid>a076c00d-7883-479c-9085-af970be7c7e9</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>Acte d'achat de la moto HARLEY DAVIDSON.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Contrat de pr&#234;t avec annexes - DUPOND-MORETTI Eric - BOULAY Isabelle.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Contrat de pr&#234;t enregistr&#233; - DUPOND-MORETTI Eric - DUPOND-MORETTI Cl&#233;ment.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj03</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>SARL EDM - Proc&#232;s-verbal du 30.09.2021 et bilan de liquidation.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj04</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>SASU DUPOND-MORETTI AVOCAT - D&#233;claration 2065-SD pour 2021.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj05</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>SCI BOETIE XIII - Acte de cession de parts sociales enregistr&#233;.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj06</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Tableau d'amortissement - Pr&#234;t personnel 230K - Remboursement par anticipation.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj07</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Tableau d'amortissement - Pr&#234;t personnel 530K - Remboursement par anticipation.pdf</fileName>
+				<serverFileName>a076c00d-7883-479c-9085-af970be7c7e9_pj08</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>107</superficieBati>
+					<superficieNonBati>0.0284</superficieNonBati>
+					<dateAcquisition>2019</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>587500</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>624880</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 59)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>122</superficieBati>
+					<superficieNonBati>0.0438</superficieNonBati>
+					<dateAcquisition>1970</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>8889</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>90000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Garage</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 59)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>12</superficieBati>
+					<superficieNonBati>0.01</superficieNonBati>
+					<dateAcquisition>2006</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Nue-propri&#233;t&#233;</droitReel>
+					<quotePart>80.0</quotePart>
+					<prixAcquisition>3000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>8000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 20)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>58</superficieBati>
+					<superficieNonBati>0.0126</superficieNonBati>
+					<dateAcquisition>2015</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>140000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>160000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Terres agricoles</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 66)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>0</superficieBati>
+					<superficieNonBati>3.6221</superficieNonBati>
+					<dateAcquisition>2014</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>32500</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>32500</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 06)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>300</superficieBati>
+					<superficieNonBati>0.1943</superficieNonBati>
+					<dateAcquisition>2018</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>1550000</prixAcquisition>
+					<prixTravaux>21000</prixTravaux>
+					<valeurVenale>1580000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Terrain</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 59)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>0</superficieBati>
+					<superficieNonBati>0.7651</superficieNonBati>
+					<dateAcquisition>1981</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>2487</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>2487</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>99.5</capitalDetenu>
+					<autreActif>Aucun</autreActif>
+					<passif>Aucun</passif>
+					<valeur>1990</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>SA du NOUVEAU PORT DE SAINT-JEAN-CAP-FERRAT</denomination>
+					<valeurActuelle>9500</valeurActuelle>
+					<participation>0.18</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<denomination>SASU DUPOND-MORETTI AVOCAT</denomination>
+					<valeurActuelle>25170</valeurActuelle>
+					<participation>100.0</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>03/12/1996</dateSouscription>
+					<valeurRachat>59093</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>08/07/2019</dateSouscription>
+					<valeurRachat>29733</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>20/03/2015</dateSouscription>
+					<valeurRachat>243</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>ALLIANZ VIE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>01/08/1996</dateSouscription>
+					<valeurRachat>19187</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>ORADEA VIE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>13/02/2006</dateSouscription>
+					<valeurRachat>2172</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Monsieur Eric DUPOND-MORETTI</souscripteur>
+					<etablissement>SWISS LIFE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>18/12/2007</dateSouscription>
+					<valeurRachat>62300</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant joint</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>9</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant joint</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI et
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>17</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant joint</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>0</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte sur livret joint</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>9</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte sur livret joint</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>17</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI</titulaire>
+					<valeur>99531</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI</titulaire>
+					<valeur>0</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte sur livret</typeCompte>
+					<etablissement>CR&#201;DIT DU NORD</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI</titulaire>
+					<valeur>496268</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CAISSE FEDERALE DE CREDIT MUTUEL</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Monsieur Eric DUPOND-MORETTI</titulaire>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Montre : ROLEX Daytona</description>
+					<valeur>13000</valeur>
+					<typeEstimation>Expertise</typeEstimation>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Montre : JOURNE Chronom&#232;tre souverain</description>
+					<valeur>25000</valeur>
+					<typeEstimation>Expertise</typeEstimation>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re immatriculation : 2006</commentaire>
+					<nature>Bateau</nature>
+					<marque>APREAMARE SPA</marque>
+					<anneeAchat>2014</anneeAchat>
+					<valeurAchat>26500</valeurAchat>
+					<valeur>26500</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re mise en circulation : 09/04/2013</commentaire>
+					<nature>Moto</nature>
+					<marque>HARLEY DAVIDSON</marque>
+					<anneeAchat>2019</anneeAchat>
+					<valeurAchat>23815</valeurAchat>
+					<valeur>23815</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re mise en circulation : 11/04/2007</commentaire>
+					<nature>Voiture</nature>
+					<marque>BENTLEY</marque>
+					<anneeAchat>2017</anneeAchat>
+					<valeurAchat>83000</valeurAchat>
+					<valeur>55000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re mise en circulation : 20/11/2018</commentaire>
+					<nature>Voiture</nature>
+					<marque>FIAT</marque>
+					<anneeAchat>2019</anneeAchat>
+					<valeurAchat>19500</valeurAchat>
+					<valeur>15000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re mise en circulation : 29/06/2004</commentaire>
+					<nature>Voiture</nature>
+					<marque>TOYOTA</marque>
+					<anneeAchat>2004</anneeAchat>
+					<valeurAchat>20000</valeurAchat>
+					<valeur>3000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Premi&#232;re immatriculation : 12/12/2019</commentaire>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>HARLEY DAVIDSON</marque>
+					<anneeAchat>2020</anneeAchat>
+					<valeurAchat>18000</valeurAchat>
+					<valeur>18000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Cr&#233;ance &#224; l'encontre de 
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<denomination/>
+					<valeur>610477</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Cr&#233;ance &#224; l'encontre de
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<denomination/>
+					<valeur>25000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Compte courant d'associ&#233;</description>
+					<denomination>SASU DUPOND-MORETTI AVOCAT</denomination>
+					<valeur>297977</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Bien d&#233;tenu en indivision &#224; 50/50
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Appartement</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>125000</valeur>
+					<description>Appartement de 3 pi&#232;ces d'une superficie de 37,68m&#178;</description>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Solde au 08/07/2022 = 1 164 &#8364; - soit 582 &#8364; par cotitulaire indivis - avec application du taux de change suivant : 1 CAD = 0,76926 EUR (source Oanda)</commentaire>
+					<nature>Avoirs bancaires</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>582</valeur>
+					<description>Compte courant 
+        [Donn&#233;es non publi&#233;es]
+     d&#233;tenu en indivision avec
+        [Donn&#233;es non publi&#233;es]
+    </description>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Solde au 31/12/2018 = 6 &#8364; (soit 3 &#8364; par co-titulaire indivis)</commentaire>
+					<nature>Avoirs bancaires</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>3</valeur>
+					<description>Compte courant 
+        [Donn&#233;es non publi&#233;es]
+     d&#233;tenu en indivision avec 
+        [Donn&#233;es non publi&#233;es]
+    </description>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>
+        [Donn&#233;es non publi&#233;es]
+    </nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t familial</nature>
+					<datePassif>07/12/2018</datePassif>
+					<objetDette>Acquisition maison 
+        [Donn&#233;es non publi&#233;es]
+    </objetDette>
+					<montant>150000</montant>
+					<duree>180</duree>
+					<restantDu>119179</restantDu>
+					<mensualite>833</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Somme restant &#224; rembourser au 05/06/2022</commentaire>
+					<nomCreancier>CR&#201;DIT DU NORD</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t immobilier</nature>
+					<datePassif>16/11/2018</datePassif>
+					<objetDette>Acquisition maison 
+        [Donn&#233;es non publi&#233;es]
+    </objetDette>
+					<montant>907832</montant>
+					<duree>216</duree>
+					<restantDu>770752</restantDu>
+					<mensualite>4502</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Somme restant &#224; rembourser au 05/06/2022</commentaire>
+					<nomCreancier>CR&#201;DIT DU NORD</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t immobilier</nature>
+					<datePassif>07/05/2019</datePassif>
+					<objetDette>Acquisition appartement 
+        [Donn&#233;es non publi&#233;es]
+    </objetDette>
+					<montant>261106</montant>
+					<duree>240</duree>
+					<restantDu>231170</restantDu>
+					<mensualite>1184</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Somme restant &#224; rembourser au 04/06/2022</commentaire>
+					<nomCreancier>FINANCO</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Cr&#233;dit &#224; la consommation</nature>
+					<datePassif>27/06/2019</datePassif>
+					<objetDette>Acquisition v&#233;hicule FIAT</objetDette>
+					<montant>19500</montant>
+					<duree>60</duree>
+					<restantDu>9333</restantDu>
+					<mensualite>414</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSPFM</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Garde des Sceaux, ministre de la Justice</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/05/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>N&#233;ant</regimeMatrimonial>
+			<regimeMatrimonialComments>PACS</regimeMatrimonialComments>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DUPOND-MORETTI</nom>
+				<prenom>Eric</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/04/1961</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

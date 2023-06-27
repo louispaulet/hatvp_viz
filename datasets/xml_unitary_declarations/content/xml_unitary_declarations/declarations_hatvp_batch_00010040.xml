@@ -1,0 +1,550 @@
+<declarations><declaration>
+		<dateDepot>05/08/2020 15:24:48</dateDepot>
+		<uuid>c0973870-4327-4ea7-b7ba-ddca738abf3d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>VILLE DE SIX FOURS LES PLAGES NET IMPOSABLE</commentaire>
+					<descriptionMandat>MAIRE SIX FOURS LES PLAGES</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12483</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12191</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29265</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>44132</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>36403</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>MAIRE MEMBRE DE LA COMMUNAUTE DE COMMUNE TPM NET IMPOSABLE</commentaire>
+					<descriptionMandat>MAIRE MEMBRE TPM</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22279</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21479</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24095</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23389</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18238</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NET IMPOSABLE</commentaire>
+					<descriptionMandat>ELU ASSEMBLEE NATIONALE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>46052</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>44721</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29423</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus tir&#233;s de la SCP 
+        [Donn&#233;es non publi&#233;es]
+    ont &#233;t&#233; indiqu&#233;s rubrique 4 PARTICIPATIONS FINANCIERES : B&#233;n&#233;fice imposable de soci&#233;t&#233;s soumises &#224; l'imp&#244;t sur le revenu. Il n'y a pas de r&#233;mun&#233;ration de g&#233;rance</commentaire>
+					<nomSociete>SCP
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>LABORATOIRE D'ANALYSES MEDICALES</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus tir&#233;s de la SCI ont &#233;t&#233; indiqu&#233;s rubrique 4 PARTICIPATIONS FINANCIERES : B&#233;n&#233;fice imposable de soci&#233;t&#233;s soumises &#224; l'imp&#244;t sur le revenu. Il n'y a pas de r&#233;mun&#233;ration de g&#233;rance</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>LOCATIONS IMMOBILIERES</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus tir&#233;s de la SCI ont &#233;t&#233; indiqu&#233;s rubrique 4 PARTICIPATIONS FINANCIERES : B&#233;n&#233;fice imposable de soci&#233;t&#233;s soumises &#224; l'imp&#244;t sur le revenu. Il n'y a pas de r&#233;mun&#233;ration de g&#233;rance</commentaire>
+					<nomSociete>SCI
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>LOCATIONS IMMOBILIERES</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus tir&#233;s de la SCI ont &#233;t&#233; indiqu&#233;s rubrique 4 PARTICIPATIONS FINANCIERES : B&#233;n&#233;fice imposable de soci&#233;t&#233;s soumises &#224; l'imp&#244;t sur le revenu. Il n'y a pas de r&#233;mun&#233;ration de g&#233;rance</commentaire>
+					<nomSociete>SCI
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>LOCATIONS IMMOBILIERES</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCP 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1456110</evaluation>
+					<remuneration>BENEFICE 2019: 170318 &#8364; Dont b&#233;n&#233;fice exon&#233;r&#233; ZFU : 15 049 &#8364;</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>3367</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCP 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1456110</evaluation>
+					<remuneration>BENEFICE 2018 : 90 334&#8364; PLUS VALUE NETTE A LONG TERME : 179 282 &#8364;</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>3367</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCP 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1456110</evaluation>
+					<remuneration>BENEFICE 2017 : 222 291&#8364;</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>3367</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCP 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1456110</evaluation>
+					<remuneration>BENEFICE 2016 : 175 845&#8364;</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>3367</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCP 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1456110</evaluation>
+					<remuneration>BENEFICE 2015 : 204 344&#8364;</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>3367</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NOMBRE DE PARTS : 76 -dont M.VIALATTE JEAN SEBASTIEN : 38 PARTS 
+        [Donn&#233;es non publi&#233;es]
+     Les revenus fonciers correspondent aux quote-part cumul&#233;es 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>57851</evaluation>
+					<remuneration>REVENU FONCIER 2019 : 5 382 &#8364; REVENU FONCIER 2018 : 2 932 &#8364; REVENU FONCIER 2017 : 1 720 &#8364; REVENU FONCIER 2016 : 3 396 &#8364; REVENU FONCIER 2015 : 3 962 &#8364;</remuneration>
+					<capitalDetenu>76</capitalDetenu>
+					<nombreParts>76</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NOMBRE DE PARTS : 342 -dont M.VIALATTE JEAN SEBASTIEN : 171 PARTS
+        [Donn&#233;es non publi&#233;es]
+     Les revenus fonciers correspondent aux quote-part cumul&#233;es
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>230450</evaluation>
+					<remuneration>REVENU FONCIER 2019 : 17 034 &#8364; REVENU FONCIER 2018 : 17 016 &#8364; REVENU FONCIER 2017 : 17 034 &#8364; REVENU FONCIER 2016 : 17 026 &#8364; REVENU FONCIER 2015 : 17 076 &#8364;</remuneration>
+					<capitalDetenu>76</capitalDetenu>
+					<nombreParts>342</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NOMBRE DE PARTS : 4 500 -dont M.VIALATTE JEAN SEBASTIEN : 2 250 PARTS 
+        [Donn&#233;es non publi&#233;es]
+     Les revenus fonciers correspondent aux quote-part cumul&#233;es 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>247243</evaluation>
+					<remuneration>REVENU FONCIER 2019 : 17 940 &#8364; REVENU FONCIER 2018 : 17 907 &#8364; REVENU FONCIER 2017 : 17 899 &#8364; REVENU FONCIER 2016 : 17 874 &#8364; REVENU FONCIER 2015 : 17 933 &#8364;</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>4500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>PEA HSBC</nomSociete>
+					<evaluation>146992</evaluation>
+					<remuneration>2019 : 43 &#8364; 2018 : 79 &#8364; 2017 : 74 &#8364; 2016 : 68 &#8364; 2015 : 53 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>COMPTE TITRES CIC</nomSociete>
+					<evaluation>39108</evaluation>
+					<remuneration>NEANT</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>83129</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Six-Fours-les-Plages (83)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>MAIRE</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Six-Fours-les-Plages (83)/MAIRE</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>VIALATTE</nom>
+				<prenom>Jean-S&#233;bastien</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/01/1951</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

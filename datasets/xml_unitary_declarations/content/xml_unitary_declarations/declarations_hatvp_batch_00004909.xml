@@ -1,0 +1,540 @@
+<declarations><declaration>
+		<dateDepot>28/10/2020 20:08:49</dateDepot>
+		<uuid>d2cf7fc7-caf0-4484-8434-2ce091f252e7</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Statut sur quatre mois (janvier-mi-mai) jusqu'&#224; liquidation de la retraite</commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>Consultant en BNC</nomEmployeur>
+					<description>Strat&#233;gie RSE d'entreprise</description>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>05/2014</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Intervention &#224; titre accessoire (du fait de mon statut de retrait&#233;e) soit un module de 35H/an Activit&#233; termin&#233;e en f&#233;vrier 2017</commentaire>
+					<conservee>false</conservee>
+					<description>Formation continue</description>
+					<employeur>IRTS Aquitaine</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1450</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>150</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>01/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Intervention &#224; titre accessoire (du fait de mon statut de retrait&#233;e)- module d'une vingtaine heures Activit&#233; termin&#233;e non renouvel&#233;e</commentaire>
+					<conservee>false</conservee>
+					<description>Formation continue</description>
+					<employeur>KEDGE Business School</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1200</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>502</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>02/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Licenciement d&#233;but janvier 2014</commentaire>
+					<conservee>false</conservee>
+					<description>Enseignant chercheur Bordeaux Business School</description>
+					<employeur>CCI Bordeaux</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>73270</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>69152</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>79283</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1487</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>01/2014</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>Historien de l'architecture</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233; nette compte tenu de la retenue &#224; la source pour les trois mandats indemnis&#233;s- Retenue exerc&#233;e par la R&#233;gion</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re R&#233;gionale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23730</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27&#8239;751</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>29&#8239;720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23&#8239;073</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;451</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>RAS au titre des mandats locaux soustraite sur cette indemnit&#233; jusqu'&#224; &#233;lection au Conseil R&#233;gional. Puis RAS soustraite sur le mandat r&#233;gional</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire de NOAILLAN</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12220</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10093</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11625</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Pr&#233;sidente Communaut&#233; de Communes SUD GIRONDE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>5376</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5376</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5376</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Renoncement &#224; indemnit&#233; en janvier 2016 suite &#233;lection r&#233;gionale.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Pr&#233;sidente Syndicat intercommunal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1740</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; de g&#233;rante non r&#233;mun&#233;r&#233;e</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Agence IMMO-Fitou</nomSociete>
+					<activite>agence immobili&#232;re</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Bureau - Fonction b&#233;n&#233;vole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Fondation Entreprise et Solidarit&#233;</nomSociete>
+					<activite>Soutien &#224; l'entrepreneuriat</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d'administration au titre du coll&#232;ge &#233;lus hors m&#233;tropole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>AQUITANIS Office public de l'Habitat de Bordeaux M&#233;tropole</nomSociete>
+					<activite>Bailleur social</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SARL ESPACE IMMO</nomSociete>
+					<evaluation>2550</evaluation>
+					<remuneration>00</remuneration>
+					<capitalDetenu>55</capitalDetenu>
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Prise de participation en janvier 2016 dans le cadre d'une augmentation de capital</commentaire>
+					<nomSociete>Aqui ! Presse</nomSociete>
+					<evaluation>2000</evaluation>
+					<remuneration>00</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>200</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Recrutement au 2/11/2017</commentaire>
+					<nom>MARTIN Xavier</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>FEVRIER In&#232;s</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Recrutement au 25/11/2017 
+        [Donn&#233;es non publi&#233;es]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>SIM Somaly</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Collaboratrice en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>33</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Gironde(33)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Gironde(33)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>HARRIBEY</nom>
+				<prenom>Laurence</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>08/02/1953</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

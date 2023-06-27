@@ -1,0 +1,365 @@
+<declarations><declaration>
+		<dateDepot>02/03/2020 17:58:24</dateDepot>
+		<uuid>5c895cb0-0077-4ef9-98f5-a040996042f3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai donn&#233; ma d&#233;mission du Cabinet Pierre Marchal le 06/10/2017 &#224; la suite de mon &#233;lection au S&#233;nat.</commentaire>
+					<conservee>false</conservee>
+					<description>Comptable</description>
+					<employeur>Cabinet Pierre Marchal</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13693</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13961</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>fin activit&#233;</commentaire>
+					<conservee>false</conservee>
+					<description>Manager</description>
+					<employeur>Cabinet Fran&#231;ois Cattin</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>6700</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13023</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1580</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2013</dateDebut>
+					<dateFin>02/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>La Poste</employeurConjoint>
+					<activiteProf>Cadre</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>Association des Maires du Jura</nomStructure>
+					<descriptionActivite>Pr&#233;sidente b&#233;n&#233;vole de 2006 &#224; 05/2015</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En raison de la loi sur le non cumul, j'ai donn&#233; ma d&#233;mission de la fonction de Vice-Pr&#233;sidente le 16/10/2017. Je reste conseill&#232;re d&#233;partementale.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sidente du Conseil D&#233;partemental du Jura</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12052</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21709</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13938</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je co-pr&#233;side le Comit&#233; de Massif avec Mme la pr&#233;f&#232;te de R&#233;gion et pr&#233;side la Commission Permanente de ce Comit&#233; de Massif du Jura.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Comit&#233; de Massif du Jura</nomSociete>
+					<activite>Co pr&#233;sidente avec Mme la Pr&#233;f&#232;te de R&#233;gion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>Association des Maires du Jura</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2011</dateDebut>
+					<dateFin>05/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En raison de la loi sur le non cumul, j'ai donn&#233; ma d&#233;mission de la fonction de Vice-Pr&#233;sidente le 16/10/2017. Je reste conseill&#232;re d&#233;partementale.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conseil D&#233;partemental du Jura</nomSociete>
+					<activite>Vice-Pr&#233;sidente du Conseil D&#233;partemental du Jura</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12052</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21709</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13938</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>RUER Paul</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire dans le Jura &#224; temps complet.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>DE GOUVION SAINT CYR Thu Van</nom>
+					<employeur>S&#233;nateur Panunzi Jean-Jacques &#224; 1/2 temps.</employeur>
+					<descriptionActivite>Collaboratrice parlementaire au S&#233;nat &#224; 1/2 temps.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ARTIGA Lydie</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire dans le Jura &#224; 1/2 temps du 25/04/2018 au 31/10/2018. Collaboratrice parlementaire &#224; 0,7 ETP depuis le 01/11/2018.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Changement du temps de travail de ma collaboratrice Lydie Artiga au 01/11/2018 (passage de 0,5 &#224; 0,7 ETP).</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>39</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Jura(39)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Jura(39)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>VERMEILLET</nom>
+				<prenom>SYLVIE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>10/06/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

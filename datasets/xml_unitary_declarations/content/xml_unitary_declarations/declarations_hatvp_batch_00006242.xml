@@ -1,0 +1,339 @@
+<declarations><declaration>
+		<dateDepot>17/03/2020 13:03:09</dateDepot>
+		<uuid>39879c56-75be-4f3a-9411-485e3d201705</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Duplex de trois pi&#232;ces principales avec terrasse d&#233;tenu en indivision par moiti&#233; 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>78</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2005</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>375650</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>902815</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Parts de SCPI d&#233;tenues en indivision par moiti&#233; 
+        [Donn&#233;es non publi&#233;es]
+    pour une montant total de 193875 euros Acquisition avec cr&#233;dit adoss&#233; de 150000 euros</commentaire>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+     Anne LEVADE</titulaire>
+					<etablissement>HSBC</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>96937</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>LEVADE Anne</souscripteur>
+					<etablissement>AVIVA Retraite</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>21/12/2017</dateSouscription>
+					<valeurRachat>23542</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Soci&#233;t&#233; G&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    LEVADE Anne</titulaire>
+					<valeur>9606</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Caisse d'&#233;pargne
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    LEVADE Anne</titulaire>
+					<valeur>59</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>Caisse d'&#233;pargne
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    LEVADE Anne</titulaire>
+					<valeur>2475</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>HSBC</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    Anne LEVADE</titulaire>
+					<valeur>-2814</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Acquisition avec pr&#234;t</commentaire>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>BMW</marque>
+					<anneeAchat>2017</anneeAchat>
+					<valeurAchat>40000</valeurAchat>
+					<valeur>32164</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#234;t commun &#224; part &#233;gale 
+        [Donn&#233;es non publi&#233;es]
+     d'un montant total initial de 370902 euros; 228217 euros restant &#224; rembourser en totalit&#233;</commentaire>
+					<nomCreancier>Soci&#233;t&#233; G&#233;n&#233;rale</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t immobilier</nature>
+					<datePassif>28/02/2005</datePassif>
+					<objetDette>Acquisition immobili&#232;re</objetDette>
+					<montant>185451</montant>
+					<duree>240</duree>
+					<restantDu>114108</restantDu>
+					<mensualite>1977</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#234;t commun &#224; part &#233;gale 
+        [Donn&#233;es non publi&#233;es]
+     d'un montant total initial de 150000 euros; 119651 euros restant &#224; rembourser en totalit&#233;</commentaire>
+					<nomCreancier>HSBC</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t immobilier</nature>
+					<datePassif>18/12/2017</datePassif>
+					<objetDette>Acquisition parts SCPI Elys&#233;e Pierre</objetDette>
+					<montant>75000</montant>
+					<duree>123</duree>
+					<restantDu>59825</restantDu>
+					<mensualite>680</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>Caisse d'&#233;pargne
+        [Donn&#233;es non publi&#233;es]
+    </nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t consommation</nature>
+					<datePassif>21/04/2017</datePassif>
+					<objetDette>Acquisition v&#233;hicule</objetDette>
+					<montant>42720</montant>
+					<duree>60</duree>
+					<restantDu>18012</restantDu>
+					<mensualite>712</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration initiale de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d&#8217;une autorit&#233; administrative ind&#233;pendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d&#8217;une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorit&#233;s administratives ind&#233;pendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>membre</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)/membre</qualiteDeclarantForPDF>
+			<dateDebutMandat>29/01/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>S&#233;paration de biens</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>LEVADE</nom>
+				<prenom>Anne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>10/02/1970</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

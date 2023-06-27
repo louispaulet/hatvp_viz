@@ -1,0 +1,377 @@
+<declarations><declaration>
+		<dateDepot>21/09/2022 11:01:25</dateDepot>
+		<uuid>6d42aa5c-959b-4e8d-bf8b-6975b3891db8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ARRET DE MON ACTIVITE PROFESSIONNELLE AU 31.10.2020</commentaire>
+					<description>RESPONSABLE ADMINISTRATIVE</description>
+					<employeur>OMAG SUD AGRO PERRET</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32&#8239;900</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33&#8239;973</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34&#8239;883</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36&#8239;155</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>38&#8239;037</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>39&#8239;710</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>AUTO ENTREPRENEUR</employeurConjoint>
+					<activiteProf>NETTOYAGE BATIMENT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour l'ann&#233;e 2021, au moment de la d&#233;claration, seulement le mois de janvier et f&#233;vrier 2021 ont &#233;t&#233; comptabilis&#233;s.</commentaire>
+					<descriptionMandat>Pr&#233;sidente d'une Communaut&#233; d'Agglom&#233;ration</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13&#8239;153</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;530</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour l'ann&#233;e 2021, seulement le mois de janvier et f&#233;vrier ont &#233;t&#233; comptabilis&#233;s.</commentaire>
+					<descriptionMandat>Maire d'une commune</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;697</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;979</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint au Maire (Commune)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3&#8239;807</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3&#8239;677</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3&#8239;904</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3&#8239;681</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3&#8239;697</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;493</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour l'ann&#233;e 2021, seulement le mois de janvier et f&#233;vrier ont &#233;t&#233; comptabilis&#233;s.</commentaire>
+					<descriptionMandat>Conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23&#8239;903</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>32&#8239;717</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32&#8239;906</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>32&#8239;403</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22&#8239;015</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24&#8239;171</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;270</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ces fonctions ne sont pas r&#233;mun&#233;r&#233;es, mandat prenant fin en 2025</commentaire>
+					<nomSociete>P&#244;le d'Equilibre territorial et Rural du Pays d'Arles</nomSociete>
+					<activite>Repr&#233;sentante de l'EPCI (Terre de Provence) au sein du Conseil syndical du PETR</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>09/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agit de la r&#233;mun&#233;ration de jetons de pr&#233;sence en cas de participation.</commentaire>
+					<nomSociete>OPH 13 Habitat</nomSociete>
+					<activite>Administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>301</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>301</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>75</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>527</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>301</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>381,62 = ann&#233;e 2020</commentaire>
+					<nomSociete>OMAG-SUD AGRO-PERRET</nomSociete>
+					<evaluation>5238</evaluation>
+					<remuneration>381,62</remuneration>
+					<capitalDetenu/>
+					<nombreParts>73</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>13</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Bouches-du-Rh&#244;ne (13)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>93</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice-pr&#233;sidente titulaire d'une d&#233;l&#233;gation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Bouches-du-Rh&#244;ne (13)/Vice-pr&#233;sidente titulaire d'une d&#233;l&#233;gation</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>CHABAUD</nom>
+				<prenom>Corinne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/10/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

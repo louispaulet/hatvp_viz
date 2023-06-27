@@ -1,0 +1,408 @@
+<declarations><declaration>
+		<dateDepot>04/10/2019 18:21:33</dateDepot>
+		<uuid>b2495bc9-4c4e-4d66-81a4-453206455455</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>m&#233;decin g&#233;n&#233;raliste install&#233; depuis le 1er octobre 1978 en 2012 d&#233;ficit de4333 euros en retraite depuis le 01/04/2016</commentaire>
+					<conservee>false</conservee>
+					<description>Medecin g&#233;n&#233;raliste</description>
+					<employeur>activit&#233; lib&#233;rale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>34632</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>20553</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>33816</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>16945</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14321</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>04/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>n&#233;ant</employeurConjoint>
+					<activiteProf>retrait&#233;e</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>r&#233;mun&#233;ration 2017 au 01/11/2017 Les sommes d&#233;clar&#233;es de 2011 &#224; 2016 correspondent au salaire net fiscal relev&#233; sur les fiches de paie</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>S&#233;nateur de la Marne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>12556</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>50095</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>50095</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50037</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54199</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2011</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeur 2017 au 01/11/2017</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller D&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>44876</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>21182</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>22006</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>22631</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21983</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>27810</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>20134</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Fondation du site Paris-Reims</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2011</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il y a 412 parts dans la SCM, la part &#233;tant &#233;valu&#233;e &#224; 15,24 le 31/12/1996</commentaire>
+					<nomSociete>SCM du Champ Benoist</nomSociete>
+					<evaluation>2088</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>137</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2168 euros per&#231;us au titre des loyers en 2016 2477 euros en 2015</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>86000</evaluation>
+					<remuneration>2168 euros en 2016</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>400</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur au 26/10/2017</commentaire>
+					<nomSociete>Air Liquide</nomSociete>
+					<evaluation>10815</evaluation>
+					<remuneration>210.60 euros en 2016</remuneration>
+					<capitalDetenu/>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur au 26/10/2017</commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>822</evaluation>
+					<remuneration>74.16 euros en 2016</remuneration>
+					<capitalDetenu/>
+					<nombreParts>72</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur au 26/10/2017</commentaire>
+					<nomSociete>BNP Paribas</nomSociete>
+					<evaluation>3762</evaluation>
+					<remuneration>0 en 2016</remuneration>
+					<capitalDetenu/>
+					<nombreParts>26</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur au 26/10/2017</commentaire>
+					<nomSociete>CCA Nord-Est</nomSociete>
+					<evaluation>1831</evaluation>
+					<remuneration>21 euros en 2016</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BACH-TOUSSAINT Anne-Sophie</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>8. Nelly Munier en retraite au 01/01/2019 a &#233;t&#233; supprim&#233;e de la liste des collaborateurs parlementaires.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>51</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Marne(51)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Marne(51)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SAVARY</nom>
+				<prenom>Ren&#233;-Paul</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>03/01/1953</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

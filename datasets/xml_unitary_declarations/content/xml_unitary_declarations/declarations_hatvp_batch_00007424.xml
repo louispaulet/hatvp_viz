@@ -1,0 +1,264 @@
+<declarations><declaration>
+		<dateDepot>13/11/2019 10:22:23</dateDepot>
+		<uuid>2bc43748-e0e6-4b24-abcc-2db882987840</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis les &#233;lections de Mai 2019 je ne suis plus G&#233;rante salari&#233; mais uniquement g&#233;rante minoritaire en tant qu actionnaire.</commentaire>
+					<description>Gerante</description>
+					<employeur>Nengone Croisieres</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1350000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2550000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2018</dateDebut>
+					<dateFin>04/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Commune de Mar&#233;</employeurConjoint>
+					<activiteProf>Pompier</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Toujours Pr&#233;sidente &#224; ce jour sur cette Activit&#233; b&#233;n&#233;vole</commentaire>
+					<nomStructure>Association Syndicat d Initiative Nengone</nomStructure>
+					<descriptionActivite>Pr&#233;sidente</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Association Syndicat d&#8217;Initiative Nengone</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je n exerce plus de fonction salariale depuis les &#233;lections solde a juin 2019.Uniquement g&#233;rante minoritaire.</commentaire>
+					<nomSociete>Nengone Croisieres</nomSociete>
+					<activite>G&#233;rante salari&#233;e</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1350000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2550000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2018</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Actuellement pr&#233;sidente de l association. Mois approximatif. Pas de r&#233;mun&#233;ration</commentaire>
+					<nomSociete>Association Syndicat d Initiative Nengone</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ne suis plus g&#233;rante salari&#233;e depuis mai 2019. Uniquement g&#233;rante minoritaire</commentaire>
+					<nomSociete>Nengone Croisieres</nomSociete>
+					<evaluation>490</evaluation>
+					<remuneration>G&#233;rante salari&#233;e450 000XPF Net</remuneration>
+					<capitalDetenu>49</capitalDetenu>
+					<nombreParts>49</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivit&#233; &#224; statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivit&#233; &#224; statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivit&#233;</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSNC</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivit&#233;s &#224; statut particulier</nomListeOrgane>
+				<labelOrgane>Assembl&#233;e de Province de Nouvelle-Cal&#233;donie</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Conseillere</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Collectivit&#233; &#224; statut particulier/Assembl&#233;e de Province de Nouvelle-Cal&#233;donie/Conseillere</qualiteDeclarantForPDF>
+			<dateDebutMandat>12/05/2019</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Naisseline</nom>
+				<prenom>Omayra</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>17/03/1986</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

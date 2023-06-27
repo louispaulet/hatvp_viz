@@ -1,0 +1,189 @@
+<declarations><declaration>
+		<dateDepot>10/12/2022 17:08:10</dateDepot>
+		<uuid>bdf12e8f-b401-4d0c-99ae-df145cfdeabd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;part en disponibilit&#233; 
+        [Donn&#233;es non publi&#233;es]
+     le 08/02/2018 jusqu'en juillet 2020</commentaire>
+					<description>directrice de la formation et de l'apprentissage</description>
+					<employeur>R&#233;gion Auvergne Rh&#244;nes Alpes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24058</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>53328</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54173</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5559</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;mission le 29 06 2020</commentaire>
+					<nomStructure>association d'&#233;ducation populaire : Maison de l'enfance du 7&#232;</nomStructure>
+					<descriptionActivite>Membre du CA &#224; partir d'avril 2018 puis vice-pr&#233;sidente d'avril 2019 &#224; juin 2020</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A ma fonction d'adjointe aux finances et commande publique, s'est ajout&#233;e depuis septembre 2021 la d&#233;l&#233;gation "grands &#233;v&#232;nements" suite &#224; la d&#233;mission de l'adjointe en charge du tourisme et des grands &#233;v&#232;nements. J'"ai travaill&#233; sur les grands &#233;v&#232;nements festifs et sportifs pendant un an. Un arr&#234;t&#233; pris en octobre 2022 confie les &#233;v&#232;nements sportifs &#224; l'adjointe aux sports.</commentaire>
+					<descriptionMandat>Adjointe au maire aux grands &#233;v&#232;nements</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69000</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Lyon (69)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>69</organeParent>
+			</organe>
+			<qualiteDeclarant>ADJOINT AU MAIRE EN CHARGE DES FINANCES, COMMANDE PUBLIQUE et GRANDS EVENEMENTS</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Lyon (69)/ADJOINT AU MAIRE EN CHARGE DES FINANCES, COMMANDE PUBLIQUE et GRANDS EVENEMENTS</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>H&#233;nocque</nom>
+				<prenom>Audrey</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>04/03/1981</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

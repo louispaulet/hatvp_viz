@@ -1,0 +1,321 @@
+<declarations><declaration>
+		<dateDepot>02/07/2022 17:21:24</dateDepot>
+		<uuid>6c22c722-6280-41a1-8dc9-fe9b85f4c1fb</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mise en disponibilit&#233; depuis juin 2017 En retraite depuis octobre 2018</commentaire>
+					<conservee>true</conservee>
+					<description>Fonctionnaire de cat&#233;gorie A</description>
+					<employeur>CHU H&#244;pitaux de Rouen</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>40496</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>44148</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>46719</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>47064</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>51518</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26708</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d'indemnit&#233;s : conseill&#232;re municipale sur liste d'opposition D&#233;mission en mai 2017 sur &#224; investiture pour les l&#233;gislatives</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Alban BOURGUIGNON</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire : Gestion cabinet et activit&#233;s de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Matthias VAZQUEZ</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire : Gestion du cabinet et des activit&#233;s &#224; l'assembl&#233;e nationale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de contrat le 15 aout 2021 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>B&#233;reng&#232;re BROUCKAERT</nom>
+					<employeur/>
+					<descriptionActivite>Secr&#233;taire cabinet de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part le 30/06/2018</commentaire>
+					<nom>Pascal MALLET</nom>
+					<employeur/>
+					<descriptionActivite>CDD Travaux sp&#233;cifiques sur finances locales des communes de la circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part 22/10/2018</commentaire>
+					<nom>Cyprien DEMAEGHT</nom>
+					<employeur/>
+					<descriptionActivite>CCD Travaux sp&#233;cifiques sur mises en place d'outils informatiques et de communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part 31/12/2019</commentaire>
+					<nom>Philippe MASSON</nom>
+					<employeur>Education nationale</employeur>
+					<descriptionActivite>Gestion des activit&#233;s du cabinet de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part le 30/09/2018</commentaire>
+					<nom>Odile MOTTET</nom>
+					<employeur/>
+					<descriptionActivite>Mise en place et gestion des activit&#233;s du cabinet de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part 31/07/2020</commentaire>
+					<nom>Lucie LONCLE DUDA</nom>
+					<employeur/>
+					<descriptionActivite>Gestion des activit&#233;s &#224; l'assembl&#233;e nationale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part 13/01/2021</commentaire>
+					<nom>H&#233;l&#232;ne Bourguignon,</nom>
+					<employeur>Etudiante</employeur>
+					<descriptionActivite>CDD pour travaux ponctuels de mise sous plis CDD 04/08/20210 au 25/08/2021</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;part 20/01/2021 pour le CDD CDI &#224; partir du 01/01/2022</commentaire>
+					<nom>Morgane DUCHESNE</nom>
+					<employeur>Soci&#233;t&#233; Voxens 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>CDD Travaux pontuels de mise sous plis CDI temps partiel secr&#233;tariat du cabinet de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;part le 31/05/2022: 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Matthieu AMELOT</nom>
+					<employeur>Autre employeur Formaspeack - agence de Rouen</employeur>
+					<descriptionActivite>Collaborteur parlementaire : Gestion du cabinet et des activit&#233;s de circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;but du contrat le 22/08/2022</commentaire>
+					<nom>Jeremy LEPESQUEUR</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlmentaire : Gestion des demandes du cabinet et activit&#233;s de circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>76</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-Maritime(76)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Seine-Maritime(76)</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>vidal</nom>
+				<prenom>annie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>17/09/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

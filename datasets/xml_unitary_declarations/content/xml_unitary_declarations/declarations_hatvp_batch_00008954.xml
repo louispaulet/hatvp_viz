@@ -1,0 +1,294 @@
+<declarations><declaration>
+		<dateDepot>12/09/2021 22:50:08</dateDepot>
+		<uuid>84a991a5-4e2f-4005-aa93-c3ee71fef3c9</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Collaborateur de Cabinet, puis collaborateur de groupe politique</description>
+					<employeur>Conseil d&#233;partemental de la C&#244;te-d'Or</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#8239;134</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>38&#8239;069</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>37&#8239;091</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Collaborateur de Cabinet</description>
+					<employeur>Mairie du Bourget</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>52&#8239;009</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>51&#8239;833</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15&#8239;591</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>04/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Cabinet Guerrier Assurances</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+     employ&#233;e d'un Cabinet d'assurance.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller m&#233;tropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>204</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2&#8239;565</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;519</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1&#8239;360</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;652</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;547</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Jusqu'en f&#233;vrier 2019 en qualit&#233; d'adjoint au Maire; &#224; partir de f&#233;vrier 2020, en qualit&#233; de MAIRE</commentaire>
+					<descriptionMandat>Conseiller municipal de Chevigny</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9&#8239;611</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>9&#8239;981</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>9&#8239;799</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18&#8239;576</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>19&#8239;775</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14&#8239;186</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Centre communal d'actions sociales de Chevigny-Saint-Sauveur</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>21</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>C&#244;te-d'Or (21)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>27</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/C&#244;te-d'Or (21)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>RUET</nom>
+				<prenom>Guillaume</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/06/1983</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

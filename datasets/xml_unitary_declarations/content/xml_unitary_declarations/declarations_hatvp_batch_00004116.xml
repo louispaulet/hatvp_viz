@@ -1,0 +1,185 @@
+<declarations><declaration>
+		<dateDepot>27/08/2020 21:01:46</dateDepot>
+		<uuid>3775a2b4-b8cd-49b4-9126-eef85dcc5a81</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'ann&#233;e 2020 est une &#233;valuation au 31 aout</commentaire>
+					<description>Professeur Histoire G&#233;ographie</description>
+					<employeur>Minist&#232;re &#233;ducation nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>30291</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32077</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28787</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27946</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>31208</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3139</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Chef d'entreprise</employeurConjoint>
+					<activiteProf>Entreprise de consulting en sant&#233; et biotechnologies + entreprise de textile sp&#233;cialis&#233;e pour les diab&#233;tiques</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Si besoin, je peux ne plus me syndiquer.J'ai d&#233;missionn&#233; de toutes responsabilit&#233;s ou activit&#233; syndicale en d&#233;cembre 2019</commentaire>
+					<nomStructure>Adh&#233;rent &#224; un syndicat d'enseignant (SNES-FSU)</nomStructure>
+					<descriptionActivite>Secr&#233;taire G&#233;n&#233;ral de la FSU des Bouches du Rh&#244;ne pendant 3 ans.Mais aucune responsabilit&#233; depuis d&#233;cembre 2019</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>13000</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Marseille (13)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjoint titulaire (plan &#233;coles et b&#226;ti scolaire)</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Marseille (13)/Adjoint titulaire (plan &#233;coles et b&#226;ti scolaire)</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GANOZZI</nom>
+				<prenom>Pierre-Marie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>27/02/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

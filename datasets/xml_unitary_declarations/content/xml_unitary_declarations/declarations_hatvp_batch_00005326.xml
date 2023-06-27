@@ -1,0 +1,384 @@
+<declarations><declaration>
+		<dateDepot>16/08/2022 16:17:17</dateDepot>
+		<uuid>1a66aab2-244f-4daa-a674-f6f100231138</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>non</commentaire>
+					<description>Attach&#233;e parlementaire</description>
+					<employeur>D&#233;put&#233; Joaquim Pueyo</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13046</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12194</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12674</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8598</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6924</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6641</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5768</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La somme de 2021 correspond &#224; la prime annuelle de mon employeur sur l' activit&#233; 2020.</commentaire>
+					<description>Psychologue</description>
+					<employeur>Centre psychoth&#233;rapique de l' Orne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>23752</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32591</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33037</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>38416</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>41497</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>41585</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>29&#160;260</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#160;160</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>m&#233;decin g&#233;n&#233;raliste en activit&#233; lib&#233;rale et en partie hospitali&#232;re
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Association " Le champ du possible" Association de valorisation du patrimoine naturel et architectural</nomStructure>
+					<descriptionActivite>secr&#233;taire adjointe de l' association charg&#233;e de la communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>AReDF : Association d'accueil de r&#233;fugi&#233;s en Domfrontais et la Fert&#233;-Mac&#233;</nomStructure>
+					<descriptionActivite>Membre du CA</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;lue conseill&#232;re municipale pour le mandat 2020-2026</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re municipale de Champsecret</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#233;put&#233;e de l'Orne 1&#232;re circonscription</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25&#160;055</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#160;676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>41&#160;433</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Cr&#233;dit agricole</nomSociete>
+					<evaluation>214</evaluation>
+					<remuneration>1,85</remuneration>
+					<capitalDetenu/>
+					<nombreParts>140</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>
+        [Donn&#233;es non publi&#233;es]
+    </nomOrganisationConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Pech Anna</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233; parlementaire charg&#233; du travail l&#233;gislatif , de la logistique et de la communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gallerand Catherine</nom>
+					<employeur>Communaut&#233; Urbaine d' Alen&#231;on et ville d' Alen&#231;on</employeur>
+					<descriptionActivite>Attach&#233;e parlementaire charg&#233;e de la logistique ( agenda , communication )</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Travaille par ailleurs sur le projet d' ouverture d' une auberge de jeunesse.</commentaire>
+					<nom>Poussier M&#233;lanie</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233;e principalement charg&#233;e des questions relatives &#224; la circonscription et de la logistique</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>61</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Orne(61)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Orne(61)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Jourdan</nom>
+				<prenom>Chantal</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>02/09/1958</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

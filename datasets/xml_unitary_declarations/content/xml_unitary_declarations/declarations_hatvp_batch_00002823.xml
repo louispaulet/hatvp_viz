@@ -1,0 +1,333 @@
+<declarations><declaration>
+		<dateDepot>12/11/2017 11:25:08</dateDepot>
+		<uuid>2587213e-5786-434a-aa3f-02074d30edee</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>dadeas conseil.pdf</fileName>
+				<serverFileName>2587213e-5786-434a-aa3f-02074d30edee_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>indemnIit&#233;s  elu.pdf</fileName>
+				<serverFileName>2587213e-5786-434a-aa3f-02074d30edee_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SOCIETE DE CONSEIL CREEE LE 16/09/2017</commentaire>
+					<conservee>true</conservee>
+					<nomEmployeur>DADEAS CONSEIL</nomEmployeur>
+					<description>GERANT</description>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>11/2017</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NON, MANDAT TERMIN&#201;.DE 2012 A2016 LES MONTANTS INDIQUES  SONT LES MONTANTS NETS IMPOSABLES .EN 2017 LES INDEMNITES PERCUES JUSQU'A LA FIN DU MANDAT LE 21062017.</commentaire>
+					<conservee>false</conservee>
+					<description>DEPUTE</description>
+					<employeur>ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>53478</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>55010</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>54783</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>54228</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>54245</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32448</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ACTUELLEMENT AU CHOMAGE ET ELUE LOCALE</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>CHOMAGE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CES MANDATS  , EN COURS, SERONT ARRETES FIN 2017 OU DEBUT 2018 EN APPLICATION DE LA LOI SUR LE CUMUL DES MANDATS .LES REMUINERATIONS INDIQUEES SONT CELLES DE LA DECLARATION FISCALE DE RETENUE A LA SOURCE POUR 2014 2015 ET 2016.ET LE NET PERCU POUR 2017 COMPTE TENUE DE LA SUPPRESSION DE LA RETENUE A LA SOURCE .SOIT DU 1/01/2017 AU 31/10/2017 :pour le sivom :3251&#8364;pour la mairie:  14414&#8364;pour la MEL  :  12594&#8364;soit un total percu en 2017 de :30259&#8364;.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE DE LAMBERSART;PRESIDENT DE SIVOM ALLIANCE NORD OUEST ;VICE PRESIDENT DE LA MEL .</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>19449</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20097</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20047</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>30259</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>MANDAT EN COURS , QUI SERA ARRETE FIN 2017 OU DEBUT 2018, EN APPLICATION DE LA LOI SUR LE CUMUL DES MANDATS ;</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>VICE PRESIDENT DU SCOT DE L ARRONDISSEMENT DE LILLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>activite b&#233;nevole de pr&#233;sident d'association li&#233;e &#224; mon mandat de conseiller communautaire &#224; la METROPOLE EUROPEENNE DE LILLE</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>AGENCE DE DEVELOPPEMENT ET D'URBANISME DE LILLE METROPOLE</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SOCIETE CREEE EN SEPTEMBRE 2017</commentaire>
+					<nomSociete>DADEAS</nomSociete>
+					<evaluation>600</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>60</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A TEMPS PARTIEL AU SENAT ET A TEMPS PARTIEL A LA MAIRIE DE LAMBERSART</commentaire>
+					<nom>LEBLANC SEBASTIEN</nom>
+					<employeur>MAIRIE DE LAMBERSART</employeur>
+					<descriptionActivite>COLLABORATEUR DE CABINET DU MAIRE.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A MI TEMPS AU SENAT ET A TEMPS PARTIEL A L' ADULM</commentaire>
+					<nom>DESQUESNE FRANCOIS</nom>
+					<employeur>AGENCE DE DEVELOPPEMENT ET D'URBANISME DE LILLE METROPOLE(ADULM)</employeur>
+					<descriptionActivite>AGENT AUX SERVICES GENERAUX  A TEMPS PARTIEL .</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Nord(59)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Nord(59)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DAUBRESSE</nom>
+				<prenom>MARC</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>01/08/1953</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

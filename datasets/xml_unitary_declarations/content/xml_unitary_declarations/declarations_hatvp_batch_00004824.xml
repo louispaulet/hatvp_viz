@@ -1,0 +1,575 @@
+<declarations><declaration>
+		<dateDepot>18/07/2022 16:39:51</dateDepot>
+		<uuid>a09bfc25-8900-448a-8bf0-7759db1ffbb0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>ASSISTANT PARLEMENTAIRE</description>
+					<employeur>PARLEMENT EUROPEEN</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4&#8239;990</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;859</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>41&#8239;493</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>21&#8239;023</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Emploi saisonnier/ estival durant les vacances &#233;tudiantes.</commentaire>
+					<description>SAISONNIER AGRICOLE</description>
+					<employeur>SCARA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2&#8239;500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>CABINET DE NOTARIAT 
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>CLERC DE NOTAIRE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis dipl&#244;m&#233; du JAT2 &#224; la FFT (Dipl&#244;me de juge arbitre de tournoi) et joue au tennis comme amateur.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>TENNIS CLUB CHAMPENOIS</nomStructure>
+					<descriptionActivite>MEMBRE DU BUREAU</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour 2022, d&#233;claration de revenus jusqu'au 31 Mai 2022 (ne disposant pas des autres fiches d'indemnit&#233;s) Je suis touch&#233; par loi de cumul des mandats. Je vais perdre mon mandat le plus ancien, soit conseiller municipal de Troyes (et de fait conseiller communautaire de Troyes Champagne Metropole)</commentaire>
+					<descriptionMandat>CONSEILLER MUNICIPAL DE TROYES</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>526</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;321</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;134</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;604</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1&#8239;118</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2018</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour 2022, d&#233;claration de revenus jusqu'au 31 Mai 2022 (ne disposant pas des autres fiches d'indemnit&#233;s) Je suis touch&#233; par loi de cumul des mandats. Je vais perdre mon mandat le plus ancien, soit conseiller municipal de Troyes (et de fait conseiller communautaire de Troyes Champagne Metropole)</commentaire>
+					<descriptionMandat>CONSEILLER COMMUNAUTAIRE DE TROYES CHAMPAGNE METROPOLE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;069</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;033</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>822</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je garde mon mandat r&#233;gional de 2021 et vais perdre mon mandat municipal de 2020.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER REGIONAL GRAND EST</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13&#8239;357</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11&#8239;504</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>RASSEMBLEMENT NATIONAL</nomSociete>
+					<activite>Membre du conseil national</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>11/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; b&#233;n&#233;vole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>RASSEMBLEMENT NATIONAL</nomSociete>
+					<activite>D&#233;l&#233;gu&#233; D&#233;partemental de la f&#233;d&#233;ration du RN10</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2016</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>1548</evaluation>
+					<remuneration>1 action offerte en 2022 car 10 action poss&#233;d&#233;es.</remuneration>
+					<capitalDetenu/>
+					<nombreParts>11</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>ALSTOM</nomSociete>
+					<evaluation>36</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>49</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>BNP PARIBAS</nomSociete>
+					<evaluation>306</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>BOUYGUES</nomSociete>
+					<evaluation>75</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>CARREFOUR</nomSociete>
+					<evaluation>32</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>CREDIT AGRICOLE</nomSociete>
+					<evaluation>62</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>GL EVENTS</nomSociete>
+					<evaluation>332</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>PIXIUM VISIO</nomSociete>
+					<evaluation>254</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>250</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>RENAULT</nomSociete>
+					<evaluation>36</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>TOCQUEVILLE MEGATRENDS ISR C</nomSociete>
+					<evaluation>44</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>VEOLIA ENVIRONNEMENT</nomSociete>
+					<evaluation>107</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Achat d'action via un compte-titre (boursorama)</commentaire>
+					<nomSociete>WAGA ENERGY</nomSociete>
+					<evaluation>85</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>3</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Parts sociales d&#233;tenues dans ma banque caisse d'&#233;pargne</commentaire>
+					<nomSociete>CAISSE D'EPARGNE- SLE AUBE</nomSociete>
+					<evaluation>3720</evaluation>
+					<remuneration>Int&#233;r&#234;ts annuels en 2022= 40,95</remuneration>
+					<capitalDetenu/>
+					<nombreParts>186</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il rentre au cabinet &#224; Paris le Lundi 29 Aout 2022 A plein-temps</commentaire>
+					<nom>Alb&#233;ric Ferrand</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il rentre au cabinet en local &#224; Troyes le Lundi 22 Ao&#251;t. A plein temps.</commentaire>
+					<nom>Adrien Thiebaut</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il rentre au cabinet &#224; Troyes (&#224; mi-temps) le Jeudi 1er Septembre</commentaire>
+					<nom>Valentin Mouzon</nom>
+					<employeur>Il travaillera &#224; mi-temps pour moi et &#224; mi-temps pour Ang&#233;lique Ranc (D&#233;put&#233;e de la 3&#232;me circonscription de l'Aube)</employeur>
+					<descriptionActivite>Attach&#233; Parlementaire &#224; Troyes</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>10</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Aube(10)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Aube(10)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GUITTON</nom>
+				<prenom>JORDAN</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/01/1995</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,385 @@
+<declarations><declaration>
+		<dateDepot>10/11/2022 09:20:21</dateDepot>
+		<uuid>f97c57f2-6b82-4e7b-891f-c7e3d7486d85</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 54)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>145</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2011</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>155000</prixAcquisition>
+					<prixTravaux>11500</prixTravaux>
+					<valeurVenale>200000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 83)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>117</superficieBati>
+					<superficieNonBati>0.099</superficieNonBati>
+					<dateAcquisition>2019</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>505000</prixAcquisition>
+					<prixTravaux>32200</prixTravaux>
+					<valeurVenale>505000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>44</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2022</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>665000</prixAcquisition>
+					<prixTravaux>6000</prixTravaux>
+					<valeurVenale>671000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items/>
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN Carole</titulaire>
+					<valeur>1421</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CIC</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN Carole</titulaire>
+					<valeur>90</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CIC</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>-823</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN Carole</titulaire>
+					<valeur>713</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN Carole</titulaire>
+					<valeur>6730</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte courant joint avec
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Caisse d'Epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>GRANDJEAN</titulaire>
+					<valeur>3</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items/>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte courant ouvert en 2006 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>Compte courant</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>78</valeur>
+					<description>
+        [Donn&#233;es non publi&#233;es]
+    </description>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Emprunt immobilier</nature>
+					<datePassif>29/10/2019</datePassif>
+					<objetDette>acquisition immobili&#232;re</objetDette>
+					<montant>557765</montant>
+					<duree>315</duree>
+					<restantDu>478679</restantDu>
+					<mensualite>1996</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Emprunt immobilier</nature>
+					<datePassif>01/11/2020</datePassif>
+					<objetDette>Acquisition immobili&#232;re</objetDette>
+					<montant>204865</montant>
+					<duree>240</duree>
+					<restantDu>188109</restantDu>
+					<mensualite>917</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Diff&#233;r&#233; de remboursement &#224; &#233;ch&#233;ance des travaux jusqu'&#224; 36 mois</commentaire>
+					<nomCreancier>Caisse d'Epargne</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>emprunt bancaire</nature>
+					<datePassif>14/04/2022</datePassif>
+					<objetDette>Acquisition</objetDette>
+					<montant>741565</montant>
+					<duree>300</duree>
+					<restantDu>741565</restantDu>
+					<mensualite>2794</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>enssup</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; de l'Enseignement et de la formation professionnels</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s des ministres du travail et de l'&#233;ducation nationale, charg&#233;e de l'enseignement et de la formation professionnels</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s des ministres du travail et de l'&#233;ducation nationale, charg&#233;e de l'enseignement et de la formation professionnels</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>S&#233;paration de biens</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Grandjean</nom>
+				<prenom>Carole</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/05/1983</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

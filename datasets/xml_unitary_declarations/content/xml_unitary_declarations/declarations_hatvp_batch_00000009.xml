@@ -1,0 +1,260 @@
+<declarations><declaration>
+		<dateDepot>12/07/2022 07:13:25</dateDepot>
+		<uuid>d18ae83a-4925-4b45-ba5d-3ee5b9090fc3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items/>
+			<neant>true</neant>
+		</immeubleDto>
+		<sciDto>
+			<items/>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>Rima Abdul Malak</souscripteur>
+					<etablissement>Banque Postale</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>07/11/2009</dateSouscription>
+					<valeurRachat>21958</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret A SUP</typeCompte>
+					<etablissement>CIC - Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Rima Abdul Malak</titulaire>
+					<valeur>51951</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CIC - Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Rima Abdul Malak</titulaire>
+					<valeur>15348</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant auto entrepreneur</typeCompte>
+					<etablissement>CIC - Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Rima Abdul Malak</titulaire>
+					<valeur>15006</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret de d&#233;veloppement durable et solidaire</typeCompte>
+					<etablissement>CIC - Banque Transatlantique</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Rima Abdul Malak</titulaire>
+					<valeur>43799</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Banque Postale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Rima Abdul Malak</titulaire>
+					<valeur>1551</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur d'acquisition = 280.000 euros</commentaire>
+					<description>Appartement 2 pi&#232;ces 41m2</description>
+					<valeur>330000</valeur>
+					<typeEstimation>&#201;valuation personnelle</typeEstimation>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items/>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items/>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items/>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>CIC - Banque Transatlantique</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t ordinaire immobilier</nature>
+					<datePassif>19/10/2021</datePassif>
+					<objetDette>acquisition immobili&#232;re</objetDette>
+					<montant>280000</montant>
+					<duree>180</duree>
+					<restantDu>266831</restantDu>
+					<mensualite>1715</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>culture</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re de la Culture et de la Communication</labelOrgane>
+				<labelDeclaration>Ministre de la Culture et de la Communication</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre de la Culture</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/05/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>N&#233;ant</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ABDUL MALAK</nom>
+				<prenom>Rima</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/02/1979</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,471 @@
+<declarations><declaration>
+		<dateDepot>23/10/2022 22:11:17</dateDepot>
+		<uuid>f9d47324-a3b5-4dde-b042-669241baaf3d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>le montant indiqu&#233; correspond &#224; la r&#233;mun&#233;ration per&#231;ue &#224; la date de la pr&#233;sente mise &#224; jour de la d&#233;claration (sept 2022)</commentaire>
+					<conservee>true</conservee>
+					<description>directeur de la formation</description>
+					<employeur>SAS Fursac Anselin et associ&#233;s</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;929</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;742</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14&#8239;787</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Amicale des Sapeurs Pompiers du Lot - Labastide Murat</nomStructure>
+					<descriptionActivite>Sapeur pompier volontaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Comit&#233; des F&#234;tes de Labastide Murat</nomStructure>
+					<descriptionActivite>B&#233;n&#233;vole</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Association d'aide &#224; domicile en milieu rural - Labastide Murat</nomStructure>
+					<descriptionActivite>B&#233;n&#233;vole - membre du bureau</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Service de Soins Infirmiers &#224; Domicile du Causse</nomStructure>
+					<descriptionActivite>membre du Bureau</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>Association des Maires et Elus du Lot</nomStructure>
+					<descriptionActivite>Membre du CA et bureau</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Fondation Jacques Chirac</nomStructure>
+					<descriptionActivite>Membre du CA. B&#233;n&#233;vole</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Montants nets per&#231;us.Le passage de &#224; la Commune nouvelle n'a pas modifi&#233; l'indeminit&#233; per&#231;ue. Le choix volontaire des &#233;lus a en effet &#233;t&#233; d'ajuster les indemnit&#233;s pour ne connaitre aucune augmentation.Du fait d'un recours &#233;lectoral, ce mandat est toujours en cours auj. Il prendra fin d&#232;s que la Loi l'imposera.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire de Labastide-Murat Coeur de Causse</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8810</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>11625</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11522</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5824</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Montants nets per&#231;us. Ce mandat a d&#233;but&#233; en mars 2008.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller G&#233;n&#233;ral du Lot</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>10188</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>16161</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13451</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3180</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>03/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Montants nets per&#231;us.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller R&#233;gional d'Occitanie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16338</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13170</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Montants nets per&#231;us.Ce mandat est toujours en cours du fait d'un recours &#233;lectoral. Il lui sera mis fin au jour des obligations l&#233;gales.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident Comm de Communes du Causse de Labastide Murat</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9734</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13384</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13692</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6941</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>montant net correspondant &#224; la r&#233;mun&#233;ration du mois de juillet</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller r&#233;gional d'Occitanie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;232</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>d&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35&#8239;421</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71&#8239;041</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>64&#8239;786</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>36&#8239;421</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>SASU Maison Pradi&#233;</nomSociete>
+					<activite>Locations g&#238;te de tourisme</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; a vocation immobili&#232;re pour l&#8217;exploitation d&#8217;un g&#238;te touristiqueParticipation couverte exclusivement par un pr&#234;t bancaire personnel</commentaire>
+					<nomSociete>SASU MAISON PRADI&#201;</nomSociete>
+					<evaluation>250000</evaluation>
+					<remuneration>Aucune</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire>Attach&#233;e parlementaire en circonscription, charg&#233;e des requ&#234;tes des citoyens, de projets des Collectivit&#233;s et des dossiers d'actualit&#233;.</commentaire>
+					<nom>Mariel MISSUD</nom>
+					<employeur>Aucune autre activit&#233; salari&#233;e cumulative avec l'activit&#233; de collaborateur parlementaire.</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mission ponctuelle du 15 octobre au 31 d&#233;cembre 2017</commentaire>
+					<nom>Dekker Alice</nom>
+					<employeur>Activit&#233; d'ind&#233;pendant Alice Dekker relations presse</employeur>
+					<descriptionActivite>Charg&#233;e des relations m&#233;dias et presse nationale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Laura Verkaeren</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233;e parlementaire _ travail parlementaire - affect&#233;e aux travaux parlementaires &#224; l'Assembl&#233;e</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Agn&#232;s Obberdorf</nom>
+					<employeur/>
+					<descriptionActivite>Secr&#233;tariat</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>46</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Lot(46)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Lot(46)</qualiteDeclarantForPDF>
+			<dateDebutMandat>18/06/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Pradi&#233;</nom>
+				<prenom>Aur&#233;lien</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/03/1986</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

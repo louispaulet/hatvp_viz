@@ -1,0 +1,432 @@
+<declarations><declaration>
+		<dateDepot>30/08/2022 11:04:14</dateDepot>
+		<uuid>80121b9e-4666-49dd-9086-f03e696f3c96</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En Disponibilit&#233;</commentaire>
+					<conservee>false</conservee>
+					<description>enseignant en classe pr&#233;paratoire</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>50000</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>50000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>52000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>53000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>54000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>55000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>28000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ACTIVITE D'EXPERTISE COMPTABLE ET DE COMMISSARIAT AUX COMPTES</commentaire>
+					<conservee>true</conservee>
+					<description>EXPERT COMPTABLE</description>
+					<employeur>MOI MEME</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>110000</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>120000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>130000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>130000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>130000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>120000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>100000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>80&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>80&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>80&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>80&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>80&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>EDUCATION NATIONALE</employeurConjoint>
+					<activiteProf>ENSEIGNANTE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>EKO ZABYM ASSOCIATION</nomStructure>
+					<descriptionActivite>ACTIVITES POLITIQUES, CULTURELLES, SPORTIVES PRESIDENT</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>ETOILE EVOLUTION ASSOCIATION</nomStructure>
+					<descriptionActivite>ASSOCIATION CULTURELLE ( DANSE QUADRILLE) PRESIDENT</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER COMMUNAUTAIRE ET MUNICIPAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1400</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2500</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>100000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>80</capitalDetenu>
+					<nombreParts>80</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>NS</nomOrganisationConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>350000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>10000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>30000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GRAND-BONHEUR NUBRET KEYZA</nom>
+					<employeur/>
+					<descriptionActivite>COLLABORATEUR PARLEMENTAIRE PARIS</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>SOULEZ PIERRE</nom>
+					<employeur/>
+					<descriptionActivite>COLLABORATEUR PARLEMENTAIRE CIRCONSCRIPTION</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>SERVA SANDRINE</nom>
+					<employeur>CABINET D'EXPERTISE COMPTABLE OSE</employeur>
+					<descriptionActivite>-GESTION DES COLLABORATEURS EN CIRCONSCRIPTION -CONSEILS POLITIQUES - RELATIONS PRESSE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>SAINT-JEAN GEORGIA</nom>
+					<employeur>CONSEIL REGIONAL DE LA GUADELOUPE</employeur>
+					<descriptionActivite>- COMMUNITY MANAGEMENT - GESTION DES RESEAUX SOCIAUX - PHOTOS -AGENDA DU DEPUTE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BERGENA-LOVELY</nom>
+					<employeur/>
+					<descriptionActivite>LEGISTIQUE-AGENDA</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>971</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Guadeloupe(971)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Guadeloupe(971)</qualiteDeclarantForPDF>
+			<dateDebutMandat>18/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SERVA</nom>
+				<prenom>OLIVIER</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>21/06/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,469 @@
+<declarations><declaration>
+		<dateDepot>16/11/2020 14:09:19</dateDepot>
+		<uuid>ee801bb8-8ea3-484c-98a3-dac93465d25f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>EDUCATION NATIONALE</employeurConjoint>
+					<activiteProf>Retrait&#233;</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration : brut fiscal. J'ai renonc&#233; &#224; toute indemnit&#233; de maire &#224; compter du 1er octobre 2014. D&#233;mission le 29 octobre 2017 pour mise en conformit&#233; avec le non cumul des mandats</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13&#160;685</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration : brut fiscal. D&#233;mission le 31 octobre 2017 pour mise en conformit&#233; avec le non cumul des mandats.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>PRESIDENTE CENTRE DE GESTION DE LA FONCTION PUBLIQUE TERRITORIALE DU RHONE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28&#160;770</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25&#160;545</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#160;622</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17&#160;425</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal &#224; Messimy (69)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire &#224; la Communaut&#233; de Communes des Vallons du Lyonnais (69)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Membre du conseil d'administration du Centre de Gestion de la Fonction Publique Territoriale du Rh&#244;ne et de la M&#233;tropole de Lyon</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration 2020 du 1/1/2020 au 31/10/2020</commentaire>
+					<descriptionMandat>S&#233;nateur du Rh&#244;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12&#160;494</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49&#160;826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49&#160;822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67&#160;553</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#160;808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#160;088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55&#160;906</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit de la r&#233;mun&#233;ration en brut fiscal du1/1/2014 au 30/09/2014. J'ai renonc&#233; &#224; toute indemnit&#233; de maire &#224; compter du 1er octobre 2014</commentaire>
+					<nomSociete>Mairie Messimy (69)</nomSociete>
+					<activite>Maire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13&#160;685</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration : brut fiscal. Pour l'ann&#233;e 2017 : du 1/1/2017 au 30/09/2017.</commentaire>
+					<nomSociete>Centre de Gestion de la Fonction Publique Territoriale du Rh&#244;ne et de la M&#233;tropole de Lyon</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28&#160;770</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25&#160;545</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#160;622</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17&#160;425</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association Loi 1905. Organisation de courses p&#233;destres une fois par an.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Association La Val Lyonnaise</nomSociete>
+					<activite>Secr&#233;taire adjointe</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Parts sociales : 321 parts &#224; 16 &#8364; = 5136 &#8364; Je per&#231;ois des int&#233;r&#234;ts sur les parts sociales de 1,25%</commentaire>
+					<nomSociete>Banque Populaire 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>5136</evaluation>
+					<remuneration>63 &#8364;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>321</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+     Passage &#224; temps partiel &#224; 28H/semaine le 1er mars 2019</commentaire>
+					<nom>REYNAUD Laurence</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite>NEANT</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CDI &#224; temps partiel de 17H30 &#224; compter du 1er septembre 2018. Fin de contrat suite &#224; d&#233;mission le 18 f&#233;vrier 2019</commentaire>
+					<nom>De MENOU Val&#233;rie</nom>
+					<employeur>Amicale Gaulliste du S&#233;nat</employeur>
+					<descriptionActivite>Collaboratrice administrative &#224; mi-temps</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CDI &#224; temps partiel de 17H30 &#224; compter du 15 avril 2019. CDI &#224; temps partiel de 21H &#224; compter du 16 juin 2020</commentaire>
+					<nom>VAN DER MEULEN Philippine</nom>
+					<employeur>S&#233;nateur Jean-Fran&#231;ois RAPPIN</employeur>
+					<descriptionActivite>Collaboratrice de s&#233;nateur &#224; temps partiel</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Rh&#244;ne(69)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Rh&#244;ne(69)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>DI FOLCO</nom>
+				<prenom>Catherine</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/11/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

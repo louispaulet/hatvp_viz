@@ -1,0 +1,221 @@
+<declarations><declaration>
+		<dateDepot>01/08/2022 13:46:25</dateDepot>
+		<uuid>b40d7e0f-d295-4778-b01f-8fdaa5c46c4e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai demand&#233; la suspension de mon contrat de travail pour la dur&#233;e de mon mandat ; cette suspension est effective en Juillet 2017.</commentaire>
+					<conservee>false</conservee>
+					<description>Assistante de Direction RH</description>
+					<employeur>Herta</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>6100</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>25675</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>27817</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28589</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12982</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2013</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ma d&#233;l&#233;gation m'a &#233;t&#233; retir&#233;e en Juin 2017.En cons&#233;quence, je ne per&#231;ois plus ces indemnit&#233;s.[Mise &#224; jour ao&#251;t 2022]Mon mandat de conseill&#232;re municipal s'est ach&#233;v&#233; en juin 2020. Depuis 2017, je ne percevais plus d'indemnit&#233;.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re municipale d&#233;l&#233;gu&#233;e</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1634</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2148</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2124</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>895</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;but de contrat d'attach&#233;e parlementaire au 24/07/2017.2&#224;/06/2022 : Poursuite de son activit&#233; d'attach&#233;e parlementaire &#224; mon service.</commentaire>
+					<nom>LE LIBOUX-GROMIL Marine Joy</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>n&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;but du contrat d'attach&#233; parlementaire au 24/07/2017.20/06/2022 : poursuite de son contrat de collaborateur parlementaire &#224; mon service.</commentaire>
+					<nom>DE ALMEIDA Thomas</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Attach&#233; parlementaire circo</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Mise &#224; jour au 01/08/2022 :- Poursuite des contrats de travail avec mes 2 collaborateurs du pr&#233;c&#233;dent mandat.- Fin de mon contrat aupr&#232;s de HERTA : ma r&#233;&#233;lection a mis un terme &#224; ma situation d'indisponibilit&#233;.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>94</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Val-de-Marne(94)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Val-de-Marne(94)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>PETIT</nom>
+				<prenom>Maud Ma&#239;da Yvelise</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>15/11/1971</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

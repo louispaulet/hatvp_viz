@@ -1,0 +1,333 @@
+<declarations><declaration>
+		<dateDepot>03/08/2022 10:25:53</dateDepot>
+		<uuid>71b93b33-848c-41ab-a5cd-b6b7e4c36151</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>Liasse fiscale 2017.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Liasse fiscale 2018.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Liasse fiscale 2019.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj03</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Liasse fiscale 2020.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj04</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Liasse fiscale 2021.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj05</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Sigma_Bulletin_Paie.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj06</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>UCA_BulletinsPaie.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj07</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Salaires_Adjointe Maire ROYAT.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj08</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>CDI-DB-DL.pdf</fileName>
+				<serverFileName>71b93b33-848c-41ab-a5cd-b6b7e4c36151_pj09</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; non maintenue =&gt; Les formalit&#233;s de d&#233;claration de cessation d'activit&#233; sont en cours.</commentaire>
+					<nomEmployeur>EIRL DELPHINE LINGEMANN</nomEmployeur>
+					<description>CONSEIL EN RELATIONS PUBLIQUES ET COMMUNICATION</description>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7&#8239;820</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7&#8239;295</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22&#8239;026</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;021</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37&#8239;097</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>ENSEIGNANTE VACATAIRE</description>
+					<employeur>DDFIP PUY DE DOME UCA POLYTECH</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21&#8239;330</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11&#8239;058</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>965</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;241</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;447</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>ENSEIGNANTE VACATAIRE</description>
+					<employeur>DDFIP PUY DE DOME SIGMA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4&#8239;190</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5&#8239;317</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;757</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3&#8239;860</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>ENTREPRENEUR INDIVIDUEL</employeurConjoint>
+					<activiteProf>FORMATION CONTINUE D'ADULTES</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Association Route des Villes d'Eaux du Massif Central ayant pour objet la valorisation du thermalisme sur le territoire du Massif Central.</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sidente</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait des d&#233;l&#233;gations par le Maire le 19/05/2022</commentaire>
+					<descriptionMandat>ADJOINTE AU MAIRE DE ROYAT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;056</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;206</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BOUCHARD DAVID</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite>NEANT</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>63</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Puy-de-D&#244;me(63)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Puy-de-D&#244;me(63)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>LINGEMANN</nom>
+				<prenom>DELPHINE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/11/1972</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

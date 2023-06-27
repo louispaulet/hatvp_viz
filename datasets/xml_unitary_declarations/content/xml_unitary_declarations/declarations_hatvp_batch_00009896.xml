@@ -1,0 +1,474 @@
+<declarations><declaration>
+		<dateDepot>21/05/2021 22:02:20</dateDepot>
+		<uuid>325892c7-5e25-41bb-977c-070e29968735</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>S'ajoute &#224; ce revenu professionnel, le fermage de terres per&#231;ues qui s'&#233;l&#232;ve &#224; 2050.17&#8364; en 2019, 2065.08&#8364;en 2018, 2129.75&#8364; en 2017,</commentaire>
+					<conservee>false</conservee>
+					<description>Exploitant agricole</description>
+					<employeur>Exploitant agricole en GAEC</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3735</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6601</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5895</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7347</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9298</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Conjointe collaboratrice d'exploitation agricole</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12&#8239;423</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>11&#8239;713</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11&#8239;552</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11&#8239;694</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11&#8239;522</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11&#8239;450</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Pr&#233;sident EPCI</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>15&#8239;811</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22&#8239;076</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21&#8239;822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>25&#8239;265</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24&#8239;973</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24&#8239;867</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;l&#233;gu&#233; de la communaut&#233; de communes au comit&#233; syndical du SYMISOA pour le mandat 2020-2026</commentaire>
+					<nomSociete>SYMISOA syndicat mixte de rivi&#232;res du Sornin et de ses affluents</nomSociete>
+					<activite>D&#233;l&#233;gu&#233; titulaire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>administrateur &#233;lu par la communaut&#233; de communes au conseil d'administration de la Saem ABATTOIRS DU PAYS DE CHARLIEU</commentaire>
+					<nomSociete>Saem abattoirs du pays de Charlieu</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre d&#233;sign&#233; par la communaut&#233; de communes au comit&#233; directeur de l'EP&#207;C</commentaire>
+					<nomSociete>Office de Tourisme du Pays de Charlieu</nomSociete>
+					<activite>membre du comit&#233; directeur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>administrateur &#224; SEM NOVIM d&#233;sign&#233; par la communaut&#233; de communes qui est entr&#233;e au capital de SEM NOVIM</commentaire>
+					<nomSociete>SEM NOVIM</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>G&#233;rant du GFA depuis le 24/12/2001
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>G&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Gaec 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>Co-g&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le GFA poss&#232;de 16 ha de terres agricoles et per&#231;oit &#224; ce titre un fermage annuel r&#233;parti entre les membres soit pour moi 40.74%</commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>20000</evaluation>
+					<remuneration>La r&#233;mun&#233;ration correspond &#224; la part du fermage per&#231;u par le GFA, soit 1097.60&#8364; en 2020</remuneration>
+					<capitalDetenu>40</capitalDetenu>
+					<nombreParts>22</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>GAEC
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>133750</evaluation>
+					<remuneration>La r&#233;mun&#233;ration corresp&#244;nd au revenu agricole d&#233;gag&#233; par l'activit&#233; du GAEC soit pour 2019: 9298&#8364;</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>2675</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>CHARLIEU BELMONT COMMUNAUTE</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/CHARLIEU BELMONT COMMUNAUTE</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>VALORGE</nom>
+				<prenom>Ren&#233;</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/05/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

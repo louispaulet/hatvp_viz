@@ -1,0 +1,163 @@
+<declarations><declaration>
+		<dateDepot>23/10/2021 21:35:58</dateDepot>
+		<uuid>aff14192-37c4-47b7-9029-8768da7cdb12</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- J'ai exerc&#233; la fonction d'ajointe au maire de Kourou de 2014 &#224; f&#233;vrier 2016.- Elue conseill&#232;re territoriale de Guyane de d&#233;cembre 2015 &#224; juin 2021.- R&#233;&#233;lue en juin 2021 et nomm&#233;e vice pr&#233;sidente en juillet.</commentaire>
+					<descriptionMandat>Vice pr&#233;sidente  en 2021, conseill&#232;re territoriale de 2015 &#224; 2021, adjointe au maire 2014 &#224; f&#233;vrier 2016</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8&#8239;998</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19&#8239;153</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18&#8239;866</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18&#8239;414</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12&#8239;464</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;160</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;731</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivit&#233; &#224; statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivit&#233; &#224; statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivit&#233;</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>ASSGUY</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivit&#233;s &#224; statut particulier</nomListeOrgane>
+				<labelOrgane>Assembl&#233;e de Guyane</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>Vice pr&#233;sidente d&#233;l&#233;gu&#233;e &#224; l'&#233;ducation et aux constructions scolaires</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Collectivit&#233; &#224; statut particulier/Assembl&#233;e de Guyane/Vice pr&#233;sidente d&#233;l&#233;gu&#233;e &#224; l'&#233;ducation et aux constructions scolaires</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ROBINSON CHOCHO</nom>
+				<prenom>Annie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>06/12/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

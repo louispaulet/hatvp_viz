@@ -1,0 +1,474 @@
+<declarations><declaration>
+		<dateDepot>03/04/2020 09:35:21</dateDepot>
+		<uuid>3b349686-bb57-45cb-a67a-ee08ce0cda1a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Jusqu'en mai 2017 j'&#233;tais affect&#233; au cabinet du Pr&#233;sident. Mon salaire mensuel &#233;tait de  4900 &#8364;. J'ai rejoint les services en juin 2017 et mon salaire est tomb&#233; &#224; 3900 &#8364;. J'ai cess&#233; mon activit&#233; professionnelle au 2 octobre 2017. Mon salaire 2017 tient compte d'une somme de 6300 &#8364; correspondant au paiement du solde de mes cong&#233;s et de mon compte &#233;pargne temps.</commentaire>
+					<conservee>false</conservee>
+					<description>charg&#233; de missions</description>
+					<employeur>Conseil D&#233;partemental de la Moselle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>58800</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>58800</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>58800</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>58800</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50800</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>41400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>N&#233;ant</employeurConjoint>
+					<activiteProf>N&#233;ant</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>N&#233;ant</employeurConjoint>
+					<activiteProf>N&#233;ant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de cette fonction le 22/09/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire de Basse-Ham</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>19615</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>19615</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>19615</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19615</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19674</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14979</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de ma fonction de vice-pr&#233;sident le 22/09/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sident de la communaut&#233; d'agglom&#233;ration  Portes de France-Thionville</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>15300</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>15148</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9350</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7250</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7802</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8577</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'assume la pr&#233;sidence de ce syndicat depuis le 13 juillet 2016. Avant cette date,  j'en &#233;tais un vice-pr&#233;sident. J'ai d&#233;missionn&#233; de cette pr&#233;sidence le 22 octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident du SMITU ( Syndicat mixte des Transports Urbains Thionville-Fensch</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>8083</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8083</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>7028</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8083</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11902</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12337</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de la vice-presidence le 22/09/2017.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>SCOTAT ( Syndicat de coh&#233;rence territoriale de l'agglom&#233;ration thionvilloise)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3420</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5469</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5460</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4134</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Le syndicat a &#233;t&#233; dissous en mai 2014 et ses comp&#233;tences reprises par la communaut&#233; d'agglom&#233;ration Portes de France-Thionville</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>SMVT ( Syndicat mixte &#224; vocation touristique)  des 3 fronti&#232;res </descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>3229</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>3226</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1307</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>05/2014</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je n'ai plus aucune responsabilit&#233; dans cette soci&#233;t&#233;.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SODEVAM </nomSociete>
+					<activite>La SODEVAM est une soci&#233;t&#233; d'&#233;conomie mixte &#339;uvrant dans le domaine de l'am&#233;nagement urbain et rural et dans les travaux de b&#226;timents et de g&#233;nie civil</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>03/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je suis toujours membre du conseil d'administration de cette SPL, mais je n'y exerce aucune responsabilit&#233;  ex&#233;cutive.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SPL Nautic Ham</nomSociete>
+					<activite>Cette soci&#233;t&#233; publique locale, dont je suis membre du conseil d'administration, g&#232;re la base de loisirs communautaire de la CA Portes de France -Thionville , &#224; Basse-Ham.  La SPL regroupe 2 actionnaires: la Communaut&#233; d'agglom&#233;ration qui poss&#232;de 60% des parts, la commune de Basse-Ham 40%.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je ne suis plus membre de ces conseils d'administration depuis le mois d'octobre 2017.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPL et SEM TRANS FENSCH</nomSociete>
+					<activite>Transport public routier. La SPL assume  le transport public urbain tandis que la SEM exploite le transport transfrontalier de personnes (en  direction du Luxembourg). J'&#233;tais membre du conseil d'administration de chacune de ces entit&#233;s sans aucune  responsabilit&#233; ex&#233;cutive. </activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire>Un second collaborateur est en cours de recrutement. </commentaire>
+					<nom>MARIANI Catherine </nom>
+					<employeur>Jean-Marie Mizzon  S&#233;nateur.</employeur>
+					<descriptionActivite>Collaboratrice parlementaire, en charge des dossiers parlementaires</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Elle a commenc&#233; le 1er d&#233;cembre 2017.</commentaire>
+					<nom>Dion V&#233;ronique</nom>
+					<employeur>Elle est collaboratrice b&#233;n&#233;vole au sein de l&#8217;association des maires ruraux de la Moselle dont je suis le pr&#233;sident.</employeur>
+					<descriptionActivite>Collaboratrice parlementaire, en charge des dossiers en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat/>
+				<codCategorieMandat/>
+				<nomCategorieMandat/>
+				<codTypeMandatFichier/>
+				<labelTypeMandat/>
+				<labelOrgane/>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF/>
+			<dateDebutMandat>02/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>MIZZON</nom>
+				<prenom>Jean-Marie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/03/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

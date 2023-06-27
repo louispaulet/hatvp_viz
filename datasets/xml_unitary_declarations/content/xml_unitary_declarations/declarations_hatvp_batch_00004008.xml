@@ -1,0 +1,401 @@
+<declarations><declaration>
+		<dateDepot>06/11/2022 21:18:24</dateDepot>
+		<uuid>46e48220-59f1-48e8-9d97-f8e83a14092c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ayant cess&#233; mon activit&#233; le 1er janvier 2022, la somme d&#233;clar&#233;e pour 2021 est une estimation (sommes per&#231;ues en 2021 + projection des sommes &#224; percevoir en 2022 suite &#224; cette activit&#233; de 2021).</commentaire>
+					<description>MEDECIN GENERALISTE</description>
+					<employeur>LIBERAL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>178&#8239;905</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>163&#8239;156</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>185&#8239;606</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>152&#8239;277</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>158&#8239;094</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>216&#8239;138</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>FRAPP&#201; THIERRY</employeurConjoint>
+					<activiteProf>Conjoint collaborateur</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon &#233;lection &#224; l'assembl&#233;e a entrain&#233; ma d&#233;mission le 6 juillet de ce poste. Un rappel devrait avoir lieu au titre de ma nomination de Maire d&#233;l&#233;gu&#233; de Labuissi&#232;re, commune d&#233;l&#233;gu&#233;e de Bruay la Buissi&#232;re.</commentaire>
+					<descriptionMandat>ADJOINT AU MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;279</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;616</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1&#8239;366</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ma d&#233;mission des fonctions d'adjoint au Maire de Bruay et de Maire d&#233;l&#233;gu&#233; de Labuissi&#232;re ont &#233;t&#233; enregistr&#233;es le 7 juillet 2022. Les sommes per&#231;ues au titre de maire d&#233;l&#233;gu&#233; ont &#233;t&#233; cumul&#233;es sur la fiche de salaire d'adjoint au maire.</commentaire>
+					<descriptionMandat>MAIRE D&#201;L&#201;GU&#201;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les sommes per&#231;ues au titre de conseiller municipal ont &#233;t&#233; cumul&#233;es sur la fiche de salaire d'adjoint au maire.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>CONSEILLER MUNICIPAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>58</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'une SCI familiale 
+        [Donn&#233;es non publi&#233;es]
+     d'immeubles dont j'ai gard&#233; l'usufruit. Dur&#233;e 99 ans.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>CO-GERANT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'une SCI familiale 
+        [Donn&#233;es non publi&#233;es]
+     d'immeubles dont j'ai gard&#233; l'usufruit. Dur&#233;e 99 ans.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>CO-G&#201;RANT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>TERRITOIRES 62</nomSociete>
+					<activite>MEMBRE DU CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>3 parts de 10&#8364; en pleine propri&#233;t&#233;-17502 parts en usufruit.</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>70038</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>17505</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1 part de 10&#8364; en pleine propri&#233;t&#233;-6999 parts en usufruit.</commentaire>
+					<nomSociete>
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>28006</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>7000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>DUHAUT-LALY Christelle</nom>
+					<employeur>H&#244;tel du D&#233;partement du Pas de Calais. Arras</employeur>
+					<descriptionActivite>Collaborateur de conseiller d&#233;partemental.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>FONCTION DE CADRE. D&#233;but de contrat le 1er septembre.</commentaire>
+					<nom>DUTHOIT VALENTIN</nom>
+					<employeur>MAIRIE DE HOUPLIN-ANCOISNE</employeur>
+					<descriptionActivite>COLLABORATEUR PARLEMENTAIRE A PARIS-TEMPS PLEIN. CONSEILLER MUNICIPAL HOUPLIN-ANCOISNE.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>MI-TEMPS en collaborateur. D&#233;but de contrat le 1er septembre.</commentaire>
+					<nom>ANTOCHEWICZ JEROME</nom>
+					<employeur>BOUTIQUE 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>1/ Collaborateur parlementaire en province d&#233;tach&#233; de mairie Hersin-Coupigny. 2/ G&#233;rant 
+        [Donn&#233;es non publi&#233;es]
+     &#224; H&#233;nin-Beaumont.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais(62)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Pas-de-Calais(62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>22/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>FRAPPE</nom>
+				<prenom>THIERRY</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/05/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

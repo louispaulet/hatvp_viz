@@ -1,0 +1,546 @@
+<declarations><declaration>
+		<dateDepot>15/09/2022 10:28:42</dateDepot>
+		<uuid>fe721a02-e5a7-46ca-b669-569ab474cc0a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>contrat suspendu &#224; compter du 4 aout 2022</commentaire>
+					<description>financement des entreprises</description>
+					<employeur>BPAURA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33&#8239;832</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>36&#8239;066</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>38&#8239;505</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37&#8239;627</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14&#8239;653</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Directrice accompagnement entreprises agricoles</description>
+					<employeur>FDSEA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35&#8239;862</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37&#8239;929</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13&#8239;235</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>en attente du paiement 2022 avec un montant analogue (montant donn&#233; &#224; titre indicatif) activit&#233; maintenue sous r&#233;serve de disponibilit&#233;</commentaire>
+					<conservee>true</conservee>
+					<description>Charg&#233;e d'enseignement</description>
+					<employeur>Universit&#233; Grenoble</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1&#8239;065</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>613</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>585</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>413</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>413</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>413</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration 2022 &#224; venir non connue &#224; ce jour, d'un montant analogue.</commentaire>
+					<conservee>false</conservee>
+					<description>Charg&#233;e d'enseignement</description>
+					<employeur>Universit&#233; Lyon 3</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>884</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>310</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>333</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>345</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>EBG composites</employeurConjoint>
+					<activiteProf>plasturgie - agent de maitrise conception et mise au point de moules; r&#233;alisation de chantiers; stratification de pi&#232;ces; r&#233;alisation de devis.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>sous r&#233;serve de disponibilit&#233; https://www.skialpintaintournon.fr/</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Ski Alpin Tain Tournon - club de ski alpin</nomStructure>
+					<descriptionActivite>Moniteur de ski (moniteur f&#233;d&#233;ral 2&#232;me degr&#233;) membre du conseil d'administration du ski club</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>structure en cours d'&#233;volution statutaire</commentaire>
+					<nomStructure>Comit&#233; des f&#234;tes de la commune Glun (ADLF ou Glun en F&#234;tes) Organisation d'&#233;v&#232;nements ludiques, festifs ou sportifs.</nomStructure>
+					<descriptionActivite>membre du conseil d'administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Structure en sommeil</commentaire>
+					<nomStructure>Mobili Tain Tournon Association &#339;uvrant pour faciliter les mobilit&#233;s physique (d&#233;placement), virtuelle (num&#233;rique) et intellectuelle (culture)</nomStructure>
+					<descriptionActivite>membre du conseil d'administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Valence Freecycle FR - recyclage des objets</nomStructure>
+					<descriptionActivite>Cr&#233;ation et animation de la Ressourcerie en ligne</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de mon mandat d'adjoint en aout 2022</commentaire>
+					<descriptionMandat>Adjointe aux finances et au d&#233;veloppement</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;943</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;331</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2&#8239;221</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseill&#232;re municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>sous r&#233;serve de compatibilit&#233;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>vice pr&#233;sidente CLECT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai quitt&#233; la structure fin novembre 2017. La r&#233;mun&#233;ration en 2018 correspond au solde de tout compte avec le paiement des jours de cong&#233; non pris.</commentaire>
+					<nomSociete>FDSEA de la Dr&#244;me</nomSociete>
+					<activite>Directrice "Accompagnement agriculteurs et anciens agriculteurs"</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35&#8239;862</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37&#8239;929</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13&#8239;235</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Direction et gestion d'un groupement d'employeur par mise &#224; disposition par la FDSEA de la Dr&#244;me.</commentaire>
+					<nomSociete>Agriemploi 26</nomSociete>
+					<activite>Directrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>conseill&#232;re municipale</commentaire>
+					<nom>PONTIER Marillac</nom>
+					<employeur>pas d'employeur</employeur>
+					<descriptionActivite>Retrait&#233;e</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La collaboratrice exercera un mi-temps chez ses 2 employeurs</commentaire>
+					<nom>Buard Camille</nom>
+					<employeur>La R&#233;publique en Marche</employeur>
+					<descriptionActivite>Responsable Engagement - Formation des militants - D&#233;ploiement d'actions et d'&#233;v&#232;nements</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Recrutement des collaborateurs en cours</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>07</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Ard&#232;che(07)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Ard&#232;che(07)</qualiteDeclarantForPDF>
+			<dateDebutMandat>23/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Heydel Grillere</nom>
+				<prenom>Laurence</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/11/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

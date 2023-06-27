@@ -1,0 +1,378 @@
+<declarations><declaration>
+		<dateDepot>30/08/2021 17:00:43</dateDepot>
+		<uuid>5751c917-2d2a-40da-9d2f-2472f9c7775c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>Recensement des d&#195;&#169;signations et repr&#195;&#169;sentations.pdf</fileName>
+				<serverFileName>5751c917-2d2a-40da-9d2f-2472f9c7775c_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Pas d'activit&#233;s Professionnelles </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>NEANT</employeurConjoint>
+					<activiteProf>NEANT</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les montants d&#233;clar&#233;s annuellement correspondent &#224; la somme des indemnit&#233;s de parlementaire et de conseiller d&#233;partemental. N'&#233;tant plus s&#233;nateur depuis octobre 2017, ne figurent depuis cette date que les indemnit&#233;s de Pr&#233;sident de conseil D&#233;partemental.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident du conseil d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>19887</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>83928</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>82717</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>83988</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>84983</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>85416</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>79847</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>37&#8239;920</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30&#8239;826</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>30&#8239;805</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;606</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2011</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du conseil d'administration en attente de la r&#233;&#233;lection du CA prochainement en pr&#233;cisant toutefois que je n'en serai ni le pr&#233;sident ni le vice pr&#233;sident</commentaire>
+					<descriptionMandat>Membre de l'Office public de l'habitat " Pas de Calais Habitat"</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1&#8239;580</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1&#8239;128</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>827</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;354</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2018</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration.</commentaire>
+					<descriptionMandat>Membre du comit&#233; de pilotage du Grand site de France</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>au titre de Pr&#233;sident du conseil d&#233;partemental en vertu du d&#233;cret 2020-228 du 10 mars 2020 modifiant de d&#233;cret 2017-427 relatif &#224; la Soci&#233;t&#233; du Canal Seine Nord Europe</commentaire>
+					<descriptionMandat>Membre du Conseil de Surveillance de la Soci&#233;t&#233; Canal Seine Nord Europe</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>OBS 1 la fonction de pr&#233;sident d'oph est exerc&#233;e &#224; titre b&#233;n&#233;vole et gratuit. Les montants d&#233;clar&#233;s ci dessus correspondent aux indemnit&#233;s forfaitaires vers&#233;es par l'Office pour la participation aux r&#233;unions du conseil d'administration et des commissions conform&#233;ment aux dispositions de l'article R421-10 du code de la construction et de l'habitation. OBS 2 : je pr&#233;cise que suite &#224; ma d&#233;mission des fonctions de Pr&#233;sident de l'OPH, je suis rest&#233; membre du conseil d'administration de pas de calais habitat jusqu'au prochain renouvellement du conseil d&#233;partemental OBS 3 : je pr&#233;cise &#233;galement qu'ant&#233;rieurement &#224; la fonction de pr&#233;sident j'&#233;tais administrateur de l'Office et qu'&#224; ce titre j'ai per&#231;u en 2012 une somme de 1505 &#8364; et en 2013 une somme de 1505 &#8364; et ce au titre des indemnit&#233;s forfaitaires conform&#233;ment aux dispositions de l'article R421-10 du CCH</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Office public de l'habitat "PAS DE CALAIS HABITAT"</nomSociete>
+					<activite>PRESIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1360</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2240</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Agence D&#233;partementale d'Ing&#233;nierie n'a jamais fonctionn&#233;, et sera prochainement abrog&#233;e par d&#233;lib&#233;ration du Conseil D&#233;partemental. </commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conseil D&#233;partemental </nomSociete>
+					<activite>Pr&#233;sidence Agence D&#233;partementale d'ing&#233;nierie D&#233;partementale </activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Institution Co Pr&#233;sid&#233;e avec Monsieur le Pr&#233;fet du Pas de Calais. Fin de mandat : &#224; l'expiration du mandat soit Mars 2021.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conseil D&#233;partemental </nomSociete>
+					<activite>Co Pr&#233;sidence du Grand Site des Deux Caps </activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Concernant les repr&#233;sentations il s'agit des premiers arr&#234;t&#233;s de d&#233;signations
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais (62)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>32</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Pas-de-Calais (62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>LEROY</nom>
+				<prenom>Jean-Claude</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>03/06/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

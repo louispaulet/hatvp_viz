@@ -1,0 +1,529 @@
+<declarations><declaration>
+		<dateDepot>05/08/2021 20:43:09</dateDepot>
+		<uuid>0c55aa34-0db6-48ff-9e4f-3405e61c6e4e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire>ce bien a &#233;t&#233; &#233;valu&#233; le 18 janvier 2020 par Patrim Welmo &#224; 300000 euros </commentaire>
+					<conservee>false</conservee>
+					<nature>appartement </nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>29</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2005</dateAcquisition>
+					<origine>acquisition </origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>195000</prixAcquisition>
+					<prixTravaux>12000</prixTravaux>
+					<valeurVenale>300000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ce bien a &#233;t&#233; acquis par voie de succession en qualit&#233; de nu-propri&#233;taire
+        [Donn&#233;es non publi&#233;es]
+    . Ma quote part est de 3/8&#232;me. il s'en d&#233;duit que la valeur v&#233;nale est de 99000 euros ( 330000 euros x 80 % ( selon le bar&#232;me de l'article 699 du CGI) x 3/8&#232;me)</commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 94)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>0</superficieBati>
+					<superficieNonBati>74.0</superficieNonBati>
+					<dateAcquisition>2017</dateAcquisition>
+					<origine>Succession</origine>
+					<droitReel>Nue-propri&#233;t&#233;</droitReel>
+					<quotePart>80.0</quotePart>
+					<prixAcquisition>330000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>99000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire>la somme de 30874,47 euros correspond &#224; un PEA esp&#232;ces : 2522,97 euros titres : 28351,50 euros </commentaire>
+					<conservee>false</conservee>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+     </titulaire>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA </naturePlacement>
+					<valeur>30874</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>140</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>Provost-Lopin Martine </souscripteur>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>24/06/2011</dateSouscription>
+					<valeurRachat>188612</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>14/03/2000</dateSouscription>
+					<valeurRachat>207757</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agit d'un PERP</commentaire>
+					<souscripteur>PROVOST-LOPIN Martine</souscripteur>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>09/12/2005</dateSouscription>
+					<valeurRachat>62368</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agit d'un. PERP</commentaire>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>30/09/2006</dateSouscription>
+					<valeurRachat>436775</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agit d'un compte &#233;pargne retraite</commentaire>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>31/12/1997</dateSouscription>
+					<valeurRachat>61982</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>compte courant </typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Provost-Lopin Martine</titulaire>
+					<valeur>44837</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>livret A</typeCompte>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Provost-Lopin Martine</titulaire>
+					<valeur>23464</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Provost-Lopin Martine</titulaire>
+					<valeur>12143</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>compte courant </typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    Mme Lopin</titulaire>
+					<valeur>37020</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>livret A</typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>23247</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNP
+        [Donn&#233;es non publi&#233;es]
+     </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>12145</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>19471</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>PROVOST-LOPIN Martine</titulaire>
+					<valeur>28592</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le solde du PEA se r&#233;partit comme suit : - 29873 euros en actions - 2244,56 euros en esp&#232;ces</commentaire>
+					<typeCompte>PEA</typeCompte>
+					<etablissement>BNP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>PEA</titulaire>
+					<valeur>32119</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>terrestre &#224; moteur</nature>
+					<marque>renault clio</marque>
+					<anneeAchat>2016</anneeAchat>
+					<valeurAchat>15000</valeurAchat>
+					<valeur>8500</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire>deux comptes bancaires professionnels : --- BNP Compte n
+        [Donn&#233;es non publi&#233;es]
+     : solde au 6 f&#233;vrier 2020 : 7130 euros --- BNP compte 
+        [Donn&#233;es non publi&#233;es]
+     : solde au 6 f&#233;vrier 2020 : 543 euros</commentaire>
+					<conservee>false</conservee>
+					<nature>Client&#232;le</nature>
+					<description>kin&#233;sith&#233;rapie : activit&#233; lib&#233;rale exerc&#233;e par 
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<actif/>
+					<endettement/>
+					<resultatFiscal>67214</resultatFiscal>
+					<valeur/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>cr&#233;ances de restitution de deux contrats d'assurance vie exigibles
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<denomination/>
+					<valeur>118186</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d&#8217;une autorit&#233; administrative ind&#233;pendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d&#8217;une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorit&#233;s administratives ind&#233;pendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/12/2019</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>Communaut&#233; l&#233;gale r&#233;duite aux acqu&#234;ts</regimeMatrimonial>
+			<regimeMatrimonialComments>n&#233;ant</regimeMatrimonialComments>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Provost-Lopin</nom>
+				<prenom>Martine</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/07/1953</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

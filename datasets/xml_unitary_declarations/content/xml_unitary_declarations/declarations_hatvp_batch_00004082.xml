@@ -1,0 +1,257 @@
+<declarations><declaration>
+		<dateDepot>21/07/2020 12:39:33</dateDepot>
+		<uuid>969aa362-b644-456e-bf2f-7f4369f9f60d</uuid>
+		<origine>ADEL</origine>
+		<complete>false</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mission de consultant avec le  cabinet Cap Nova en d&#233;cembre 2015.</commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>Autoentrepreneur</nomEmployeur>
+					<description>Conseil en communication et relations publiques</description>
+					<dateDebut>11/2015</dateDebut>
+					<dateFin>12/2015</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>750</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;but de contrat en octobre 2009.</commentaire>
+					<conservee>false</conservee>
+					<description>Doctorant contractuel avec mission d'enseignement</description>
+					<employeur>Universit&#233; Fran&#231;ois-Rabelais</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2010</annee>
+								<montant>24276</montant>
+							</montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>24336</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>18252</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2010</dateDebut>
+					<dateFin>09/2012</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Comprend le versement de la garantie pouvoir d'achat en novembre 2014.</commentaire>
+					<conservee>false</conservee>
+					<description>Attach&#233; temporaire d'enseignement et de recherche</description>
+					<employeur>Universit&#233; Fran&#231;ois-Rabelais</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>6125</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>25644</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18696</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2012</dateDebut>
+					<dateFin>08/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce ne sont pas les sommes exactes &#224; l'euro pr&#232;s mais des sommes arrondies.</commentaire>
+					<conservee>false</conservee>
+					<description>Directeur de cabinet et de la communication</description>
+					<employeur>Communaut&#233; de communes de l'Est Tourangeau</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>30000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>30000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>833</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2014</dateDebut>
+					<dateFin>01/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour 2020: revenus nets apr&#232;s pr&#233;l&#232;vement &#224; la source</commentaire>
+					<description>Directeur de cabinet et de la communication</description>
+					<employeur>Communaut&#233; Touraine-Est Vall&#233;es</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35518</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35641</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35982</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16349</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>37261</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Tours (37)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjoint au Maire et Conseiller m&#233;tropolitain</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Tours (37)/Adjoint au Maire et Conseiller m&#233;tropolitain</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GAGNAIRE</nom>
+				<prenom>Franck</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/09/1985</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

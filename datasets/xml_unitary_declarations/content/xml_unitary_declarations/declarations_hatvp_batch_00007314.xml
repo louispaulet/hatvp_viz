@@ -1,0 +1,457 @@
+<declarations><declaration>
+		<dateDepot>26/07/2021 18:45:56</dateDepot>
+		<uuid>25a10444-d768-4ed3-83ce-5ea757a5765c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cessation progressive d'activit&#233; d'Avocat. Re&#231;ois une pension de retraite depuis 2013. Avocat honoraire depuis Janvier 2019</commentaire>
+					<description>Avocat</description>
+					<employeur>Selarl O.Morin-A.PiaultAvocat</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2018</dateDebut>
+					<dateFin>03/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>c'est avant tout une asso de defense d'un produit,ouverte &#224; tous ceux qui aiment ce fromage</commentaire>
+					<nomStructure>Confrerie du Brie de Meaux Defense de l'AOP</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sident repr&#233;sentations</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>ACT'ART Association culturelle</nomStructure>
+					<descriptionActivite>Pr&#233;sident depuis D&#233;cembre 2018</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de Mandat 1er Juin 2020</commentaire>
+					<descriptionMandat>Maire Adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19582</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19588</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19587</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16&#8239;300</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;224</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de mandat 1er juin 2020</commentaire>
+					<descriptionMandat>Vice Pr&#233;sident Aglo du Pays de Meaux</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17232</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17237</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17450</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14&#8239;636</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8&#8239;670</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat en cours. Fin: juin 2021</commentaire>
+					<descriptionMandat>Conseiller Departemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>32821</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31734</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31897</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35&#8239;580</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34&#8239;292</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32&#8239;574</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>05/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas encore de r&#233;mun&#233;ration le mandat vient de commencer</commentaire>
+					<descriptionMandat>Conseiller D&#233;partemental D&#233;l&#233;gu&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentant du Dep 77 dans ce GIP du Grand Roissy appel&#233; Alliance</commentaire>
+					<nomSociete>GIP Emploi Roissy CDG Le Bourget</nomSociete>
+					<activite>Membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Act Art toujours Pr&#233;sident jusqu'&#224; nouvelle &#233;lection en Septembre 2021</commentaire>
+					<nomSociete>Association Act Art</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sident &#233;lu jusqu' &#224; la la fin du mandat de Conseiller D&#233;partemental</commentaire>
+					<nomSociete>Seine et Marne Attractivit&#233; EPIC</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>cessation progressive d'activit&#233; d'avocat Fin d'activit&#233; mars 2019 St&#233; Dissoute mars 2021</commentaire>
+					<nomSociete>Selarl O.Morin-A.Piault</nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>en 2017:0 en 2018:0 en 2019:0 en 2020:0 en 2021:0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>vente de l'immeuble de la sci en juillet 2018.Operation de dissolution en cours Distribution d'un boni en avril 2021 de 20000e</commentaire>
+					<nomSociete>Sci 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>20017:8341 2021 boni de 20000e</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>immeuble toujours en vente</commentaire>
+					<nomSociete>sci
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>en 2017:15672 en 2018:8200 en 2019:0 en 2020:0 en 2021:0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>sci 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>90</capitalDetenu>
+					<nombreParts>190</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne (77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>11</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Seine-et-Marne (77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Morin</nom>
+				<prenom>olivier</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/03/1947</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

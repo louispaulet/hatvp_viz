@@ -1,0 +1,615 @@
+<declarations><declaration>
+		<dateDepot>26/01/2023 10:18:09</dateDepot>
+		<uuid>cec5deaf-8c8f-4c1a-8da3-a0fb1fb1c2f6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction quitt&#233;e le 19 ao&#251;t 2022.</commentaire>
+					<description>Directeur de cabinet</description>
+					<employeur>COMMUNE DE BEAUCAIRE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>44&#8239;803</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>44&#8239;527</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>44&#8239;438</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>51&#8239;154</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>48&#8239;289</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>50&#8239;173</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>28&#8239;866</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>COMMUNE DE BEAUCAIRE</employeurConjoint>
+					<activiteProf>Directeur 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; politique b&#233;n&#233;vole.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>RASSEMBLEMENT NATIONAL</nomStructure>
+					<descriptionActivite>D&#233;l&#233;gu&#233; d&#233;partemental (F&#233;d&#233;ration du Gard)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; politique b&#233;n&#233;vole. Association en cours de dissolution.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>ASSOCIATION DES ELUS FN DE NIMES</nomStructure>
+					<descriptionActivite>Pr&#233;sident</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; b&#233;n&#233;vole li&#233;e au mandat de d&#233;put&#233; (association du groupe des d&#233;put&#233;s du Rassemblement National).</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>ASSOCIATION RASSEMBLEMENT NATIONAL DE L'ASSEMBLEE NATIONALE</nomStructure>
+					<descriptionActivite>Vice-pr&#233;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire de N&#238;mes M&#233;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2&#8239;205</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2&#8239;234</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;208</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;423</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;369</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;423</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1&#8239;420</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller r&#233;gional d'Occitanie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23&#8239;978</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23&#8239;665</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24&#8239;225</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23&#8239;959</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>23&#8239;272</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22&#8239;713</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9&#8239;980</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour 2022, somme allant de janvier &#224; juillet.</commentaire>
+					<descriptionMandat>Conseiller municipal de N&#238;mes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2&#8239;755</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2&#8239;791</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;760</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;466</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;669</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;101</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1&#8239;664</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction li&#233;e au mandat de conseiller communautaire (mandat quitt&#233; en ao&#251;t 2022)</commentaire>
+					<descriptionMandat>Membre - Secr&#233;taire (SITOM Sud Gard)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction li&#233;e au mandat de conseiller communautaire (mandat quitt&#233; en ao&#251;t 2022)</commentaire>
+					<descriptionMandat>D&#233;l&#233;gu&#233; syndical (Scot Sud Gard)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction li&#233;e au mandat de conseiller communautaire (mandat quitt&#233; en ao&#251;t 2022)</commentaire>
+					<descriptionMandat>Membre du PETR Garrigues et Costi&#232;res de N&#238;mes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; accessoire</commentaire>
+					<nom>SHERLEY Stobiac</nom>
+					<employeur>Autoentrepreneur. Num&#233;ro de Siret : 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>Auto-entrepreneur depuis le 6 mai 2019 dans le secteur des activit&#233;s sp&#233;cialis&#233;es de design (7410Z).</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat compatible avec la fonction de collaborateur parlementaire, vu avec le d&#233;ontologue de l'Assembl&#233;e Nationale.</commentaire>
+					<nom>CHAUDON Nelson</nom>
+					<employeur>COMMUNE DE BEAUCAIRE</employeur>
+					<descriptionActivite>Conseiller municipal d&#233;l&#233;gu&#233; &#224; la valorisation du sport.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; accessoire.</commentaire>
+					<nom>CHAUDON Nelson</nom>
+					<employeur>Autoentrepreneur. Siret n&#176; 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>Conseil en communication / Community manager.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de contrat le 18/07/2022
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>CHAUDON Nelson</nom>
+					<employeur>SARL Camargue M&#233;dical Service</employeur>
+					<descriptionActivite>Responsable d'agence.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En poste depuis le 04/07/2022</commentaire>
+					<nom>CHAUDON Nelson</nom>
+					<employeur>Yoann GILLET, d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En poste depuis le 04/07/2022</commentaire>
+					<nom>STOBIAC Sherley</nom>
+					<employeur>Yoann GILLET, d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En poste depuis le 02/08/2022</commentaire>
+					<nom>GHAZARYAN Liana</nom>
+					<employeur>Yoann GILLET, d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel &#224; compter du 01/09/2022.</commentaire>
+					<nom>CHAUDON NELSON</nom>
+					<employeur>MAIRIE DE NIMES</employeur>
+					<descriptionActivite>Collaborateur du groupe des &#233;lus RN</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat</commentaire>
+					<nom>FORTIER M&#233;lanie</nom>
+					<employeur>Conseil r&#233;gional Bourgogne-Franche-Comt&#233;</employeur>
+					<descriptionActivite>Conseill&#232;re r&#233;gionale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>FORTIER M&#233;lanie</nom>
+					<employeur>Romain BAUBRY, d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>FORTIER M&#233;lanie</nom>
+					<employeur>Julie LECHANTEUX, d&#233;put&#233;e</employeur>
+					<descriptionActivite>Collaboratrice parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>M. CHAPELLIER est collaborateur &#224; temps partiel de 3 d&#233;put&#233;s (J. Lechanteux, R. Baubry et moi m&#234;me) depuis le 09/01/2023</commentaire>
+					<nom>CHAPELLIER Robin</nom>
+					<employeur>Julie LECHANTEUX, d&#233;put&#233;e et Romain BAUBRY, d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Fin de contrat de M&#233;lanie FORTIER, collaboratrice parlementaire, au 07/11/2022.</contenu>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>30</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Gard(30)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Gard(30)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GILLET</nom>
+				<prenom>YOANN</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>29/08/1986</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

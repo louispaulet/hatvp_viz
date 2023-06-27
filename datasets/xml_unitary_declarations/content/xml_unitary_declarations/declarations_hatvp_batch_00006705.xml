@@ -1,0 +1,253 @@
+<declarations><declaration>
+		<dateDepot>09/05/2021 15:07:22</dateDepot>
+		<uuid>9b8795cb-dae7-42b8-a6c5-455a6e728ef7</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je travaille &#224; mi-temps depuis Ao&#251;t 2020 jusqu'&#224; Ao&#251;t 2021</commentaire>
+					<description>Enseignante</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>48&#8239;370</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50&#8239;098</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>51&#8239;059</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>51&#8239;157</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>54&#8239;858</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>46&#8239;239</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>885&#8239;931</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Pharmacien titulaire d'officine</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A partir de Juillet 2020 je per&#231;ois de nouvelles r&#233;mun&#233;rations li&#233;es aux nouvelles responsabilit&#233;s</commentaire>
+					<descriptionMandat>conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2&#8239;421</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2&#8239;460</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2&#8239;460</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;386</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;398</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>127&#8239;232</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Passif de la soci&#233;t&#233; est de 2058815</commentaire>
+					<nomSociete>SCI
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>617400</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>30</capitalDetenu>
+					<nombreParts>45</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>INTERGESTION (Cristal Rente)</nomSociete>
+					<evaluation>120204</evaluation>
+					<remuneration>8986 &#8364; brut</remuneration>
+					<capitalDetenu/>
+					<nombreParts>235</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>TACOUN Monique</nomSociete>
+					<evaluation>165376</evaluation>
+					<remuneration>8253 &#8364; brut</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>CIREST</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/CIREST</qualiteDeclarantForPDF>
+			<dateDebutMandat>21/08/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Marimoutou-Tacoun</nom>
+				<prenom>Monique</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>03/09/1966</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

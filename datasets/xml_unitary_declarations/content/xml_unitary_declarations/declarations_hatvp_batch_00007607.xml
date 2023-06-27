@@ -1,0 +1,951 @@
+<declarations><declaration>
+		<dateDepot>05/09/2022 23:34:37</dateDepot>
+		<uuid>cf531efd-ba37-42fe-8240-a3a0b2c84236</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Directrice du digital, de la marque et des partenariats</description>
+					<employeur>AXA</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>135&#8239;181</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>502&#160;048</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>05/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration per&#231;ue du 19 novembre 2018 au 2 mai 2021 (nb : p&#233;riode de pr&#233;avis pay&#233; non travaill&#233; de mars &#224; mai 2021)</commentaire>
+					<description>Directrice e-commerce, data et transformation digitale</description>
+					<employeur>Carrefour</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>35&#8239;732</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>306&#8239;759</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>590&#8239;947</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>582&#8239;109</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>03/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Directrice g&#233;n&#233;rale</description>
+					<employeur>F&#233;d&#233;ration fran&#231;aise de tennis</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>356&#8239;440</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>165&#8239;737</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2021</dateDebut>
+					<dateFin>05/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La Soci&#233;t&#233; g&#233;n&#233;rale investit dans le rugby (Coupe du monde de rugby 2023, F&#233;d&#233;ration fran&#231;aise de rugby et Ligue nationale de Rugby). 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Soci&#233;t&#233; G&#233;n&#233;rale</employeurConjoint>
+					<activiteProf>Directeur g&#233;n&#233;ral (depuis mai 2015), auparavant PDG (de mai 2009 &#224; mai 2015)</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capgemini investit dans le rugby (en particulier, Coupe du monde de rugby 2023)</commentaire>
+					<employeurConjoint>Capgemini</employeurConjoint>
+					<activiteProf>Administrateur r&#233;f&#233;rent de Capgemini SE depuis mai 2018, membre du Comit&#233; &#201;thique et Gouvernance.</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; exerc&#233;e &#224; titre b&#233;n&#233;vole</commentaire>
+					<employeurConjoint>Fondation de l'X (Ecole Polytechnique)</employeurConjoint>
+					<activiteProf>Pr&#233;sident de la Fondation de l'X</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Sanofi est partenaire premium des Jeux olympiques et paralympiques de Paris 2024. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<employeurConjoint>SANOFI</employeurConjoint>
+					<activiteProf>Censeur du Conseil d'administration &#224; compter du 5 septembre 2022</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Plastic Omnium</nomSociete>
+					<activite>Membre du Conseil d'administration et membre du comit&#233; des r&#233;mun&#233;rations, puis du comit&#233; d'audit</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15&#8239;443</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>30&#8239;091</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34&#8239;762</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>32&#8239;390</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37&#8239;138</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>05/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Eurazeo</nomSociete>
+					<activite>Membre du Conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14&#8239;467</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>32&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>37&#8239;170</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>38&#8239;203</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13&#8239;475</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2018</dateDebut>
+					<dateFin>05/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Carrefour</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10&#8239;167</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>11/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration per&#231;ue pour ce poste d'administrateur</commentaire>
+					<nomSociete>Showroompriv&#233;</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>RLSF est une association que j'ai co-fond&#233;e, investie dans la r&#233;novation des politiques et de la gouvernance du sport</commentaire>
+					<nomSociete>R&#233;novons le Sport Fran&#231;ais</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SDLV est une association d'insertion par le sport</commentaire>
+					<nomSociete>Sport dans la Ville</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Comit&#233; d'organisation des JOP de Paris 2024</nomSociete>
+					<activite>Membre du Conseil d'administration (et du Bureau ex&#233;cutif)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'Agence est un GIP</commentaire>
+					<nomSociete>Agence nationale du Sport</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus en propre, via des plans d'actions gratuites
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>1958139</evaluation>
+					<remuneration>128 890 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>90133</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus (i) via le PEA (plac&#233;s sous mandat de gestion &#224; la date de la pr&#233;sente d&#233;claration) (480&#8364;) et (ii) en propre, via un plan d'actions gratuites (14560&#8364;)</commentaire>
+					<nomSociete>Carrefour</nomSociete>
+					<evaluation>694540</evaluation>
+					<remuneration>15 040 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>41000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us au titre d'actions d&#233;tenues via le PEA et plac&#233;es sous mandat de gestion &#224; la date de la pr&#233;sente d&#233;claration</commentaire>
+					<nomSociete>Eurazeo</nomSociete>
+					<evaluation>15510</evaluation>
+					<remuneration>393 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>262</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de dividende vers&#233; en 2021. Le dividende indiqu&#233; ci-dessus correspond au dividende per&#231;u en 2020 au titre de l'exercice 2019. Ces actions ont &#233;t&#233; c&#233;d&#233;es &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Lagard&#232;re</nomSociete>
+					<evaluation>2521</evaluation>
+					<remuneration>136,5 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>150</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Jamais de dividende vers&#233; Actions plac&#233;es sous mandat de gestion (via le PEA) &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Showroom priv&#233;</nomSociete>
+					<evaluation>365</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>290</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Jamais per&#231;u de dividende Actions d&#233;tenues via un PEA-PME - plac&#233;es sous mandat de gestion aupr&#232;s de Soci&#233;t&#233; G&#233;n&#233;rale &#224; la date de la pr&#233;sente d&#233;claration</commentaire>
+					<nomSociete>Sportbudiz</nomSociete>
+					<evaluation>50150</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>228</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>ArcelorMittal</nomSociete>
+					<evaluation>4001</evaluation>
+					<remuneration>31,14 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>186</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Air Liquide</nomSociete>
+					<evaluation>6790</evaluation>
+					<remuneration>115,50 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>53</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Alstom</nomSociete>
+					<evaluation>1533</evaluation>
+					<remuneration>32,50 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>71</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>ASML HLG</nomSociete>
+					<evaluation>1368</evaluation>
+					<remuneration>4,59 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>3</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>BNPP</nomSociete>
+					<evaluation>4854</evaluation>
+					<remuneration>218,12 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>107</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>2248</evaluation>
+					<remuneration>108,65 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>205</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Kering</nomSociete>
+					<evaluation>4411</evaluation>
+					<remuneration>48 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>9</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>L'oreal</nomSociete>
+					<evaluation>6915</evaluation>
+					<remuneration>84 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>21</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>10471</evaluation>
+					<remuneration>112 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>18</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Orange</nomSociete>
+					<evaluation>2367</evaluation>
+					<remuneration>168,8 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>211</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Sanofi</nomSociete>
+					<evaluation>12332</evaluation>
+					<remuneration>281,60 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>128</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Schneider</nomSociete>
+					<evaluation>6887</evaluation>
+					<remuneration>124,80 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>61</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Vinci</nomSociete>
+					<evaluation>5607</evaluation>
+					<remuneration>129,12 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>66</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Stellantis</nomSociete>
+					<evaluation>1060</evaluation>
+					<remuneration>123,29 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>90</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>ST Microelectronics</nomSociete>
+					<evaluation>1650</evaluation>
+					<remuneration>14,19 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>55</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>CRH</nomSociete>
+					<evaluation>2013</evaluation>
+					<remuneration>8,98 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>61</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>Michelin</nomSociete>
+					<evaluation>3403</evaluation>
+					<remuneration>43,70 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>131</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividendes per&#231;us du fait des titres d&#233;tenus via le PEA en gestion sous mandat</commentaire>
+					<nomSociete>TotalEnergies</nomSociete>
+					<evaluation>11233</evaluation>
+					<remuneration>533,94 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>223</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Capgemini</nomSociete>
+					<evaluation>2288</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>14</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Danone</nomSociete>
+					<evaluation>1438</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>27</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>ENI SPA</nomSociete>
+					<evaluation>2231</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>197</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Koninklijke</nomSociete>
+					<evaluation>1193</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>48</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Vivendi</nomSociete>
+					<evaluation>2676</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>276</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Saint Gobain</nomSociete>
+					<evaluation>1515</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>37</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Teleperformance</nomSociete>
+					<evaluation>1466</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>Cr&#233;dit Agricole</nomSociete>
+					<evaluation>1135</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>130</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Titres d&#233;tenus via le PEA sous gestion de mandat</commentaire>
+					<nomSociete>EssilorLuxoticca</nomSociete>
+					<evaluation>1714</evaluation>
+					<remuneration>0 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>12</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Ericsson</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>76,77 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Plastic Omnium</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>441 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Bouygues</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>197,20 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Rubis</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>122,40 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Volvo</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>126,83 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dividende per&#231;u en 2021 au titre de l'ann&#233;e 2020. Participation d&#233;tenue via le PEA sous gestion de mandat - le titre a &#233;t&#233; vendu par le gestionnaire &#224; la date de la pr&#233;sente d&#233;claration.</commentaire>
+					<nomSociete>Universal Music</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>13,26 &#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>sportjo</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re des sports et des jeux Olympiques et Paralympiques</labelOrgane>
+				<labelDeclaration>Ministre des sports et des jeux Olympiques et Paralympiques</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre des sports et des jeux Olympiques et Paralympiques</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/05/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Oud&#233;a-Cast&#233;ra</nom>
+				<prenom>Am&#233;lie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>09/04/1978</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

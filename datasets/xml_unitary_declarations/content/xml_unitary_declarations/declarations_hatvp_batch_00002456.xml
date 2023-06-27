@@ -1,0 +1,376 @@
+<declarations><declaration>
+		<dateDepot>02/09/2022 12:34:03</dateDepot>
+		<uuid>c01ddde5-e745-4745-a4c1-8881b612fd16</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>SARL FBJ ATELIERS</nomEmployeur>
+					<description>CONSULTANTE RH, Coach professionnel, formatrice</description>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>12/2012</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>3139</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>FBJ ATELIERS</nomEmployeur>
+					<description>Consultante RH, Bilan de comp&#233;tences et formatrice RH</description>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>12/2013</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8181</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>FBJ ATELIERS</nomEmployeur>
+					<description>Consultante RH bilan de comp&#233;tences, RH</description>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>12/2014</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>7523</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>FBJ ATELIERS</nomEmployeur>
+					<description>Consultante RH, prestataire pour AKSIS CONSULTANT</description>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2015</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14634</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>Micro entreprise</nomEmployeur>
+					<description>Consultante RH pour Aksis centre</description>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2016</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>56745</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>Entreprise individuelle Fabienne COLBOC</nomEmployeur>
+					<description>CONSULTANTE RH, bilan de comp&#233;tences, VAE</description>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2017</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12637</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>AMUDI</employeurConjoint>
+					<activiteProf>Directeur Immobilier et des services g&#233;n&#233;raux.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#201;EELUE EN JUIN 2022</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#233;put&#233;e</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>39&#8239;655</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>72&#8239;449</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;842</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;777</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;777</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>41&#8239;433</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+     EMPRUNTS 270000 valeur v&#233;nale 2147</commentaire>
+					<nomSociete>SCI FAMILIALE</nomSociete>
+					<evaluation>2147</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>30</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>valeur v&#233;nale 1179 EUROS</commentaire>
+					<nomSociete>SAS COQUELICOTS</nomSociete>
+					<evaluation>1179</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>30</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A compter du 01 Octobre en circonscription pour moi contrat de travail en cours d'&#233;laboration</commentaire>
+					<nom>BENSENOUCI MOHAMMED</nom>
+					<employeur/>
+					<descriptionActivite>COLLABORATEUR ADMINISTRATIF</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>FIN DU CONTRAT LE 05 Septembre 2022</commentaire>
+					<nom>AVIRON LAETITIA</nom>
+					<employeur/>
+					<descriptionActivite>AGENDA GESTION DES MAILS REPONSES COURRIERS PERMANENCES REPRESENTATION</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>EMBAUCH&#201;E LE 29 Aout 2022</commentaire>
+					<nom>AMELIE BOLANTIN</nom>
+					<employeur/>
+					<descriptionActivite>AGENDA - COURRIERS - REPRESENTATIONS - ORGANISATIONS REUNIONS -</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>37</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Indre-et-Loire(37)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Indre-et-Loire(37)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>COLBOC</nom>
+				<prenom>Fabienne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>09/08/1971</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

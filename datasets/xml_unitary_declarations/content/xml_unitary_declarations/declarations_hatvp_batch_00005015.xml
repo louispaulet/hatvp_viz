@@ -1,0 +1,234 @@
+<declarations><declaration>
+		<dateDepot>12/05/2021 20:10:13</dateDepot>
+		<uuid>312a6c64-2f94-4413-95be-9775080c8bec</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon contrat au conseil d&#233;partemental a d&#233;marr&#233; au 22/06/2015</commentaire>
+					<description>Responsable Cellule projets collectifs d'insertion sociale et professionnelle</description>
+					<employeur>CONSEIL DEPARTEMENTAL DE LA REUNION</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20&#160;742</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>39&#160;600</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42&#160;350</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>41&#160;718</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>43&#160;794</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>43&#160;596</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Manque sur ce tableau le montant des indemnit&#233;s per&#231;us sur la p&#233;riode du 15/04/2014 (d&#233;but de mandat interco) au 31/12/2014 : 16 993 &#8364;</commentaire>
+					<descriptionMandat>vice-pr&#233;sident communaut&#233; d'agglom&#233;ration du Territoire de la C&#244;te Ouest</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23&#8239;337</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23&#8239;140</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23&#8239;227</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22&#8239;962</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22&#8239;962</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;441</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ann&#233;e de fin de mandat de conseiller g&#233;n&#233;ral.Indemnit&#233;s per&#231;us sur la p&#233;riode de avril 2014 &#224; d&#233;cembre 2014 : 11 670 &#8364;</commentaire>
+					<descriptionMandat>Conseiller G&#233;n&#233;ral</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5&#8239;836</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2015</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SOCIETE PUBLIQUE LOCALE AVENIR REUNION</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1&#160;105</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2015</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Communaut&#233; d'agglom&#233;ration du Territoire de la C&#244;te Ouest</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Communaut&#233; d'agglom&#233;ration du Territoire de la C&#244;te Ouest</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HIPPOLYTE</nom>
+				<prenom>Henry</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>06/09/1961</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,185 @@
+<declarations><declaration>
+		<dateDepot>09/09/2020 09:38:42</dateDepot>
+		<uuid>d9249e6e-1013-4c07-8f49-a3e985d00785</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>CI_Pauline Schlosser 2020.pdf</fileName>
+				<serverFileName>d9249e6e-1013-4c07-8f49-a3e985d00785_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Je suis encore en activit&#233;. Ces 3 derni&#232;res ann&#233;es j'avais en plus pour responsabilit&#233; administrative au sein du d&#233;partement GIM la direction des &#233;tudes 1&#232;re ann&#233;e.J'ai mis le montant imposable de l'ann&#233;e</commentaire>
+					<conservee>false</conservee>
+					<description>Professeur agr&#233;g&#233;e au sein des d&#233;partment G&#233;nie industriel et maintenance et g&#233;nie m&#233;canisque et productique de l'IUT LYON1</description>
+					<employeur>universit&#233; Claude Bernard Lyon1</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>40556</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>40071</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>38515</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>44635</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40924</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24471</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>nouvellement adjointe au maire de la ville de Villeurbanne</commentaire>
+					<conservee>false</conservee>
+					<description>adjointe au maire </description>
+					<employeur>ville de Villeurbanne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3071</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69266</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Villeurbanne (69)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>adjointe en charge des d&#233;placements, mobilit&#233; et stationnement</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Villeurbanne (69)/adjointe en charge des d&#233;placements, mobilit&#233; et stationnement</qualiteDeclarantForPDF>
+			<dateDebutMandat>10/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme.</civilite>
+				<nom>Schlosser</nom>
+				<prenom>Pauline</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>13/06/1978</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,600 @@
+<declarations><declaration>
+		<dateDepot>31/03/2022 23:00:48</dateDepot>
+		<uuid>9876c167-3b72-4ebe-8ce7-9967ab180cbd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; est incompatible avec l'exercice de mon mandat. Ceci a &#233;t&#233; confirm&#233; par le bureau de d&#233;ontologie du S&#233;nat. Il a &#233;t&#233; mis fin &#224; mon CDD et donc &#224; mon activit&#233; en date du 28 f&#233;vrier 2022. D&#233;clar&#233;e &#233;galement en rubrique activit&#233;s professionnelles.</commentaire>
+					<nomEmployeur>AMUR CONSEILS</nomEmployeur>
+					<description>Directeur du d&#233;veloppement en charge de missions d'assistance &#224; maitrise d'ouvrage / cadre / en CDD</description>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>02/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24&#8239;375</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9&#8239;282</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; sollicit&#233; en 2021 pour &#234;tre membre titulaire du Jury du concours d'entr&#233;e &#224; l'Ecole de Guerre (pr&#233;paration des sujets en amont et 15 jours de jury en septembre). En 2022, je ne suis que jury suppl&#233;ant en cas de d&#233;fection ou d'impossibilit&#233; d'un membre titulaire. Un membre de jury ne peut &#234;tre plus de 2 fois titulaire.</commentaire>
+					<conservee>true</conservee>
+					<nomEmployeur>en 2021, membre civil du Jury du concours d'entr&#233;e &#224; l'Ecole de Guerre</nomEmployeur>
+					<description>2966</description>
+					<dateDebut>02/2021</dateDebut>
+					<dateFin>10/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;966</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; est incompatible avec l'exercice de mon mandat. Ceci a &#233;t&#233; confirm&#233; par le bureau de d&#233;ontologie du S&#233;nat. Il a &#233;t&#233; mis fin &#224; mon CDD et donc &#224; mon activit&#233; en date du 28 f&#233;vrier 2022. Activit&#233; d&#233;clar&#233;e &#233;galement en activit&#233; de consultant.</commentaire>
+					<conservee>false</conservee>
+					<description>Directeur du d&#233;veloppement en charge de missions d'assistance &#224; maitrise d'ouvrage / cadre / en CDD</description>
+					<employeur>AMUR CONSEILS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24&#8239;375</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9&#8239;282</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>02/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; sollicit&#233; en 2021 pour &#234;tre membre titulaire du Jury du concours d'entr&#233;e &#224; l'Ecole de Guerre (pr&#233;paration des sujets en amont et 15 jours de jury en septembre). En 2022, je ne suis que jury suppl&#233;ant en cas de d&#233;fection ou d'impossibilit&#233; d'un membre titulaire. Un membre de jury ne peut &#234;tre plus de 2 fois titulaire.</commentaire>
+					<description>en 2021, membre civil du Jury du concours d'entr&#233;e &#224; l'Ecole de Guerre</description>
+					<employeur>Minist&#232;re de La D&#233;fense</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;966</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2021</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de mon CDD en mai 2021 (en cours de 2e CDD de 3 ans).</commentaire>
+					<description>Responsable de dossiers sur la mobilisation du foncier r&#233;gionale, territoire d'innovation et smart r&#233;gion (Direction du logement et puis direction de la donn&#233;e)</description>
+					<employeur>REGION ILE-DE-FRANCE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18&#8239;802</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>57&#8239;217</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>56&#8239;395</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>57&#8239;369</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>54&#8239;283</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22&#8239;249</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>AMUR CONSEILS</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je souhaite continuer &#224; participer aux actions de l'association qui consistent essentiellement en la promotion et la d&#233;fense des droits des personnes LGBT dans la soci&#233;t&#233;</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>CENTR'EGAUX Association loi 1901 Dont l'action consiste en la promotion et la d&#233;fense des droits des personnes LGBT dans la soci&#233;t&#233; mais aussi contre l&#8217;homophobie et toutes les formes de discriminations</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sidente de l'association.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette association pourra &#234;tre cl&#244;tur&#233;e dans les prochains mois d&#232;s que le montant sera d&#233;finitivement vers&#233; &#224; la commune. Le projet est en cours de construction. L'objet de l'association tombe de fait.</commentaire>
+					<nomStructure>YPEC Yerres Protection Environnement et Cadre de vie. Association de loi 1901. Ayant pour but la d&#233;fense de quartier &#224; Yerres et notamment contre un projet d'am&#233;nagement sur le secteur de la gare. Association cr&#233;&#233;e le 20 d&#233;cembre 2013.</nomStructure>
+					<descriptionActivite>Pr&#233;sidente de l'Association. L'association a engag&#233; un recours contre les autorisations d'urbanisme du projet de la gare &#224; Yerres. L'association a perdu son recours.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'association va &#234;tre dissoute. Les formalit&#233;s seront engag&#233;es en ce sens.</commentaire>
+					<nomStructure>Les Centristes de l'Essonne / Association loi 1901 pour rassembler toutes les personnes de sensibilit&#233; centriste, &#233;lus, sympathisants ou citoyens. Cr&#233;ation le 29 mars 2012.</nomStructure>
+					<descriptionActivite>Pr&#233;sidente. L'association est en sommeil depuis des ann&#233;es. Aucune activit&#233; enregistr&#233;e.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les d&#233;marches seront engag&#233;es pour dissoudre cette association.</commentaire>
+					<nomStructure>S&#233;nart Ecologie Association / loi 1901 pour rassembler toutes les personnes par la protection et la d&#233;fense de la for&#234;t de S&#233;nart, des bois, des espaces verts et des espaces naturels de la 9 &#232;me et de la 8 &#232;me circonscription de l'Essonne</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sidente Association en sommeil depuis des ann&#233;es. Sans aucune activit&#233;.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat non incompatible et donc conserv&#233;. PS : lors de l'enregistrement, la p&#233;riode que j'ai rempli ne semble pas s'enregistrer convenablement : pour rappel : d&#233;but de mandat Juin 2020 et mandat encore en cours</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re Municipale Itteville</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce mandat a cess&#233; en juin 2020 suite au renouvellement municipal.</commentaire>
+					<descriptionMandat>Conseill&#232;re Municipale de Yerres</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>753</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>758</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>743</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>747</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>373</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association loi 1901 qui d&#233;fend l&#8217;&#233;galit&#233; des droits entre les citoyen-ne-s h&#233;t&#233;rosexuel-le-s et homosexuel-les, lutte contre l&#8217;homophobie et toutes les formes de discriminations dont sont victimes les personnes LGBT et pour que l&#8217;orientation sexuelle et l&#8217;identit&#233; de genre ne soient plus, en France, synonymes d&#8217;in&#233;galit&#233;.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Association CENTR'EGAUX</nomSociete>
+					<activite>Vice-Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'association a engag&#233; un recours contre les autorisations d'urbanisme du projet de la gare &#224; Yerres. L'association a perdu son recours. Cette association pourra &#234;tre cl&#244;tur&#233;e dans les prochains mois d&#232;s que le montant sera d&#233;finitivement vers&#233; &#224; la commune. Le projet est en cours de construction. L'objet de l'association tombe de fait.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>YPEC Yerres Protection Environnement et Cadre de vie. Association de loi 1901. Ayant pour but la d&#233;fense de quartier &#224; Yerres et notamment contre un projet d'am&#233;nagement sur le secteur de la gare. Association cr&#233;&#233;e le 20 d&#233;cembre 2013.</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'association va &#234;tre dissoute. Les formalit&#233;s seront engag&#233;es en ce sens.</commentaire>
+					<nomSociete>Les Centristes de l'Essonne / Association loi 1901 pour rassembler toutes les personnes de sensibilit&#233; centriste, &#233;lus, sympathisants ou citoyens. Cr&#233;ation le 29 mars 2012.</nomSociete>
+					<activite>Pr&#233;sidente. L'association est en sommeil depuis des ann&#233;es. Aucune activit&#233; enregistr&#233;e.</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association en sommeil depuis des ann&#233;es. Sans aucune activit&#233;. Les d&#233;marches seront engag&#233;es pour dissoudre cette association.</commentaire>
+					<nomSociete>S&#233;nart Ecologie Association / loi 1901 pour rassembler toutes les personnes par la protection et la d&#233;fense de la for&#234;t de S&#233;nart, des bois, des espaces verts et des espaces naturels de la 9 &#232;me et de la 8 &#232;me circonscription de l'Essonne</nomSociete>
+					<activite>Vice-Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d'administration en qualit&#233; de conseiller municipal de Yerres. Cette fonction a cess&#233; en m&#234;me temps que mon mandat d'&#233;lue &#224; Yerres en juin 2020.</commentaire>
+					<nomSociete>SAEM HABITER A YERRES</nomSociete>
+					<activite>Soci&#233;t&#233; d'&#233;conomie mixte communale de gestion de logements sociaux</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bureau d'&#233;tudes VRD (voiries r&#233;seaux et divers) sp&#233;cialis&#233; en ing&#233;nierie et AMO aupr&#232;s des collectivit&#233;s ou am&#233;nageurs.</commentaire>
+					<nomSociete>AMUR CONSEILS</nomSociete>
+					<evaluation>70</evaluation>
+					<remuneration>N&#233;ant</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>DELCAMBRE Matthieu</nom>
+					<employeur>En micro entreprise</employeur>
+					<descriptionActivite>Conseil en paysage et art de vivre pour les collectivit&#233;s. Accompagnements aux labels concernant la qualit&#233; de vie.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BESSON Delphine</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>N&#233;ant</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>91</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Essonne(91)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Essonne(91)</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/02/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>RACT-MADOUX</nom>
+				<prenom>Daphn&#233;</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>13/05/1972</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

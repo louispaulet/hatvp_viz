@@ -1,0 +1,247 @@
+<declarations><declaration>
+		<dateDepot>06/11/2020 12:16:16</dateDepot>
+		<uuid>450c990a-379c-4efa-a8cf-76f04d493b67</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>Relev&#233;s de coupons PEA.pdf</fileName>
+				<serverFileName>450c990a-379c-4efa-a8cf-76f04d493b67_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sident de la CDC Haute Saintonge (r&#233;&#233;lu le 15/07/2020), Pr&#233;sident du Syndicat D&#233;partemental de la Voirie (jusqu'au 07/10/2010), Maire de Jonzac jusqu'au 27/05/2020), 1er Adjoint au Maire de Jonzac (depuis le 28/05/2020). Montants 2020 per&#231;us du 01/01/2020 au 31/10/2020</commentaire>
+					<descriptionMandat>Pr&#233;sident CDC Haute Saintonge, Pr&#233;sident du Syndicat D&#233;partemental de la Voirie (jusqu'au 07/10/2020), Maire de Jonzac (jusqu'au 27/05/2020), 1er Adjoint au Maire de Jonzac (depuis le 28/05/2020)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>66&#8239;912</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>66&#8239;924</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67&#8239;729</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;742</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#8239;009</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>53&#8239;959</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de perception d'indemnit&#233;</commentaire>
+					<nomSociete>EIGSI Ecole d'Ing&#233;nieurs La Rochelle</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ann&#233;e concern&#233;e : 2019</commentaire>
+					<nomSociete>ARKEMA</nomSociete>
+					<evaluation>1350</evaluation>
+					<remuneration>35</remuneration>
+					<capitalDetenu/>
+					<nombreParts>14</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ann&#233;e concern&#233;e : 2019</commentaire>
+					<nomSociete>TOTAL SE</nomSociete>
+					<evaluation>28497</evaluation>
+					<remuneration>1 486.08</remuneration>
+					<capitalDetenu/>
+					<nombreParts>576</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette SCI concerne un local situ&#233; 
+        [Donn&#233;es non publi&#233;es]
+     comprenant un b&#226;timent de 200 m&#178; sur un terrain d'une superficie non b&#226;tie de 0.004 ha. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>45000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>45</capitalDetenu>
+					<nombreParts>45</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>CDC Haute Saintonge</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/CDC Haute Saintonge</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Belot</nom>
+				<prenom>Claude</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/07/1936</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

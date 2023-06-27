@@ -1,0 +1,251 @@
+<declarations><declaration>
+		<dateDepot>13/11/2017 17:23:28</dateDepot>
+		<uuid>9c6c59fb-e07e-4f8f-ac73-c0c2e2ea87e1</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Cabinet de courtage d'assurances. Salari&#233; &#224; temps partiel. Prise d'activit&#233; en 2013, apr&#232;s validation de la d&#233;ontologue et du bureau de l'Assembl&#233;e Nationale</commentaire>
+					<conservee>true</conservee>
+					<description>Charg&#233; de mission d&#233;veloppement commercial et Relations ext&#233;rieures</description>
+					<employeur>MSH international</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>76795</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>98728</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>98441</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>97960</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>91000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2013</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>VMS France</employeurConjoint>
+					<activiteProf>Charg&#233;e d'affaires</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;rations per&#231;ues en 2016 et 2017</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Ramecourt Conseil SAS</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Ai &#233;t&#233; Pr&#233;sident du Conseil d&#233;partemental du 2/04/2015 au 25/10/2017</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller D&#233;partemental de l'Oise</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23314</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31292</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>30831</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Participation financ&#233;e &#224; 80% par emprunt dans le cadre du LBO de Siaci Saint Honor&#233;, maison m&#232;re de MSH intl</commentaire>
+					<nomSociete>SISAHO MANAGEMENT 1</nomSociete>
+					<evaluation>29013</evaluation>
+					<remuneration>NEANT</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>29013</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Participation financ&#233;e &#224; 80% par emprunt dans le cadre du LBO de Siaci Saint Honor&#233;, maison m&#232;re de MSH intl</commentaire>
+					<nomSociete>SISAHO MANAGEMENT 2</nomSociete>
+					<evaluation>170987</evaluation>
+					<remuneration>NEANT</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>162179</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire/>
+					<nom>LOCATELLI Benjamin</nom>
+					<employeur>Maxime Minot, d&#233;put&#233; de l'Oise</employeur>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire/>
+					<nom>AUBERT Nicolas</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>60</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Oise(60)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Oise(60)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>COURTIAL</nom>
+				<prenom>Edouard</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>28/06/1973</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,392 @@
+<declarations><declaration>
+		<dateDepot>11/07/2022 17:25:48</dateDepot>
+		<uuid>bd7b2e23-5324-486f-ac6d-5dfc6eaec367</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2H de formation &#224; des dirigeants de f&#233;d&#233;rations professionnelles dans le cadre de la formation professionnelle. Cette courte activit&#233; est amen&#233;e &#224; se r&#233;p&#233;ter dans les ann&#233;es qui viennent sans doute &#224; raison de 2 ou 3 interventions par an. Prochaine intervention pr&#233;vue le 22 novembre.</commentaire>
+					<nomEmployeur>Sciences Po Paris</nomEmployeur>
+					<description>Formation</description>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+					<remuneration>
+						<brutNet/>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En 2012, je n'ai indiqu&#233; que le mois de d&#233;cembre. Pour 2012 mon brut Medef est de 74042</commentaire>
+					<description>Membre de la direction des adh&#233;rents du Medef</description>
+					<employeur>Medef</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>5969</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>73689</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>74004</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>74450</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2012</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Mis &#224; disposition aupr&#232;s du groupe des entreprises du CESE</description>
+					<employeur>Medef</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>74451</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>76912</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Auto-entrepreneur</employeurConjoint>
+					<activiteProf>Consultante en affaires de gestion</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint au Maire &#224; Mantes la Jolie</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>11198</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15387</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15433</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15651</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je deviens VP de la communaut&#233; urbaine en f&#233;vrier 2019.</commentaire>
+					<descriptionMandat>Conseiller communautaire Communaut&#233; Urbaine GPS&amp;O</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5790</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6387</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6409</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>769</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>02/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>VP de la CU jusqu'au 10 juillet 2020, date &#224; laquelle je suis devenu pr&#233;sident.</commentaire>
+					<descriptionMandat>Vice-pr&#233;sident de la CU GPS&amp;O</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23250</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13488</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2019</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233;s per&#231;ues en juin 2022 pour la p&#233;riode allant du 21 juin 2022 (installation du conseil) &#224; maintenant. Versements mensuels d&#233;sormais.</commentaire>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5&#8239;300</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je commencerai &#224; toucher des indemnit&#233;s pour ce mandat en juillet 2022.</commentaire>
+					<descriptionMandat>Vice-Pr&#233;sident de la Communaut&#233; urbaine Grand Paris Seine &amp; Oise</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Centre communal d'Action sociale</nomSociete>
+					<activite>Pr&#233;sident de droit</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2017</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;sign&#233; membre de droit du conseil de surveillance depuis d&#233;cembre 2017, &#233;lu pr&#233;sident du conseil de surveillance en juin 2020.</commentaire>
+					<nomSociete>CH Fran&#231;ois-Quesnay</nomSociete>
+					<activite>Pr&#233;sident du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>J'ai d&#233;missionn&#233; de mes fonctions de Maire et de Pr&#233;sident de la communaut&#233; urbaine le 8 janvier 2022. J'ai retrouv&#233; mon si&#232;ge de Maire le 21 mai 2022 et de Vice-Pr&#233;sident de la CU le 7 juillet 2022.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>78361</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Mantes-la-Jolie (78)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>78</organeParent>
+			</organe>
+			<qualiteDeclarant>Maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Mantes-la-Jolie (78)/Maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>21/05/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>COGNET</nom>
+				<prenom>Rapha&#235;l</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>05/03/1979</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

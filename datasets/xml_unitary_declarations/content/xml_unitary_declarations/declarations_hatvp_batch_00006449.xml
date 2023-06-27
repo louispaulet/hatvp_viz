@@ -1,0 +1,392 @@
+<declarations><declaration>
+		<dateDepot>04/11/2017 19:18:31</dateDepot>
+		<uuid>737e56b1-3297-49a0-a2a5-b3338e302cdc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; professionnelle a pris fin le 01/10/2017</commentaire>
+					<conservee>false</conservee>
+					<description>collaboratrice de s&#233;nateur, CDI, fonction exerc&#233;e &#224; la permanence parlementaire de province, &#224; savoir le d&#233;partement des Landes. Suivi du travail parlementaire, relations avec les &#233;lus du territoire, relations avec les citoyens par rendez-vous &#224; la permanence, etc...</description>
+					<employeur>S&#233;nateur Jean-Louis CARRERE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>54524</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>55289</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>55932</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>56641</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>57247</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42713</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>n&#233;ant</employeurConjoint>
+					<activiteProf>retrait&#233;</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>activit&#233; de pr&#233;sidence b&#233;n&#233;vole d'une association d'insertion que j'exercerai encore durant quelques mois</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Association interm&#233;diaire Service Chalosse Tursan HAGETMAUassociation d'insertion pour personnes en difficult&#233;</nomStructure>
+					<descriptionActivite>pr&#233;sidente de la structure</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La r&#233;mun&#233;ration 2017 comprend l'indemnit&#233; de janvier &#224; septembre, puis l'indemnit&#233; du mois d'octobre . J'ai quitt&#233; la vice-pr&#233;sidence le 20/10/2017, restant donc conseill&#232;re d&#233;partementale.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re d&#233;partementale des Landes, vice-pr&#233;sidente jusqu'au 20/10/2017</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>23400</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23400</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19300</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de ma fonction de conseill&#232;re municipale le 13/10/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseill&#232;re municipale de HAGETMAU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de fait de cette fonction, du fait de ma d&#233;mission de conseill&#232;re municipale, le 13/10/2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>&#233;lue communautaire de la communaut&#233; de communes de Chalosse Tursan</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai quitt&#233; cette fonction le 20/10/2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>MISSION LOCALE LANDAISE</nomSociete>
+					<activite>pr&#233;sidente d&#233;l&#233;gu&#233;e</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai quitt&#233; cette fonction le 31/08/2017. Le d&#233;partement n'est plus membre de TRANSLANDES, la comp&#233;tence transports &#233;tant transf&#233;r&#233;e aux R&#233;gions depuis le 01/09/2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPL TRANSLANDES</nomSociete>
+					<activite>pr&#233;sidente de cette SPL de transports</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je n'occupe pas de fonctions ex&#233;cutives</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>XL HABITAT</nomSociete>
+					<activite>bailleur social, administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>DEHEZ Marielle</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>JANOT Bruno</nom>
+					<employeur>collaborateur parlementaire &#224; mi-temps du S&#233;nateur Eric KERROUCHE.</employeur>
+					<descriptionActivite>collaborateur de s&#233;nateur &#224; mi-temps, en CDI; exerce en province, suivi du travail parlementaire, relations avec les &#233;lus, communication de l'&#233;lu</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CHARLON Fabien</nom>
+					<employeur>collaborateur &#224; mi-temps de la S&#233;natrice Fran&#231;oise CARTRON.</employeur>
+					<descriptionActivite>Collaborateur &#224; mi-temps en CDI. exerce &#224; mi-temps pour moi et &#224; mi-temps pour une autre s&#233;natrice. &#224; Paris, au S&#233;nat. suivi du travail parlementaire, participation aux r&#233;unions ouvertes aux collaborateurs, r&#233;daction de questions &#233;crites, d'amendements, de propositions de loi. Communication de l'&#233;lue</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>40</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Landes(40)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Landes(40)</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>LUBIN</nom>
+				<prenom>Monique</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/07/1963</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

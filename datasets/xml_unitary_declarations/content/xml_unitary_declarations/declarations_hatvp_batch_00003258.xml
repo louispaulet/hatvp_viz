@@ -1,0 +1,256 @@
+<declarations><declaration>
+		<dateDepot>21/01/2021 20:53:38</dateDepot>
+		<uuid>dc5c8abd-1212-466f-9830-b96e6d2bf4f1</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ANNUEL</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>41&#8239;032</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>41&#8239;591</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>41&#8239;310</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>41&#8239;061</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>40&#8239;559</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>41&#8239;204</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ANNUEL net a payer</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident comm agglo</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14&#8239;154</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14&#8239;466</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11&#8239;201</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12&#8239;159</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12&#8239;003</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;165</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Annuel net a payer fourni par CR</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>VICE PRESIDENT C REGIONAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37&#8239;274</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>36&#8239;854</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>38&#8239;189</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>37&#8239;043</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; sans activit&#233;</commentaire>
+					<nomSociete>AMERICA SARL</nomSociete>
+					<evaluation>3812</evaluation>
+					<remuneration>G&#233;rant non r&#233;mun&#233;r&#233;</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>soci&#233;t&#233; sans activit&#233;</commentaire>
+					<nomSociete>LR VACANCES</nomSociete>
+					<evaluation>3811</evaluation>
+					<remuneration>G&#233;rant non r&#233;mun&#233;r&#233;</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>05061</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Gap (05)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>05</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Gap (05)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Didier</nom>
+				<prenom>Roger</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/02/1951</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

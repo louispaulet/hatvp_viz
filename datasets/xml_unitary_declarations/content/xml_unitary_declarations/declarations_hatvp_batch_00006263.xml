@@ -1,0 +1,299 @@
+<declarations><declaration>
+		<dateDepot>13/11/2017 11:23:55</dateDepot>
+		<uuid>818a0449-5180-4c97-a482-75d24fb218d2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>passeport ml.pdf</fileName>
+				<serverFileName>818a0449-5180-4c97-a482-75d24fb218d2_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomEmployeur>Martin L&#233;vrier</nomEmployeur>
+					<description>Droits de co-auteurs</description>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>09/2017</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>5868</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>4936</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>3069</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4811</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4652</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1078</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2041</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En 2017 mon salaire se termine fin septembre. ce qui explique la diminution de revenus.</commentaire>
+					<conservee>false</conservee>
+					<description>Secr&#233;taire G&#233;n&#233;ral</description>
+					<employeur>OGEC Notre Dame du Grandchamp</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>85641</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>86872</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>91292</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>99634</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>100723</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>101655</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>73634</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; ao mois d'octobre 2017 de la fonction de vice-pr&#233;sident.Je reste membre du CA.</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>OPH Versailles-Habitat</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sident depuis 2014.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Elu depuis mars 2008</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller Municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BRIANT Astrid</nom>
+					<employeur>Travailleur Ind&#233;pendant et pigiste pour un journal f&#233;minin.</employeur>
+					<descriptionActivite>pigiste</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Travail &#224; temps partiel sur le terrain (Yvelines)</commentaire>
+					<nom>DUPART Michel</nom>
+					<employeur>Groupe NEOPOST</employeur>
+					<descriptionActivite>Cadre charg&#233; de la logistique et de l'immobilier du groupe &#224; temps partiel.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Travail temps partiel pour son activit&#233; de collaborateur</commentaire>
+					<nom>BARRY Fran&#231;ois</nom>
+					<employeur>Travailleur Ind&#233;pendant</employeur>
+					<descriptionActivite>Avocat</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>78</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Yvelines(78)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Yvelines(78)</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>L&#233;vrier</nom>
+				<prenom>Martin</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/10/1962</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

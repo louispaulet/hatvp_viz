@@ -1,0 +1,334 @@
+<declarations><declaration>
+		<dateDepot>11/09/2021 19:58:52</dateDepot>
+		<uuid>9e9f182e-858b-466a-8f1d-0137acc18a8b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    La soci&#233;t&#233; a un triple objet dont le premier correspond &#224; une activit&#233; de consultant. N'employant aucun salari&#233; et ne versant pas de r&#233;mun&#233;ration &#224; son Pr&#233;sident, la soci&#233;t&#233; n'a proc&#233;d&#233; &#224; aucune distribution de b&#233;n&#233;fices depuis sa constitution.</commentaire>
+					<nomEmployeur>Asphyl Conseil SAS</nomEmployeur>
+					<description>Pr&#233;sident Asphyl Conseil (SAS)</description>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Directeur g&#233;n&#233;ral des services</description>
+					<employeur>R&#233;gion Ile-de-France</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>147&#8239;663</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ces fonctions ont pris fin le 05/03/2017 par ma d&#233;mission.</commentaire>
+					<description>Secr&#233;taire g&#233;n&#233;ral et Directeur de campagne pr&#233;sidentielle</description>
+					<employeur>Force R&#233;publicaine</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#8239;867</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>03/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Conseiller d'Etat</description>
+					<employeur>Minist&#232;re de la Justice</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>98&#8239;188</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ces fonctions ont pris fin le 2 octobre 2018 &#224; la suite de mon admission &#224; faire valoir, &#224; ma demande, mes droits &#224; la retraite.</commentaire>
+					<description>Conseiller d'Etat</description>
+					<employeur>Minist&#232;re de la Justice</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>98&#8239;367</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>10/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Le Point</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'article 15 des statuts d'Asphyl Conseil pr&#233;voit que le Pr&#233;sident peut recevoir une r&#233;mun&#233;ration fix&#233;e par une d&#233;cision prise &#224; la majorit&#233; simple des associ&#233;s.. Aucune d&#233;cision n'est intervenue en ce sens. Par ailleurs, aucun dividende n'a &#233;t&#233; distribu&#233; depuis la constitution de la soci&#233;t&#233;.</commentaire>
+					<nomSociete>Asphyl Conseil</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ing&#233;niery est un &#233;tablissement public administratif dont la mission est d'accompagner les communes rurales du d&#233;partement des Yvelines dans leurs projets d'investissement. Cette mission se d&#233;cline en une assistance &#224; ma&#238;trise d'ouvrage dans les domaines du b&#226;timent, de l'urbanisme, de la voirie et des r&#233;seaux divers, des march&#233;s publics et du conseil juridique, ainsi que du patrimoine. J'ai &#233;t&#233; nomm&#233; pr&#233;sident par arr&#234;t&#233; du pr&#233;sident du conseil d&#233;partemental. Les fonctions de pr&#233;sident d'Ing&#233;niery ne donnent pas lieu au versement d'indemnit&#233;s.</commentaire>
+					<nomSociete>Agence technique d&#233;partementale Ing&#233;niery</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En ma qualit&#233; de conseiller d&#233;partemental des Yvelines &#233;lu le 27/06/2021, j'ai &#233;t&#233; &#233;lu le 13/07/2021 vice-pr&#233;sident de Seine et Yvelines Num&#233;rique, syndicat mixte regroupant les deux d&#233;partements des Yvelines et des Hauts-de-Seine ainsi que des intercommunalit&#233;s et des communes de ces deux d&#233;partements. J'ai &#233;t&#233; inform&#233; le 01/09/2021 que le montant de mon indemnit&#233; brute mensuelle serait de 363,66 &#8364;</commentaire>
+					<nomSociete>Seine et Yvelines Num&#233;rique</nomSociete>
+					<activite>Vice-Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>364</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dans le capital d'Asphyl Conseil (6000 actions de 1 euro de nominal chacune), je d&#233;tiens 3334 actions en usufruit et 1666 actions en pleine propri&#233;t&#233;. 
+        [Donn&#233;es non publi&#233;es]
+    Il n'a &#233;t&#233; proc&#233;d&#233; &#224; aucune distribution de dividendes depuis la constitution de la soci&#233;t&#233; le 06/12/2018.</commentaire>
+					<nomSociete>Asphyl Conseil</nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>O</remuneration>
+					<capitalDetenu>83</capitalDetenu>
+					<nombreParts>6000</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>78</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Yvelines (78)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>11</organeParent>
+			</organe>
+			<qualiteDeclarant>conseiller titulaire d'une d&#233;l&#233;gation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Yvelines (78)/conseiller titulaire d'une d&#233;l&#233;gation</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>STEFANINI</nom>
+				<prenom>Patrick</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/07/1953</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

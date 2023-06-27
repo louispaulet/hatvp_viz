@@ -1,0 +1,190 @@
+<declarations><declaration>
+		<dateDepot>29/10/2021 16:02:27</dateDepot>
+		<uuid>340603dc-651d-4f0d-aac9-54fef801786f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bonjour, au cours cinq ann&#233;es pr&#233;c&#233;dant es, j'&#233;tais boxeur aux &#233;mirats arabes unis puis en r&#233;publique tch&#232;que. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Boxeur</description>
+					<employeur>F&#233;d&#233;ration Tch&#233;que</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3&#8239;900</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;700</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bonjour, J'ai &#233;t&#233; &#233;ducateur sportif b&#233;n&#233;vole pour la saison 2010-2011. Ensuite j'ai particip&#233; &#233;pisodiquement &#224; titre b&#233;n&#233;vole &#224; des actions de promotion pour les disciplines sportives et culturelles de cette association. Lors de ma nomination en Juillet 2020 &#224; la Mairie du Mans, j'ai averti l'association que je me retirais d&#233;finitivement et que je ne pouvais plus participer ou pr&#234;ter mon image de sportif professionnel pour l'association de loi 1901 Punch live.</commentaire>
+					<nomStructure>association de loi 1901 Punch Live</nomStructure>
+					<descriptionActivite>B&#233;n&#233;vole sportif et culturel pour l'&#233;v&#232;nementiel. Constitution des plateaux sportifs et d'artistiques.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bonjour, pour la p&#233;riode de juillet 2020 &#224; fin d&#233;cembre 2020, en cumulant mes deux fonctions je suis &#224; environ 1900 euros par mois et depuis janvier 2021 &#224; ce jour toujours sur les m&#234;mes proportions. Cordialement</commentaire>
+					<descriptionMandat>Adjoint au maire d&#233;l&#233;gu&#233; aux sports et Conseiller communautaire.</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#160;500</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#160;500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>72181</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Le Mans (72)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>72</organeParent>
+			</organe>
+			<qualiteDeclarant>Maire adjoint +100 000 hab</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Le Mans (72)/Maire adjoint +100 000 hab</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>arik</nom>
+				<prenom>nordine</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/02/1980</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

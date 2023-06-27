@@ -1,0 +1,372 @@
+<declarations><declaration>
+		<dateDepot>02/11/2017 06:42:18</dateDepot>
+		<uuid>c91bef67-f0ad-45a3-bbbb-fba7974f14a8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>passeportMD.pdf</fileName>
+				<serverFileName>c91bef67-f0ad-45a3-bbbb-fba7974f14a8_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait&#233; depuis le 1 avril 2017.</commentaire>
+					<conservee>false</conservee>
+					<description>INFIRMIER LIBERAL</description>
+					<employeur>Michel DENNEMONT</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>7433</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>9954</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>11414</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14146</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24948</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7314</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>03/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire depuis le 20 octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>23264</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>21108</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21363</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21345</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20628</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17038</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire depuis octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Pr&#233;sident CIVIS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>18527</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>16174</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6317</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18952</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19379</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17356</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#201;lu en d&#233;cembre 2015</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller R&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23250</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18952</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire de ce poste depuis octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPL Grand SUD</nomSociete>
+					<activite>Membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>1011</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>2233</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>819</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>941</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1061</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire depuis octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPL Avenir</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>1500</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2500</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Collaborateur de circonscription &#224; temps partiel.</commentaire>
+					<nom>LUCAS Laurent</nom>
+					<employeur>Mairie des Avirons (R&#233;union)</employeur>
+					<descriptionActivite>Responsable de la communication au sein de la Mairie des Avirons</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Collaborateur &#224; temps partiel de Michel DENNEMONT sur Paris</commentaire>
+					<nom>GOBIN D&#233;obal</nom>
+					<employeur>S&#233;nateur Georges PATIENT</employeur>
+					<descriptionActivite>Collaborateur de s&#233;nateur sur Paris.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Collaborateur &#224; temps partiel sur Paris.</commentaire>
+					<nom>NOWAK Fabrice</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>974</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>R&#233;union(974)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/R&#233;union(974)</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DENNEMONT</nom>
+				<prenom>MICHEL</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/02/1949</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

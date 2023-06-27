@@ -1,0 +1,535 @@
+<declarations><declaration>
+		<dateDepot>29/11/2022 23:21:46</dateDepot>
+		<uuid>e2da23bf-5aa6-4685-a54b-cf271be702db</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Des travaux d'am&#233;nagement int&#233;rieur et ext&#233;rieur ont &#233;t&#233; effectu&#233;s fin 2020 pour un montant global de 100 000&#8364;</commentaire>
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 40)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>200</superficieBati>
+					<superficieNonBati>0.04</superficieNonBati>
+					<dateAcquisition>2011</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>385000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>385000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>(Non habitable -A l'&#233;tat de ruine)</commentaire>
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 40)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>150</superficieBati>
+					<superficieNonBati>0.5</superficieNonBati>
+					<dateAcquisition>1995</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>0</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>60000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>40.0</capitalDetenu>
+					<autreActif>1 compte bancaire aupr&#232;s du Cr&#233;dit Agricole</autreActif>
+					<passif>1 compte courant d'associ&#233; au nom de 
+        [Donn&#233;es non publi&#233;es]
+     Mme DARRIEUSSECQ</passif>
+					<valeur>5000</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 40)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>250</superficieBati>
+							<superficieNonBati>0.5</superficieNonBati>
+							<dateAcquisition>2007</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>40.0</quotePart>
+							<prixAcquisition>380000</prixAcquisition>
+							<prixTravaux>30000</prixTravaux>
+							<valeurVenale>380000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>62 parts d&#233;tenues sur un total de 330.
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>19.0</capitalDetenu>
+					<autreActif/>
+					<passif/>
+					<valeur>56941</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Hangar agricole</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 40)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>750</superficieBati>
+							<superficieNonBati>0.5</superficieNonBati>
+							<dateAcquisition>1990</dateAcquisition>
+							<origine>Donation</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>45.0</quotePart>
+							<prixAcquisition>0</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>200000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Maison</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 40)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>135</superficieBati>
+							<superficieNonBati>0.5</superficieNonBati>
+							<dateAcquisition>1990</dateAcquisition>
+							<origine>Donation</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>55.0</quotePart>
+							<prixAcquisition>0</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>250000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit de parts de GFA (et non d'une SCI). 20 parts d&#233;tenues sur un total de 7700. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>0.25</capitalDetenu>
+					<autreActif/>
+					<passif/>
+					<valeur>10000</valeur>
+					<immeublesSci/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>PARTS SOCIALES BP</commentaire>
+					<conservee>false</conservee>
+					<titulaire>Genevi&#232;ve DARRIEUSSECQ</titulaire>
+					<etablissement>BANQUE POPULAIRE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>5100</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>CREDIT AGRICOLE Pr&#233;dissime</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>01/01/2000</dateSouscription>
+					<valeurRachat>42760</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Rachat partiel de 10000 &#8364; effectu&#233; fin 2020</commentaire>
+					<conservee>false</conservee>
+					<souscripteur>Genevi&#232;ve DARRIEUSSECQ</souscripteur>
+					<etablissement>SMA VIE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>16/09/2012</dateSouscription>
+					<valeurRachat>2532</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Contrat retraite compl&#233;mentaire &#233;lus</commentaire>
+					<souscripteur>Genevi&#232;ve Darrieussecq</souscripteur>
+					<etablissement>Mutex Carel</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>30/06/2004</dateSouscription>
+					<valeurRachat>48663</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Contrat retraite compl&#233;mentaire &#233;lus</commentaire>
+					<souscripteur>Genevi&#232;ve Darrieussecq</souscripteur>
+					<etablissement>Mutex Carel</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>30/06/2015</dateSouscription>
+					<valeurRachat>6577</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte ch&#233;que</typeCompte>
+					<etablissement>BANQUE POPULAIRE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Genevi&#232;ve DARRIEUSSECQ</titulaire>
+					<valeur>25094</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>CEL</typeCompte>
+					<etablissement>BANQUE POPULAIRE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Genevi&#232;ve DARRIEUSSECQ</titulaire>
+					<valeur>15243</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BANQUE POSTALE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Genevi&#232;ve DARRIEUSSECQ</titulaire>
+					<valeur>490</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>BANQUE POSTALE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Genevi&#232;ve DARRIEUSSECQ</titulaire>
+					<valeur>22563</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Compte Courant d'associ&#233;</description>
+					<denomination>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </denomination>
+					<valeur>153918</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Compte courant d'associ&#233;s</description>
+					<denomination>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </denomination>
+					<valeur>10062</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Compte ch&#233;que</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>781</valeur>
+					<description/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;tenue en bien commun</commentaire>
+					<conservee>false</conservee>
+					<nature>MAISON SECONDAIRE</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>138000</valeur>
+					<description>
+        [Donn&#233;es non publi&#233;es]
+    </description>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items/>
+			<neant>true</neant>
+		</passifDto>
+		<observationPatrimoineDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSPFM</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>handi</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; des personnes handicap&#233;es</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s du ministre des solidarit&#233;s, de l'autonomie et des personnes handicap&#233;es, charg&#233;e des personnes handicap&#233;es</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s du ministre des solidarit&#233;s, de l'autonomie et des personnes handicap&#233;es, charg&#233;e des personnes handicap&#233;es</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>S&#233;paration de biens</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>DARRIEUSSECQ</nom>
+				<prenom>Genevi&#232;ve</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>04/03/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

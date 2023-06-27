@@ -1,0 +1,387 @@
+<declarations><declaration>
+		<dateDepot>01/09/2020 11:20:32</dateDepot>
+		<uuid>caba60fd-79b9-426c-9fca-5e3c187fbdc4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Professeur agr&#233;g&#233;</description>
+					<employeur>Minist&#232;re Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>32174</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>27143</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28166</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29456</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>30038</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>29892</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21381</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Minist&#232;re de l'&#233;ducation nationale</employeurConjoint>
+					<activiteProf>Directrice d'&#233;cole maternelle et formatrice</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Parti socialiste de Loire Atlantique</nomStructure>
+					<descriptionActivite>Secr&#233;taire f&#233;d&#233;ral jusqu'en 2017</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>repr&#233;sentant de Nantes M&#233;tropole au CA de cette SEM d'am&#233;nagmement</commentaire>
+					<nomStructure>Loire Oc&#233;an D&#233;veloppement</nomStructure>
+					<descriptionActivite>administrateur b&#233;n&#233;vole</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SPL d'am&#233;nagement de l'Ile de Nantes. Je si&#232;ge au CA comme repr&#233;sentant de Nantes m&#233;tropole</commentaire>
+					<nomStructure>Soci&#233;t&#233; d'am&#233;nagement Ouest Atlantique</nomStructure>
+					<descriptionActivite>Administrateur b&#233;n&#233;vole</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentant au CA de Nantes m&#233;tropole</commentaire>
+					<nomStructure>Universit&#233; de Nantes</nomStructure>
+					<descriptionActivite>Administrateur b&#233;n&#233;vole</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentant au CA de Nantes m&#233;tropole.</commentaire>
+					<nomStructure>Ecole centrale de Nantes</nomStructure>
+					<descriptionActivite>Administrateur b&#233;n&#233;vole</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentant de Nantes m&#233;tropole au sein de cet EPCC</commentaire>
+					<nomStructure>Ecole des Beaux Arts de Nantes Saint Nazaire</nomStructure>
+					<descriptionActivite>Administrateur b&#233;n&#233;vole</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2014 : 1er trimestre : 1er adjoint / 2020 : indemnit&#233; de janvier &#224; ao&#251;t</commentaire>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>34727</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>43018</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>48037</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>43571</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>40098</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>41280</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>27387</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2020 : indemnit&#233;s de janvier &#224; ao&#251;t</commentaire>
+					<descriptionMandat>Nantes m&#233;tropole, 2&#232;me Vice Pr&#233;sident</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>16330</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>18576</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18584</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18815</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18611</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18696</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11884</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; de la SEMITAN : transports en commun. Jetons de pr&#233;sence assimil&#233;s &#224; des revenus des capitaux</commentaire>
+					<nomSociete>SEMITAN</nomSociete>
+					<activite>1er Vice-pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8589</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8880</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4450</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12990</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8580</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5720</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>CASDEN</nomSociete>
+					<evaluation>799</evaluation>
+					<remuneration>Pas d'int&#233;r&#234;ts de l'ann&#233;e 2019 vers&#233;s pour l'instant en 2020.</remuneration>
+					<capitalDetenu/>
+					<nombreParts>94</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>BPGO</nomSociete>
+					<evaluation>14</evaluation>
+					<remuneration>Pas d'int&#233;r&#234;ts 2019 vers&#233;s en 2020 pour l'instant.</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>44162</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Saint-Herblain (44)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Saint-Herblain (44)/Maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>AFFILE</nom>
+				<prenom>Bertrand</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>13/08/1965</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

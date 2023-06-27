@@ -1,0 +1,435 @@
+<declarations><declaration>
+		<dateDepot>05/09/2020 20:02:19</dateDepot>
+		<uuid>2fd044e2-90d2-411c-af72-413803daeee2</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>je continue &#224; travailler depuis le d&#233;but mon mandat en tant que titulaire suppl&#233;ante avec des d&#233;charges d'heures telles que me l'ont &#233;t&#233; confirm&#233;es par l'acad&#233;mie.</commentaire>
+					<conservee>false</conservee>
+					<description>Professeure des &#233;cole</description>
+					<employeur>Minist&#232;re de l'Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>7218</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21570</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22606</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22053</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21483</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>R&#233;seau ecoles montessori 
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>j'ai &#233;t&#233; conseill&#232;re de Paris de 2014 &#224; 2020 - A partir d'octobre 2017 je suis devenue maire adjointe &#224; la sant&#233; et vice pr&#233;sidente du Conseil d&#233;partemental. A partir de 2016 jusqu'&#224; juillet 2018 j'ai &#233;galement &#233;t&#233; conseill&#232;re m&#233;tropolitaine.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseill&#232;re de Paris puis (dans le m&#234;me mandat) maire adjointe &#224; la sant&#233;, vp conseil d&#233;partemental (fin 2017) et conseill&#232;re m&#233;tropolitaine (2016-2018)</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>35880</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37983</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>48822</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>58907</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>55000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>fonction li&#233;e &#224; mon mandat de conseill&#232;re de Paris</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SYCTOM</nomSociete>
+					<activite>Vice pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7235</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7608</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7716</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3858</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>Th&#233;atre de la ville</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>Elogie</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>762</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>conseil de surveillance de l'AP HP</nomSociete>
+					<activite>vice pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>soci&#233;t&#233; familiale </commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>13000</evaluation>
+					<remuneration>229</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>13</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>GECINA</nomSociete>
+					<evaluation>5940</evaluation>
+					<remuneration>94,50 (avril mai juin 2020)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>54</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>23730</evaluation>
+					<remuneration>651 (annuel)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1275</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>23730</evaluation>
+					<remuneration>807 (6 mois novembre - mai)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>427</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>ENGIE</nomSociete>
+					<evaluation>4158</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>378</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>SUEZ</nomSociete>
+					<evaluation>1085</evaluation>
+					<remuneration>80 (6 mois novembre - mai)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>104</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>je ne sais pas pour le moment les soci&#233;t&#233;s concern&#233;es</commentaire>
+					<nomSociete>PEA BANQUE POSTALE</nomSociete>
+					<evaluation>5180</evaluation>
+					<remuneration>- 585 en 2020</remuneration>
+					<capitalDetenu/>
+					<nombreParts>0</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75000</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Paris (75)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>maire adjointe &#224; la sant&#233;</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Paris (75)/maire adjointe &#224; la sant&#233;</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Souyris</nom>
+				<prenom>Anne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>29/08/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

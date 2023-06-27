@@ -1,0 +1,647 @@
+<declarations><declaration>
+		<dateDepot>25/04/2020 11:13:18</dateDepot>
+		<uuid>6856d98a-9ef5-4c46-bb06-af635bbf9b45</uuid>
+		<origine>ADEL Access</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Un g&#233;rant de SCEA n'a pas de r&#233;mun&#233;ration, n'&#233;tant pas salari&#233;. Ayant vendu mes parts (sauf 4) de la SCEA
+        [Donn&#233;es non publi&#233;es]
+     
+        [Donn&#233;es non publi&#233;es]
+     je n'en suis plus le g&#233;rant. J'ai fait valoir mes droits &#224; la retraite agricole de la MSA. Tel est le seul objet de cette d&#233;claration rectificative. </commentaire>
+					<conservee>false</conservee>
+					<description>g&#233;rant de SCEA 
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<employeur>Exploitant agricole</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>04/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>n&#233;ant - retrait&#233;e</employeurConjoint>
+					<activiteProf>n&#233;ant - retrait&#233;e</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Exerc&#233;e &#224; titre b&#233;n&#233;vole</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Association des communes foresti&#232;res de la Haute-Marne</nomStructure>
+					<descriptionActivite>Pr&#233;sident D&#233;mission de la Pr&#233;sidence de cette association en Mai 2019. J'en reste simple membre jusqu'aux &#233;lections municipales de 2020</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce montant correspond &#224; l'indemnit&#233; brute annuelle l&#233;gale (valeur mars 2017)</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>s&#233;nateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>86520</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>86520</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'indemnit&#233; d'octobre 2017 est l&#233;galement nulle. Mon mandat de pr&#233;sident a pris fin le 31 octobre 2017. Les chiffres renseign&#233;s refl&#232;tent l'indemnit&#233; l&#233;gale, valeur septembre 2017, &#233;cr&#234;tement compris.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident du conseil d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>39456</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>39456</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>39456</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>39456</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>39456</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>39356</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29592</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Rien au mois d'octobre et en novembre non plus &#224; ce jour (21.11.2017). Ensuite il s'agira de l'indemnit&#233; d'un conseiller d&#233;partemental, membre de la commission permanente, d'un d&#233;partement de moins de 250 000 habitants.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai c&#233;d&#233; la pr&#233;sidence du CASDIS &#224; l'un de mes coll&#232;gues en 2015, &#224; la suite des &#233;lections d&#233;partementales.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident du CA SDIS</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2011</dateDebut>
+					<dateFin>03/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sidence non ex&#233;cutive</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Pr&#233;sident du GIP 52</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je viens de d&#233;missionner de ce poste en novembre.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Administrateur de l'ANDRA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; non ex&#233;cutive exerc&#233;e &#224; titre b&#233;n&#233;vole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Groupement d'int&#233;r&#234;t public Haute-Marne</nomSociete>
+					<activite>Pr&#233;sident non ex&#233;cutif</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai quitt&#233; la pr&#233;sidence en application des dispositions sur le non cumul.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEM Immobail</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon successeur &#224; la t&#234;te du conseil d&#233;partemental a &#233;t&#233; &#233;lu &#224; la pr&#233;sidence de la SEM Immobail.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SEM Immobail</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai c&#233;d&#233; la pr&#233;sidence de cette SEM &#224; l'un de mes coll&#232;gues conseiller d&#233;partemental en novembre 2011.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEM du M&#233;morial Charles de Gaulle</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>10/2011</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'un groupement forestier familial dont je poss&#232;de 10%. je diverge avec l'administration sur la valorisation de cet actif&#160;forestier</commentaire>
+					<nomSociete>Groupement forestier
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>349000</evaluation>
+					<remuneration>Dividendes : 2011 : 3 000 2012 et 2013 : 0 2014 : 10 500 2015 &#224; 2019 : 5 000 par an</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>484</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit du groupement foncier familial dont la SCEA 
+        [Donn&#233;es non publi&#233;es]
+     est locataire et que je cultive. Ceci constitue un bien professionnel au sens fiscal du terme.</commentaire>
+					<nomSociete>groupement foncier agricole 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>58800</evaluation>
+					<remuneration>Dividendes : 2011 &#224; 2019 : 2 000 / an</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>87</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Groupement Forestier 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>40000</evaluation>
+					<remuneration>Dividendes : 2011 : 1105 2012 : 1190 2013 : 935 2014 : 2635 2015 : 2125 2016 : 2125 2017 : 2125 2018 : 2890 2019 : 2890</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>170</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCM Saint Louis en Vallage</nomSociete>
+					<evaluation>1950000</evaluation>
+					<remuneration>Dividendes 2011 : inconnu 2012 : 56484 2013 : 6226 2014 : 11751 2015 : 11751 2016 : 5441 2017 : 3296 2018 : 3633 2019 : 3633</remuneration>
+					<capitalDetenu>14</capitalDetenu>
+					<nombreParts>1400</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Exploitation agricole d&#233;tenue par 
+        [Donn&#233;es non publi&#233;es]
+     et moi m&#234;me &#224; 100%. Cette soci&#233;t&#233; exploite le foncier d&#233;tenu par le Groupement Foncier agricole 
+        [Donn&#233;es non publi&#233;es]
+    (GFA familial)</commentaire>
+					<nomSociete>SCEA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>1000000</evaluation>
+					<remuneration>B&#233;n&#233;fice Agricole 2011 : 99421 2012 : 43294 2013 : 69430 2014 : 72029 2015 : 54267 2016 : 63216 2017 : 40976 2018 : 65030 2019 : ?</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>6756</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    cette SARL a &#233;t&#233; dissoute au 31 mars 2018 et l'actif repris par la SCEA 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Sarl SIDO TA</nomSociete>
+					<evaluation>250000</evaluation>
+					<remuneration>B&#233;n&#233;fice agricole 2011 : -1046 2012 : -4966 2013 : -5634 2014 : -38168 2015 : 17534 2016 : 17690 2017 : -8674 2018 : -16516</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Son activit&#233; professionnelle repr&#233;sente 2 mi-temps, soit un temps plein.</commentaire>
+					<nom>Terrollion Karl</nom>
+					<employeur>Conseil d&#233;partemental (mi-temps)</employeur>
+					<descriptionActivite>collaborateur parlementaire (mi-temps)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin d'emploi comme collaborateur parlementaire le 31.12.2017 et comme directeur de Cabinet du Pr&#233;sident du Conseil D&#233;partemental le 31.10.2017</commentaire>
+					<nom>Terrolion Karl</nom>
+					<employeur>S&#233;nat</employeur>
+					<descriptionActivite>Activit&#233; normale (&#224; 1/2 temps) d'un collaborateur de Parlementaire.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Collaborateur Parlementaire &#224; temps plein. Lieu de travail : Chaumont (52) Embauche par l'entremise de p&#244;le emploi.</commentaire>
+					<nom>MAITRE Fabien</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Travail classique de collaborateur.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Entr&#233;e dans le patrimoine</label>
+					</motif>
+					<commentaire/>
+					<contenu>Comme dit plus haut, J'ai vendu mes parts (sauf 4) de la SCEA
+        [Donn&#233;es non publi&#233;es]
+    . Je n'en suis plus le g&#233;rant depuis cette date. C'est le seul objet de cette d&#233;claration rectificative </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>52</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haute-Marne(52)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Haute-Marne(52)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Sido</nom>
+				<prenom>Bruno</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>19/02/1951</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,811 @@
+<declarations><declaration>
+		<dateDepot>24/11/2022 16:26:23</dateDepot>
+		<uuid>c4ddb979-a05a-4ae3-83ba-d563615c75cc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>oui &#224; temps partiel actuellement &#224; 80% je diminuerai mon activit&#233;</commentaire>
+					<conservee>true</conservee>
+					<description>M&#233;decin Sp&#233;cialiste des centres anti canc&#233;reux</description>
+					<employeur>ICM val d'aurelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>58&#8239;020</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>69&#8239;258</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>69&#8239;740</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>69&#8239;672</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>71&#8239;905</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>39&#8239;824</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Centre Hospitalier Universitaire de Montpellier- Universit&#233; de Montpellier</employeurConjoint>
+					<activiteProf>Professeur des Universit&#233;s M&#233;decin praticien 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>oui</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Unicancer Oncogeriatric Group Dialog-Gerico d&#233;di&#233; &#224; la recherche clinique</nomStructure>
+					<descriptionActivite>Membre du groupe d'expert</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>JOG le Journal d'OncoG&#233;riatrie</nomStructure>
+					<descriptionActivite>Membre du comit&#233; de r&#233;daction</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>10 ao&#251;t 2022 d&#233;mission du mandat de maire</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12&#8239;441</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18&#8239;664</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16&#8239;795</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18&#8239;657</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>10&#8239;884</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission ao&#251;t 2022</commentaire>
+					<descriptionMandat>Conseill&#232;re D&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24&#8239;854</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#8239;604</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26&#8239;424</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23&#8239;803</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>22&#8239;976</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>22&#8239;583</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12&#8239;823</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de la vice pr&#233;sidence</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice pr&#233;sidente CCGPSL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3&#8239;474</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;209</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5&#8239;669</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;mission en aout 2022</commentaire>
+					<nomSociete>Office du tourisme du Grand Pic Saint Loup</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>arr&#234;t de l'activit&#233;</commentaire>
+					<nomSociete>SDIS 34</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>arr&#234;t de l'activit&#233;</commentaire>
+					<nomSociete>ADT 34 H&#233;rault tourisme</nomSociete>
+					<activite>Vice pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>arr&#234;t de l'activit&#233;</commentaire>
+					<nomSociete>Comit&#233; communal feux et forets</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Unit&#233; de coordination en oncog&#233;riatrie</nomSociete>
+					<activite>membre du bureau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre de
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>aeroports de paris</nomSociete>
+					<evaluation>966</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>8</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>alstom</nomSociete>
+					<evaluation>194</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>9</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>axa</nomSociete>
+					<evaluation>1689</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>78</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>biomerieux</nomSociete>
+					<evaluation>6990</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>75</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>BNP paribas</nomSociete>
+					<evaluation>9662</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>213</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>CRCAM</nomSociete>
+					<evaluation>2068</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>43</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>credit agricole</nomSociete>
+					<evaluation>506</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>58</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>101</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>engie</nomSociete>
+					<evaluation>416</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>38</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Euroapi</nomSociete>
+					<evaluation>45</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>3</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>orange</nomSociete>
+					<evaluation>392</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>35</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>renault</nomSociete>
+					<evaluation>951</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>40</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Safran</nomSociete>
+					<evaluation>4333</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>46</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Sanofi</nomSociete>
+					<evaluation>7803</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>81</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>societe generale</nomSociete>
+					<evaluation>2736</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>131</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Total energie</nomSociete>
+					<evaluation>7656</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>152</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Vivendi</nomSociete>
+					<evaluation>223</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>23</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Amundi europe</nomSociete>
+					<evaluation>1674</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>41</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>amundi strat</nomSociete>
+					<evaluation>1966</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Airbus</nomSociete>
+					<evaluation>3050</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>33</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte titre 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>universal music</nomSociete>
+					<evaluation>440</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>23</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonctions &#233;lectives : adjoint au maire d&#233;l&#233;gu&#233; &#224; la culture et &#224; la communication de la ville de saint G&#201;LY du Fesc - Conseiller communautaire de la Communaut&#233; de communes du grand pic saint loup - vice pr&#233;sident de EPIC en charge du tourisme en Pic saint loup 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Leclant Philippe</nom>
+					<employeur>Depuis le 5 juillet 2022 en tant qu'attach&#233; parlementaire depuis aucun autre employeur</employeur>
+					<descriptionActivite>Attach&#233; parlementaire depuis le 5 juillet 2022 aucune autre activit&#233; depuis</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#233;butera son contrat le 1er septembre 2022</commentaire>
+					<nom>Picard R&#233;my</nom>
+					<employeur>Aucun autre employeur &#224; ce jour</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>34</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>H&#233;rault(34)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/H&#233;rault(34)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>cristol</nom>
+				<prenom>laurence</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>08/11/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

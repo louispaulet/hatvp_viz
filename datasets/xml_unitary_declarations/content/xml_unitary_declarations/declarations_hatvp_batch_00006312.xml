@@ -1,0 +1,384 @@
+<declarations><declaration>
+		<dateDepot>01/09/2020 23:16:51</dateDepot>
+		<uuid>f8088c6e-9f05-4be0-aebf-77f22c6a1183</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>directrice du d&#233;veloppement, des partenariats et de l'innovation</description>
+					<employeur>vilogia</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22952</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>107796</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>116150</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>73045</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Maisons et Cit&#233;s, ESH</employeurConjoint>
+					<activiteProf>Directeur 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1/ De janvier &#224; mars 2014, ma fonction de conseill&#232;re municipale d&#233;l&#233;gu&#233;e &#224; la Ville de Lille s'inscrit dans le cadre du mandat 2008-2014 puis &#224; partir de mars dans le cadre du mandat 2014-2020. 2/ Malgr&#233; les variations apparentes du net imposable d'une ann&#233;e sur l'autre, le montant brut de l'indemnit&#233; n'a pas &#233;volu&#233; au cours du mandat. 3/ De 2014 &#224; juin 2017, j'ai par ailleurs exerc&#233; un mandat de d&#233;put&#233;e.</commentaire>
+					<descriptionMandat>Conseill&#232;re municipale d&#233;l&#233;gu&#233;e de Lille</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6041</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6012</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6002</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13878</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13721</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7330</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4573</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1/ De janvier &#224; mars 2014 ma fonction de conseill&#232;re m&#233;tropolitaine s'inscrit dans le cadre du mandat communautaire 2008-2014 puis &#224; partir du mars dans le cadre du mandat 2014-2020. 2/ Il s'agit d'indemnit&#233;s brutes (pas de mention apparente du montant imposable avant 2018)</commentaire>
+					<descriptionMandat>Conseill&#232;re m&#233;tropolitaine de Lille</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12772</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12772</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12811</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12998</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13005</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13068</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6534</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mon mandat d'&#233;lue communautaire 2014-2020, j'ai repr&#233;sent&#233; la m&#233;tropole europ&#233;enne de Lille au CA de l'office Hlm m&#233;tropolitain jusqu'en septembre 2017</commentaire>
+					<nomSociete>Lille M&#233;tropole Habitat , OPH</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mon mandat d'&#233;lue communautaire 2014-2020, j'ai repr&#233;sent&#233; la m&#233;tropole europ&#233;enne de Lille au CS d'Euratechnologies &#224; partir de 2019, suite au d&#233;c&#232;s du pr&#233;c&#233;dant repr&#233;sentant.</commentaire>
+					<nomSociete>Euratechnologies SEM</nomSociete>
+					<activite>membre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mon mandat d'&#233;lue municipale 2014-2020, j'ai repr&#233;sent&#233; la ville de Lille aupr&#232;s de l'association OFSML depuis sa cr&#233;ation &#224; la fin de ce mandat.</commentaire>
+					<nomSociete>Organisme de Foncier Solidaire M&#233;tropole lilloise</nomSociete>
+					<activite>Secr&#233;taire</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mon mandat d'&#233;lue municipale 2014-2020, j'ai repr&#233;sent&#233; la ville de Lille au sein de l'association.</commentaire>
+					<nomSociete>Habiter 2030 association</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59350</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Lille (59)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>1ere adjointe &#224; la transition &#233;cologique et au d&#233;veloppement soutenable</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Lille (59)/1ere adjointe &#224; la transition &#233;cologique et au d&#233;veloppement soutenable</qualiteDeclarantForPDF>
+			<dateDebutMandat>05/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Linkenheld</nom>
+				<prenom>Audrey</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/10/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,963 @@
+<declarations><declaration>
+		<dateDepot>25/09/2022 17:43:34</dateDepot>
+		<uuid>56b88855-5830-4535-889e-e9ccdc5a42fe</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>2022 09 19 Attestation HATVP.pdf</fileName>
+				<serverFileName>56b88855-5830-4535-889e-e9ccdc5a42fe_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>ReleveDeCompte_00088063902_20220701.pdf</fileName>
+				<serverFileName>56b88855-5830-4535-889e-e9ccdc5a42fe_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;trocession d'honoraires fixe (3000 euros par mois) R&#233;gime des BNC</commentaire>
+					<description>Avocate</description>
+					<employeur>FIDAL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>36&#160;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Dentons</employeurConjoint>
+					<activiteProf>Avocat
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>environ 260 euros par mois pour une commune de moins de 500 habitants</commentaire>
+					<descriptionMandat>Maire adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#160;340</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#160;120</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233;s du mandat 2015-2021 : total per&#231;u 157 351 &#8364; pour les 6 ann&#233;es. Depuis le nouveau mandat (&#233;galement comme Vice pr&#233;sidente) soit Juillet et Ao&#251;t 2021 : 4312 &#8364;</commentaire>
+					<descriptionMandat>Vice Pr&#233;sidente du D&#233;partement de l'Yonne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>16&#160;479</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24&#160;386</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#160;046</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>25&#160;750</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25&#160;875</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25&#160;875</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#160;937</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice Pr&#233;sidente du conseil d&#233;partemental de l'Yonne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;942</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17&#8239;458</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sidence de l'association financ&#233;e par le D&#233;partement dont j'assure la Pr&#233;sidence en qualit&#233; de Vice-Pr&#233;sidente &#224; la Culture du D&#233;partement de l'Yonne</commentaire>
+					<nomSociete>Yonne en Sc&#232;ne</nomSociete>
+					<activite>Association culturelle d&#233;partementale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Coll&#232;ge public de la Puisaye. Membre du Conseil d'administration depuis mon &#233;lection au D&#233;partement. Fonction non r&#233;mun&#233;r&#233;e. Tous les &#233;lus d&#233;partementaux si&#232;gent au CA des Coll&#232;ges se trouvant sur leur canton</commentaire>
+					<nomSociete>Coll&#232;ge de la Puisaye</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d'administration du Coll&#232;ge Pierre Larousse &#224; Toucy (89). Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Coll&#232;ge de Toucy</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>CDEN Conseil d&#233;partemental de l'Education Nationale</nomSociete>
+					<activite>membre du CDEN</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e, &#233;tablissement public pr&#233;sid&#233; par la repr&#233;sentante de la R&#233;gion BFC</commentaire>
+					<nomSociete>EPCV Etablissement Public de la Cit&#233; de la Voix (V&#233;zelay)</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>EHPAD de Nantou</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>EHPAD de Champcevrais</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e. Tous les conseillers d&#233;partementaux si&#232;gent aux Conseils d'administration des EHPAD dont le si&#232;ge est situ&#233; sur le canton</commentaire>
+					<nomSociete>EHPAD de Saint Fargeau</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>EHPAD de Toucy</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>CDADY - Conseil d&#233;partemental de l'Acc&#232;s au Droit de l'Yonne</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>CAUE - Conseil d'Architecture d'Urbanisme et d'Environnement (association)</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e. En qualit&#233; de Vice-Pr&#233;sidente au Tourisme du D&#233;partement, &#233;lue Pr&#233;sidente de l'ADTY en septembre 2021. Nombreuses repr&#233;sentations dans des associations/structures de tourisme dont l'&#233;num&#233;ration suit...</commentaire>
+					<nomSociete>ADTY Agence de D&#233;veloppement Touristique de l'Yonne (association)</nomSociete>
+					<activite>Pr&#233;sidente de l'Association</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d'administration de l'association en qualit&#233; de Pr&#233;sidente de l'ADTY</commentaire>
+					<nomSociete>Structure Locale des Logis de Bourgogne</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du conseil d'administration de l'association en qualit&#233; de Pr&#233;sidente de l'ADTY</commentaire>
+					<nomSociete>Association pour le d&#233;veloppement du tourisme rural (G&#238;tes de France)</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Association Route touristique des vignobles de l'Yonne</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Association Base d&#233;partementale de plein air D. Bailly &#224; St Fargeau</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e occup&#233;e en qualit&#233; de vice-pr&#233;sident Culture du D&#233;partement</commentaire>
+					<nomSociete>Conservatoire Musique Danse Th&#233;&#226;tre d'Auxerre</nomSociete>
+					<activite>Membre du Conseil d'&#233;tablissement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association titulaire de la DSP pour le Th&#233;&#226;tre d'Auxerre, seule sc&#232;ne conventionn&#233;e du D&#233;partement. J'y si&#232;ge en qualit&#233; de Vice Pr&#233;sidente Culture.</commentaire>
+					<nomSociete>Association Icaunaise de Diffusion Artistique</nomSociete>
+					<activite>Membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association r&#233;gionale. Membre du CA en qualit&#233; de Pr&#233;sidente de l'ADTY.</commentaire>
+					<nomSociete>BFC Tourisme (association)</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e. Elue au CA de l'association en qualit&#233; de VP Culture du D&#233;partement et notamment de pr&#233;sidente de l'association Yonne en Sc&#232;ne</commentaire>
+					<nomSociete>ARTDAM - Association financ&#233;e par la R&#233;gion BFC pour le soutien &#224; l'art vivant</nomSociete>
+					<activite>membre du Conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association touristique. Fonction non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>MASCOT BFC</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Comit&#233; Directeur au titre de Vice Pr&#233;sidente Tourisme du D&#233;partement. Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Office de Tourisme de l'Auxerrois (EPIC)</nomSociete>
+					<activite>Membre du Comit&#233; Directeur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Commission charg&#233;e de dresser la liste annuelle du jury criminel</nomSociete>
+					<activite>membre de la Commission au titre du CD89</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>Commission D&#233;partementale des Espaces Sites et Itin&#233;raires (CDESI)</nomSociete>
+					<activite>membre de la Commission</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En qualit&#233; de VP Tourisme du D&#233;partement.</commentaire>
+					<nomSociete>Comit&#233; R&#233;gional du Tourisme</nomSociete>
+					<activite>Repr&#233;sentante du D&#233;partement de l'Yonne</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dans le cadre de la labellisation "Grand Site" du site de V&#233;zelay et des 17 autres villages, repr&#233;sentante du D&#233;partement (en l'absence du Pr&#233;sident du D&#233;partement) en qualit&#233; de VP Tourisme.</commentaire>
+					<nomSociete>OGS - Op&#233;ration Grand Site du V&#233;zelien</nomSociete>
+					<activite>Repr&#233;sentant le D&#233;partement au Comit&#233; Technique et au Comit&#233; de Gouvernance Locale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Instance consultative en mati&#232;re de RSA (Revenu de Solidarit&#233;). Fonction non r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>EPL Puisaye (Equipe Pluridisciplinaire Locale) de l'Unit&#233; Territoriale de Solidarit&#233;</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Societe generale</nomSociete>
+					<evaluation>40000</evaluation>
+					<remuneration>R&#233;investie dans le PEA</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>89</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Yonne (89)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>27</organeParent>
+			</organe>
+			<qualiteDeclarant>vice-pr&#233;sidente</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Yonne (89)/vice-pr&#233;sidente</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Froment-Meurice</nom>
+				<prenom>Isabelle</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/11/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

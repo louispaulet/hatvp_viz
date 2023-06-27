@@ -1,0 +1,366 @@
+<declarations><declaration>
+		<dateDepot>11/08/2022 10:56:21</dateDepot>
+		<uuid>d5908ca7-e773-4059-9ab3-33ecc7782b88</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>GRATIFICATION MINIMALE DE STAGE</commentaire>
+					<description>ELEVE AVOCAT</description>
+					<employeur>OFFICE NOTARIAL KENNEDY</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3453</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>l exercice fiscal 2020 n'&#233;tant pas termin&#233;, la base de calcul retenue pour le montant d&#233;clar&#233; au titre de l'ann&#233;e 2020 correspond &#224; la p&#233;riode du 01/01/2020 au 31/08/2020.</commentaire>
+					<description>Avocate exer&#231;ant &#224; titre individuel</description>
+					<employeur>Avocate au sein de la SELARL NESE en collaboration lib&#233;rale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15002</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20868</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>le montant correspond &#224; des gratifications (indemnit&#233;s de stage)</commentaire>
+					<description>Eleve Avocate</description>
+					<employeur>SELARL NESE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5962</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin>08/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montant per&#231;u pour une activit&#233; salari&#233;e du 5/11/2018 au 30/11/2018</commentaire>
+					<description>juriste - Assistance juridique</description>
+					<employeur>SELARL NESE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1629</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ann&#233;e 2020 :BNC pro d&#233;clar&#233;s : 32007 eurosBNC pro nets : 21125Ann&#233;e 2021 :BNC pro d&#233;clar&#233;s : 38722 eurosBNC pro nets : 25557Ann&#233;e 2022 :l'exercice fiscal n'&#233;tant pas termin&#233;, il n'a pas encore fait l'objet de d&#233;claration fiscale</commentaire>
+					<conservee>true</conservee>
+					<description>Avocate</description>
+					<employeur>SELARL MEJEAN PEREZ COUFFE en collaboration lib&#233;rale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21&#8239;125</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>25&#8239;557</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A ce jour, je n'interviens plus dans cette structure</commentaire>
+					<nomStructure>FEMMES SOLIDAIRES 66</nomStructure>
+					<descriptionActivite>intervention p&#233;riodique afin d'informer les adh&#233;rentes de leurs droits</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'ann&#233;e 2022 n'&#233;tant pas termin&#233;e, le montant pr&#233;cis&#233; ne tient compte que de la p&#233;riode allant du mois de janvier 22 &#224; juillet 22.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re communautaire de perpignan m&#233;diterran&#233;e m&#233;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>924</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;293</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>844</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'ann&#233;e 2022 &#233;tant en cours et mon &#233;lection en tant que d&#233;put&#233;e &#233;tant intervenue le 19 juin, le montant de 7503 correspond au montant de l'indemnit&#233; per&#231;ue au 30 juin.</commentaire>
+					<descriptionMandat>adjointe au maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;360</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16&#8239;488</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>7&#8239;503</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>r&#233;gie municipale des palais des congr&#232;s et des expositions de perpignan</nomSociete>
+					<activite>administratrice</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Rania Elias</nom>
+					<employeur>Exerce un autre mi-temps pour le groupe parlementaire RN</employeur>
+					<descriptionActivite>- traitement des courriers- formalit&#233;s aupr&#232;s de de l'assembl&#233;e nationale- gestion adminitrative</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Louis MOMPEU</nom>
+					<employeur>Exerce une activit&#233; professionnelle aupr&#232;s d'un autre d&#233;put&#233; du groupe RN</employeur>
+					<descriptionActivite>-Amendements- recherche juridique- revue de presse</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Julien POTEL</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>attach&#233; parlementaire en circonscription a temps plein- pr&#233;sence &#224; la permanence parlementaire- accueil-gestion administrative- accompagnement en d&#233;placement etc</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gael JAOUEN</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>Attach&#233; parlementaire en circonscription &#224; mi-temps- pr&#233;sence a la permanence parlementaire- gestion des r&#233;seaux sociaux- r&#233;daction de newsletters etc</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>66</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Pyr&#233;n&#233;es-Orientales(66)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Pyr&#233;n&#233;es-Orientales(66)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>SABATINI</nom>
+				<prenom>Ana&#239;s</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>10/03/1990</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

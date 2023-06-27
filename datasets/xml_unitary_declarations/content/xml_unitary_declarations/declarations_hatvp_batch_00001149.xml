@@ -1,0 +1,287 @@
+<declarations><declaration>
+		<dateDepot>13/09/2021 18:09:05</dateDepot>
+		<uuid>716d8612-b864-42e7-a1ef-21975a76e3a8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour les revenus annuels 2016, j'ai retir&#233; le montant net de ma prime administrative de pr&#233;sident d'universit&#233;. Je l'ai report&#233;e dans la rubrique 3 "Participations &#224; des organes dirigeants".</commentaire>
+					<conservee>false</conservee>
+					<description>Enseignant-chercheur</description>
+					<employeur>Universit&#233; de La Rochelle</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>61501</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>61857</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>62272</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>60678</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>61&#8239;115</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>40&#8239;539</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Minist&#232;re Education Nationale</employeurConjoint>
+					<activiteProf>Institutrice</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; b&#233;n&#233;vole</commentaire>
+					<nomStructure>Coop&#233;rative Carbone, Soci&#233;t&#233; Coop&#233;rative d'Int&#233;r&#234;t Collectif (SCIC)</nomStructure>
+					<descriptionActivite>Pr&#233;sident du Conseil de surveillance, constitu&#233; des membres fondateurs</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller R&#233;gional, Vice-Pr&#233;sident de la R&#233;gion Nouvelle-Aquitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35875</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>36637</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36210</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>36369</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>36&#8239;518</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18&#8239;353</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cumul des indemnit&#233;s de Conseiller municipal de La Rochelle et de Vice-pr&#233;sident de la Communaut&#233; d'agglom&#233;ration de La Rochelle</commentaire>
+					<descriptionMandat>Conseiller Municipal et Communautaire, Vice-pr&#233;sident de la Communaut&#233; d'agglom&#233;rations de La Rochelle</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;771</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11&#8239;220</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai exerc&#233; deux mandats de pr&#233;sident de l'Universit&#233; de La Rochelle (avril 2008-avril 2012 et avril 2012-f&#233;vrier 2016). J'ai b&#233;n&#233;fici&#233; &#224; ce titre d'une prime d'administration r&#233;glementaire de 2000 &#8364; net mensuel.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Universit&#233; de La Rochelle</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>02/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'une activit&#233; b&#233;n&#233;vole que j'ai exerc&#233;e de janvier 2013 &#224; avril 2016.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Conf&#233;rence des Pr&#233;sidents d'Universit&#233;</nomSociete>
+					<activite>Vice-Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>04/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu r&#233;gional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu r&#233;gional</labelTypeMandat>
+				<labelOrgane>R&#233;gion</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>R&#233;gions</nomListeOrgane>
+				<labelOrgane>Nouvelle-Aquitaine (75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>Vice-pr&#233;sident titulaire d'une d&#233;l&#233;gation</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu r&#233;gional/Nouvelle-Aquitaine (75)/Vice-pr&#233;sident titulaire d'une d&#233;l&#233;gation</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Blanchard</nom>
+				<prenom>G&#233;rard</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>07/11/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

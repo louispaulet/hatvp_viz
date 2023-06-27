@@ -1,0 +1,296 @@
+<declarations><declaration>
+		<dateDepot>13/01/2021 11:22:49</dateDepot>
+		<uuid>0f41308c-890c-4536-b6e3-55df7704867f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les montants ci-dessus sont les montants imposables d&#233;clar&#233;s (ou d&#233;clarables pour 2017) aux services fiscaux. Pour 2017, est d&#233;clar&#233; le revenu imposable au 31 octobre.NB: Cette activit&#233; ne sera conserv&#233;e que jusqu'au 31 ao&#251;t 2018, ma retraite de l'enseignement sup&#233;rieur prenant effet au 1er septembre 2018.</commentaire>
+					<conservee>true</conservee>
+					<description>Direcrice d'&#233;tudes (= Professeure d'universit&#233;)</description>
+					<employeur>Ecole pratique des hautes &#233;tudes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>62395</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>57772</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>57516</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>57431</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>47737</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les montants ci-dessus sont les montants imposables d&#233;clar&#233;s (ou d&#233;clarables, en 2017) aux services fiscaux. Pour l'ann&#233;e 2017, le montant indiqu&#233; reste approximatif; il correspond aux sommes per&#231;ues jusqu'au 31 octobre.</commentaire>
+					<conservee>true</conservee>
+					<description>Auteure</description>
+					<employeur>Editeurs fran&#231;ais et &#233;trangers et revues</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1248</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>488</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1021</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5755</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Ecole pratique des hautes &#233;tudes</employeurConjoint>
+					<activiteProf>Directeur d'&#233;tudes (= Professeur d'universit&#233;)</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Editeurs fran&#231;ais et &#233;trangers</employeurConjoint>
+					<activiteProf>R&#233;daction d'ouvrages ainsi que d'articles (paraissant dans des revues sp&#233;cialis&#233;es ou g&#233;n&#233;ralistes).</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>APEJOB-Le Pari(s) du Vivre-Ensemble (association)</nomStructure>
+					<descriptionActivite>Pr&#233;sidente</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les montants indiqu&#233;s sont les montants imposables d&#233;clar&#233;s (ou d&#233;clarables pour 2017) aux services fiscaux.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>S&#233;natrice</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>12556</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>50095</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>50095</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50037</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>49767</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2011</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Travail l&#233;gislatif</commentaire>
+					<nom>EDOM Jordan</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Communication</commentaire>
+					<nom>PIRES DA SILVA Mariana</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Paris(75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Paris(75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>BENBASSA</nom>
+				<prenom>Esther</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>27/03/1950</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

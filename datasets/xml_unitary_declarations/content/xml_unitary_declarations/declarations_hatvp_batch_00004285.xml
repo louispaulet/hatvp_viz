@@ -1,0 +1,593 @@
+<declarations><declaration>
+		<dateDepot>08/08/2022 18:53:10</dateDepot>
+		<uuid>44a88385-8234-4a4e-83d9-6134b5bc6ed1</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Pharmacien d'officine, 
+        [Donn&#233;es non publi&#233;es]
+    Retrait&#233;
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne conserve pas cette fonction compte tenu de l'interdiction du cumul des fonctions</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE DE MORTEAU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>26321</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>26128</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>26245</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11921</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne conserve pas cette fonction compte tenu de l'interdiction du cumul des fonctions</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>VICE PRESIDENTE DE LA COMMUNAUTE DE COMMUNE DU VAL DE MORTEAU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3706</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5206</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5217</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2467</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne conserve pas cette fonction compte tenu de l'interdiction du cumul des fonctions</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>PRESIDENTE DU SYNDICAT MIXTE DU PAYS HORLOGER</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>DEPUTEE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>26796</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>50262</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50006</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49576</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49065</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33307</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le mandat de Conseill&#232;re municipale a d&#233;but&#233; en juin 1995.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re municipale de Morteau</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re communautaire Communaut&#233; de communes du Val de Morteau</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>01/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>VICE PRESIDENTE DE L ASSEMBLEE NATIONALE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1834</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12458</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12&#8239;510</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;510</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;510</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5&#8239;942</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>ANEM (association nationale des &#233;lus de la montagne)</nomSociete>
+					<activite>secr&#233;taire g&#233;n&#233;rale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2016</dateDebut>
+					<dateFin>10/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>cet engagement d&#233;bute en octobre 2018 et devrait se terminer en octobre 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ANEM</nomSociete>
+					<activite>Pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2018</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>CONSEIL NATIONAL DE LA MONTAGNE</nomSociete>
+					<activite>PRESIDENTE DE LA COMMISSION PERMANENTE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2021</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A quitt&#233; ses fonctions en juillet 2022</commentaire>
+					<nom>BONNET Marie</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>attach&#233;e parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>JOBARD Damien</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>assistant parlementaire - Contrat &#233;teint en 11/2021</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>N&#233;ant</commentaire>
+					<nom>CLAUDET Jacques</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>assistant parlementaire temps partiel - environ 10 heures par semaine - Contrat termin&#233; le 31/08/2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin du contrat : ao&#251;t 2017</commentaire>
+					<nom>THIBIERGE Anne</nom>
+					<employeur>20 % de son temps de travail aupr&#232;s de M. le D&#233;put&#233; Jean Luc WARSMANN (Ardennes) 80 % de son temps pour moi m&#234;me Fin du contrat : ao&#251;t 2017</employeur>
+					<descriptionActivite>Attach&#233;e parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Du 27 juin 2016 au 18 novembre 2016, j'ai recrut&#233; Mme Marion JANIN-MAGNIFICAT en remplacement de Mme Marie BONNET (cong&#233; maternit&#233;)</commentaire>
+					<nom>Marion JANIN-MAGNIFICAT</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Attach&#233;e parlementaire - Du 27 juin 2016 au 18 novembre 2016</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CORDIER Clara</nom>
+					<employeur>Temps partiel au sein du parti Les R&#233;publicains</employeur>
+					<descriptionActivite>temps partiel - attach&#233;e parlementaire - contrat termin&#233; en octobre 2019</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BINET Jean-Ren&#233;</nom>
+					<employeur>Professeur des Universit&#233;s</employeur>
+					<descriptionActivite>CDD 2018-2019 collaborateur parlementaire temps partiel CDD juin 2020 Contrats termin&#233;s</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GATTO Evelyne</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>secr&#233;taire parlementaire &#224; partir de septembre 2018</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>PHILIPPE Lucie</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>attach&#233;e parlementaire depuis novembre 2019</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>MULOT Laurence</nom>
+					<employeur>Agent immobilier Conseill&#232;re r&#233;gionale de bourgogne franche-comt&#233;</employeur>
+					<descriptionActivite>contrat &#224; temps partiel (environ 8 heures par semaine) Contrat termin&#233; le 31/08/2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>WHITMORE Alexandre</nom>
+					<employeur>Etudiant</employeur>
+					<descriptionActivite>collaborateur &#224; temps partiel Contrat termin&#233; le 31/08/2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Marie-&#200;ve Malouines</nom>
+					<employeur/>
+					<descriptionActivite>Contrat &#224; temps partiel &#224; partir du 01/10/2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>COURTET Clara</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Collaboratrice parlementaire depuis 06/2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CORNEVAUX R&#233;my</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite>Secr&#233;taire en CDD du 04/07/2022 au 26/08/2022</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>25</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Doubs(25)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Doubs(25)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GENEVARD</nom>
+				<prenom>Annie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>07/09/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,304 @@
+<declarations><declaration>
+		<dateDepot>12/01/2021 19:42:15</dateDepot>
+		<uuid>510033ab-e2b5-4962-9b34-25e7e68379fc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>sans emploi</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Femmes d'Alsace</nomStructure>
+					<descriptionActivite>Je fais parti du CA</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Association transport et Avenir</nomStructure>
+					<descriptionActivite>membre d'honneur</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai pris cette fonction &#224; mi-mandat depuis le 01.04.2019 jusqu'&#224; la fin de mon mandat de s&#233;nateur 2020</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Secr&#233;taire du s&#233;nat</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6385</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Brut</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Secr&#233;taire du S&#233;nat</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;799</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>S&#233;nateur &#224; partir du 01.10.2014 je ne peux pas mettre cette date ;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Senateur du Haut Rhin</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49&#8239;826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49&#8239;822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67&#8239;553</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>76&#8239;846</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>56&#8239;677</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Tschanz Yannick</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire Fin de contrat le 31.10.2015</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Contrat depuis le 23.03.2009</commentaire>
+					<nom>Marck k&#233;vin</nom>
+					<employeur>En formation du 17.09.2018 &#224; 20.09.2019</employeur>
+					<descriptionActivite>Collaborateur depuis le 23.03.2009</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Leburgue Karababa Anne</nom>
+					<employeur>Conseill&#232;re municipale &#224; H&#233;singue du -23.03.2014 au 24.03.2019 Adjointe au maire &#224; H&#233;singhue depuis le 24.03.2019</employeur>
+					<descriptionActivite>Collaboratrice parlementaire depuis le 01.09.2011</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Fichet-Boyle Isabelle</nom>
+					<employeur>Avocate inscrite au barreau de l'EURE depuis le 02.01.2019 &#224; Dangu (27720) Conseill&#232;re municipale depuis le 23.03.2014 &#224; Dangu</employeur>
+					<descriptionActivite>Collaboratrice parlementaire du15.06.2016 au 31.12.2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Laurent-duhamel Alexandre</nom>
+					<employeur>Charg&#233; de d&#233;veloppement, office municipal des sports de La Courneuve jusqu'au 30.04.2018</employeur>
+					<descriptionActivite>Collaborateur parlementaire de 05.12.2017 au 15.11.2020</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Garnier Vivien</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire en CDD du 17.09.2018 au 20.09.2019</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Garnier Vivien</nom>
+					<employeur>Conseiller Municipal &#224; Durrenentzen 68 depuis mars 2020</employeur>
+					<descriptionActivite>Collaborateur parlementaire depuis 01.012021</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>68</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haut-Rhin(68)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Haut-Rhin(68)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>schillinger</nom>
+				<prenom>patricia</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/01/1963</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

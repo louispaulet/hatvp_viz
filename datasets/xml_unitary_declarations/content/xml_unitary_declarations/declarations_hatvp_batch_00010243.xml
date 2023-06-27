@@ -1,0 +1,375 @@
+<declarations><declaration>
+		<dateDepot>04/07/2021 19:13:20</dateDepot>
+		<uuid>332acc13-3469-4948-8f70-ada9501be85d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Invit&#233; hebdomadaire sans aucune r&#233;mun&#233;ration</commentaire>
+					<nomEmployeur>CNews</nomEmployeur>
+					<description>Pol&#233;miste</description>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Situation arr&#234;t&#233;e au 30 juin 2021</commentaire>
+					<description>Directeur adjoint</description>
+					<employeur>CRT Paris Ile-de-France</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>95&#8239;123</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>95&#8239;829</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>96&#8239;628</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>98&#8239;221</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>99&#8239;025</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>99&#8239;826</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>50&#8239;321</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Associ&#233; g&#233;rant</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole</commentaire>
+					<nomStructure>Levallois Sporting Club</nomStructure>
+					<descriptionActivite>Membre du Conseil d&#8217;Administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole</commentaire>
+					<nomStructure>Levallois Culture</nomStructure>
+					<descriptionActivite>Membre du Conseil d&#8217;Administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole</commentaire>
+					<nomStructure>Levallois Gestion</nomStructure>
+					<descriptionActivite>Membre du Conseil d&#8217;Administration</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Situation arr&#234;t&#233;e au 30 juin 2021. NB : avant l&#8217;instauration du pr&#233;l&#232;vement &#224; la source, les indemnit&#233;s d&#8217;&#233;lus avaient un r&#233;gime fiscal diff&#233;rent (diff&#233;rence entre 2019 et les ann&#233;es pr&#233;c&#233;dentes).</commentaire>
+					<descriptionMandat>Maire Adjoint de Levallois</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21&#8239;875</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21&#8239;916</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>22&#8239;204</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21&#8239;921</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11&#8239;774</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10&#8239;765</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;592</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Situation arr&#234;t&#233;e au 31 mai 2021 n&#8217;ayant pas re&#231;u la derni&#232;re fiche relative &#224; juin 2021.</commentaire>
+					<descriptionMandat>Conseiller territorial</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;266</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;117</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d&#8217;Administration de SEMARELP/LEVAPARC, puis Vice-Pr&#233;sident uniquement de LEVAPARC apr&#232;s scission entre les deux structures en septembre 2020.</commentaire>
+					<nomSociete>SEMARELP/Levaparc</nomSociete>
+					<activite>Membre du Conseil d&#8217;Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21&#8239;360</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8&#8239;400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>83 euros par mois de jetons de pr&#233;sence, montant maximal fix&#233; par D&#233;cret du Ministre de l&#8217;Int&#233;rieur</commentaire>
+					<nomSociete>Levallois Habitat</nomSociete>
+					<activite>Membre du Conseil d&#8217;Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>498</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>498</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>&#206;lot Bio - 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>0 pas de dividendes per&#231;us</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Aucune observation particuli&#232;re</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Hauts-de-Seine (92)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>11</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Hauts-de-Seine (92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>WE&#207;SS</nom>
+				<prenom>David-Xavier</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/07/1979</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,212 @@
+<declarations><declaration>
+		<dateDepot>30/07/2020 09:11:40</dateDepot>
+		<uuid>92894b17-e026-4fe3-adde-2cc12809e62c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mobilit&#233; interne programm&#233;e au 1er septembre 2020 : directrice du p&#244;le "psychiatrie, m&#233;decine l&#233;gale et m&#233;decine en milieu p&#233;nitentiaire" et de la transversalit&#233; "maladies rares"</commentaire>
+					<description>Directrice (directrice adjointe au sein de la direction de la strat&#233;gie et des coop&#233;rations)</description>
+					<employeur>CHRU DE LILLE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12478</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>39752</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>40011</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>39777</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>29507</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>RFN - AVATS</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseill&#232;re Municipale D&#233;l&#233;gu&#233;e</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14971</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15016</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15144</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15152</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15152</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59350</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Lille (59)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>adjoint au Maire - d&#233;l&#233;gu&#233;e au Sport</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Lille (59)/adjoint au Maire - d&#233;l&#233;gu&#233;e au Sport</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>sab&#233; duquesnoy</nom>
+				<prenom>sarah</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>15/10/1984</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

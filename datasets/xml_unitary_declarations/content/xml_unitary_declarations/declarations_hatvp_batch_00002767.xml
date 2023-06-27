@@ -1,0 +1,201 @@
+<declarations><declaration>
+		<dateDepot>01/03/2021 21:10:20</dateDepot>
+		<uuid>3c49b937-2ca9-470f-9005-a98a781b3ff8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; &#233;lu maire en F&#233;vrier 2017, suite &#224;la d&#233;mission de mon pr&#233;d&#233;cesseur dont j'&#233;tais 1er adjoint. J'ai &#233;t&#233; r&#233;&#233;lu en Juin 2020. Ces indemnit&#233;s sont les seules que j'ai per&#231;ues au titre de cette fonction dans les 5 ann&#233;es qui ont pr&#233;c&#233;d&#233; mon &#233;lection comme Vice-Pr&#233;sident de Lorient-Agglom&#233;ration.</commentaire>
+					<descriptionMandat>maire de Guidel</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;614</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19&#8239;357</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19&#8239;450</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;725</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pendant ces ann&#233;es, j'ai exerc&#233; la fonction de Pr&#233;sident d'un Syndicat de Bassin Versant (le BV du Scorff). Mes indemnit&#233;s ont diminu&#233; au d&#233;but de l'ann&#233;e 2018 en raison de l'entr&#233;e en application de la Loi GEMAPI, qui a confi&#233; &#224; l'Agglom&#233;ration la gestion op&#233;rationnelle des interventions sur ce cours d'eau. Je n'ai exerc&#233;, depuis lors que la responsabilit&#233; de Pr&#233;sident de la Commission Locale de l'Eau ( laCLE) du SAGE Scorff.</commentaire>
+					<descriptionMandat>President d'un Syndicat mixte</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3&#8239;102</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6&#8239;132</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6&#8239;211</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3&#8239;569</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3&#8239;069</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;467</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>lorient agglomeration</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/lorient agglomeration</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>daniel</nom>
+				<prenom>joel</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/04/1950</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

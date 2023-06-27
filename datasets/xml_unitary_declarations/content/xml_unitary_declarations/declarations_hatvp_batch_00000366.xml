@@ -1,0 +1,330 @@
+<declarations><declaration>
+		<dateDepot>18/11/2022 13:02:58</dateDepot>
+		<uuid>a8305f47-0c69-4aa9-9dd8-61f7621c35cd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<neant>true</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>8.0</capitalDetenu>
+					<autreActif/>
+					<passif/>
+					<valeur>100</valeur>
+					<immeublesSci/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte esp&#232;ces</commentaire>
+					<titulaire>Attal Gabriel</titulaire>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>100</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>PEA Titres</commentaire>
+					<titulaire>Attal Gabriel</titulaire>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>Attal Gabriel</souscripteur>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>28/04/2016</dateSouscription>
+					<valeurRachat>1461830</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>Attal Gabriel</souscripteur>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>01/02/2012</dateSouscription>
+					<valeurRachat>160</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Attal Gabriel</titulaire>
+					<valeur>61563</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Attal Gabriel</titulaire>
+					<valeur>69802</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Attal Gabriel</titulaire>
+					<valeur>179</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Attal Gabriel</titulaire>
+					<valeur>27</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte ouvert en indivision 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>INDIVISION ATTAL</titulaire>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items/>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Scooter Vespa 50</commentaire>
+					<conservee>false</conservee>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>Piaggio</marque>
+					<anneeAchat>2014</anneeAchat>
+					<valeurAchat>2600</valeurAchat>
+					<valeur>1000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items/>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items/>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomCreancier>Soci&#233;t&#233; g&#233;n&#233;rale</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t "in fine"</nature>
+					<datePassif>26/06/2017</datePassif>
+					<objetDette>cr&#233;dit de tr&#233;sorerie renouvelable annuellement par tacite reconduction</objetDette>
+					<montant>670000</montant>
+					<duree>12</duree>
+					<restantDu>670000</restantDu>
+					<mensualite>0</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>comptepub</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; des comptes publics</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233; aupr&#232;s du ministre de l'&#233;conomie, des finances et de la souverainet&#233; industrielle et num&#233;rique, charg&#233; des comptes publics</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233; aupr&#232;s du ministre de l'&#233;conomie, des finances et de la souverainet&#233; industrielle et num&#233;rique, charg&#233; des comptes publics</qualiteDeclarantForPDF>
+			<dateDebutMandat>21/05/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>N&#233;ant</regimeMatrimonial>
+			<regimeMatrimonialComments>PACS</regimeMatrimonialComments>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ATTAL</nom>
+				<prenom>GABRIEL</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/03/1989</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

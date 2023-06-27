@@ -1,0 +1,454 @@
+<declarations><declaration>
+		<dateDepot>02/09/2020 17:44:53</dateDepot>
+		<uuid>0dc392bc-8aa7-48d3-9780-50cd8786f6dc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je d&#233;tiens en propre 77,26% des parts sociales de l'earl des galets. Les montants de revenus d&#233;clar&#233;s correspondent donc &#224; 77,26% des b&#233;n&#233;fices agricoles de l'earl. Ce sont les montants donnant lieu &#224; d&#233;claration fiscale de revenus avant abattement</commentaire>
+					<conservee>false</conservee>
+					<description>agriculteur g&#233;rant</description>
+					<employeur>earl des galets</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2010</annee>
+								<montant>-5726</montant>
+							</montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>64112</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>-4332</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>23471</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>78405</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>48880</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>26414</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46863</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>64270</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>64175</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2010</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je d&#233;tiens 51% des parts sociales de la SCEA. les montants d&#233;clar&#233;s correspondent &#224; cette participation telle que report&#233;e sur les d&#233;clarations fiscales de revenus</commentaire>
+					<conservee>false</conservee>
+					<description>Agriculteur G&#233;rant</description>
+					<employeur>SCEA Bertoroma</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2010</annee>
+								<montant>-3609</montant>
+							</montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>-5827</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>-13781</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>-13781</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>-7563</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>-2545</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>-11023</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>-15856</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1676</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1065</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2010</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>EARL des Galets</employeurConjoint>
+					<activiteProf>Secr&#233;taire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Utilisation de mat&#233;riels en commun</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>CUMA de Saint C&#233;saire</nomStructure>
+					<descriptionActivite>Pr&#233;sident</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>Cr&#233;dit Agricole Languedoc Roussillon</nomStructure>
+					<descriptionActivite>pr&#233;sidence caisse locale de la Vistrenque</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>INAO</nomStructure>
+					<descriptionActivite>Membre du Comit&#233; Vin</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>France Agrimer</nomStructure>
+					<descriptionActivite>Membre du Conseil Sp&#233;cialis&#233; Vin</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice pr&#233;sident N&#238;mes m&#233;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2128</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>IFV</nomSociete>
+					<activite>pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20558</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15275</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>syndicat costi&#232;res de nimes</nomSociete>
+					<activite>membre bureau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>credit agricole</nomSociete>
+					<activite>administrateur caisse r&#233;gionale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1953</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le GFA 
+        [Donn&#233;es non publi&#233;es]
+     est une structure professionnelle qui porte uniquement du foncier agricole</commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>157474</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>77</capitalDetenu>
+					<nombreParts>1033</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus li&#233;s au B&#233;n&#233;fice Agricole de l'EARL sont d&#233;clar&#233;s dans la rubrique activit&#233;s professionnelles</commentaire>
+					<nomSociete>EARL des Galets</nomSociete>
+					<evaluation>310312</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>78</capitalDetenu>
+					<nombreParts>19689</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus li&#233;s aux b&#233;n&#233;fices agricoles de la SCEA on fait l'objet d'une d&#233;claration dans la rubrique Activit&#233;s professionnelles</commentaire>
+					<nomSociete>SCEA Bertoroma</nomSociete>
+					<evaluation>3887</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>51</capitalDetenu>
+					<nombreParts>255</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>472416</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>4724</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>N&#238;mes m&#233;tropole</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>vice pr&#233;sident titulaire d'une d&#233;l&#233;gation + 100000 hab</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/N&#238;mes m&#233;tropole/vice pr&#233;sident titulaire d'une d&#233;l&#233;gation + 100000 hab</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ANGELRAS</nom>
+				<prenom>Bernard</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>05/06/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

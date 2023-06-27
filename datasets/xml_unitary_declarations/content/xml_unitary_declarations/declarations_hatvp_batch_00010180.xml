@@ -1,0 +1,460 @@
+<declarations><declaration>
+		<dateDepot>03/08/2022 16:07:26</dateDepot>
+		<uuid>20833ff6-1d71-4254-8bfb-fdba106e7f62</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; est exerc&#233;e exclusivement dans le cadre de la soci&#233;t&#233; Inflexion Capital Partners qui facture les services aux clients concern&#233;s. Les activit&#233;s de conseil de cette soci&#233;t&#233; seront mises en sommeil durant le mandat actuel</commentaire>
+					<nomEmployeur>Inflexion Capital Partners SL</nomEmployeur>
+					<description>Conseil strat&#233;gique et investissement</description>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>30&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les activit&#233;s de conseil de cette soci&#233;t&#233; seront mises en sommeil durant le mandat actuel</commentaire>
+					<conservee>true</conservee>
+					<description>Conseil strat&#233;gique et investissement</description>
+					<employeur>Inflexion Capital Partners SL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>37&#8239;289</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8&#8239;193</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La gratification percue au titre de l'ann&#233;e 2018 inclue un montant net avant pr&#233;l&#232;vement &#224; la source de 265108 euros au titre d'indemnit&#233;s suite &#224; 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Conseil strategique et financier</description>
+					<employeur>Key Capital Partners SL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>219&#8239;565</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>705&#8239;555</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>ROBERT BOSCH SA ESPA&#209;A</employeurConjoint>
+					<activiteProf>Cadre - services juridiques</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de toutes fonctions au sein de l'associaton au moment de la prise de fonction en septembre 2021</commentaire>
+					<nomStructure>Association des Parents d'&#201;l&#232;ves du Lyc&#233;e Francais de Madrid</nomStructure>
+					<descriptionActivite>Responsable de l'organisation du service de transport scolaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233; percue au titre de frais de mandat</commentaire>
+					<descriptionMandat>Conseiller des Francais de l'&#201;tranger</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;833</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; sera mise en sommeil durant mon mandat</commentaire>
+					<nomSociete>Kenobi Ventures SL</nomSociete>
+					<activite>Investissement en entreprises de nouvelles technologies</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeur des fonds propres de la soci&#233;t&#233; tels que d&#233;clar&#233;s dans les comptes publi&#233;s en date du 31 d&#233;cembre 2021. Cette soci&#233;t&#233; ne verse pas de dividendes</commentaire>
+					<nomSociete>Inflexion Capital Partners SL</nomSociete>
+					<evaluation>708162</evaluation>
+					<remuneration>R&#233;mun&#233;ration nette avant pr&#233;l&#232;vement &#224; la source de 16385 euros percue au titre de l'ann&#233;e 2021. Aucun dividende vers&#233; en 2022 au titre de l'ann&#233;e 2021</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>3000</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>Inflexion Capital Partners SL, 100%</nomOrganisationConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dans les comptes publi&#233;s en date du 31 d&#233;cembre 2021, la soci&#233;t&#233; a d&#233;clar&#233; des fonds propres n&#233;gatifs de (47,245) euros</commentaire>
+					<nomSociete>Kenobi Ventures SL</nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>33</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SOCI&#201;T&#201; G&#201;N&#201;RALE</nomSociete>
+					<evaluation>20304</evaluation>
+					<remuneration>Dividende de 1485 euros au titre de l'ann&#233;e 2022</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>900</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>FRANCAISE DES JEUX</nomSociete>
+					<evaluation>4480</evaluation>
+					<remuneration>Dividende de 159 euros au titre de l'ann&#233;e 2021</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>128</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>UBS</nomSociete>
+					<evaluation>86139</evaluation>
+					<remuneration>Dividende de 1750 euros au titre de l'ann&#233;e 2021</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>6280</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DUFRY</nomSociete>
+					<evaluation>7003</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>215</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>ABENGOA</nomSociete>
+					<evaluation>2218</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>230000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>&#201;milie Chartier</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette collaboratrice pr&#233;side - sans percevoir de r&#233;mun&#233;ration &#224; ce titre - Le Vivre Mieux / Lo Vives Mejor, une association impliqu&#233;e dans le soutien aux familles dont les enfants souffrent de handicap</commentaire>
+					<nom>Marie Camacho</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>B&#233;r&#233;nice Mottelay</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Yann Saillard</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gautier Lagarde</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Paris(75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Paris(75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Vojetta</nom>
+				<prenom>St&#233;phane</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>19/07/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

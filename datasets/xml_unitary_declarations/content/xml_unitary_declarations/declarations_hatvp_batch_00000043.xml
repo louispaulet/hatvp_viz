@@ -1,0 +1,367 @@
+<declarations><declaration>
+		<dateDepot>17/07/2022 14:50:11</dateDepot>
+		<uuid>b9a295db-3616-4938-80c8-853bd00327ef</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>INFIRMIERE</description>
+					<employeur>HOPITAL PRIVEE DE L EST PARISIEN</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>23503</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>21118</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20596</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13362</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17010</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3437</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13&#8239;690</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;508</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SNCF</employeurConjoint>
+					<activiteProf>CADRE DIRIGEANT 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233; de fonction Vice pr&#233;sidente Conseil IDF</commentaire>
+					<descriptionMandat>Vice Pr&#233;sidente en charge sant&#233; solidarit&#233; famille</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>46452</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>45496</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26&#8239;405</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>38&#8239;249</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>29&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24&#8239;416</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>INDEMNITES DE FONCTION MAIRIE DE VILLEPINTE MAIRE ADJOINT</commentaire>
+					<descriptionMandat>Mairie de VILLEPINTE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>10724</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14513</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14555</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14769</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12&#8239;415</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9&#8239;668</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;911</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6&#8239;636</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>INDEMNITE DE FONCTION VICE PRESIDENTE DU CA TERRE DE FRANCE</commentaire>
+					<descriptionMandat>CA TERRE DE FRANCE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>15763</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22578</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>INDEMNITE CONSEILLER TERRITORIAL PARIS TERRE D ENVOL</commentaire>
+					<descriptionMandat>CONSEILLER TERRITORIAL</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;110</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;980</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;lu repr&#233;sentant la r&#233;gion IDF</commentaire>
+					<nomSociete>Syndicat mixte de la base de plein air et de loisirs (BPAL) de la corniche des forts</nomSociete>
+					<activite>Repr&#233;sentation de la r&#233;gion IDF</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;lu repr&#233;sentant la r&#233;gion</commentaire>
+					<nomSociete>GIP Transport sanitaire par h&#233;licopt&#232;re en Ile-de-France</nomSociete>
+					<activite>repr&#233;sentation de la r&#233;gion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu r&#233;gional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu r&#233;gional</labelTypeMandat>
+				<labelOrgane>R&#233;gion</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>11</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>R&#233;gions</nomListeOrgane>
+				<labelOrgane>Ile-de-France (11)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>VICE PRESIDENTE,solidarit&#233;s, de la sant&#233; et de la famille</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu r&#233;gional/Ile-de-France (11)/VICE PRESIDENTE,solidarit&#233;s, de la sant&#233; et de la famille</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ADLANI</nom>
+				<prenom>FARIDA</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/03/1976</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

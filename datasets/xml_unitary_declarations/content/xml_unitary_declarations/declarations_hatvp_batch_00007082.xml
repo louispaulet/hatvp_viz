@@ -1,0 +1,373 @@
+<declarations><declaration>
+		<dateDepot>04/08/2022 14:42:44</dateDepot>
+		<uuid>935e8b22-07f6-41e7-95bb-1c644a91a432</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>N&#176;SIRET de la soci&#233;t&#233; 
+        [Donn&#233;es non publi&#233;es]
+    , la soci&#233;t&#233; a &#233;t&#233; ferm&#233;e le 23/06/2017</commentaire>
+					<conservee>false</conservee>
+					<nomEmployeur>autoentrepreneur</nomEmployeur>
+					<description>conseil en communication</description>
+					<dateDebut>06/2013</dateDebut>
+					<dateFin>06/2017</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>3500</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>3046</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>690</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission le 19 Juin 2017</commentaire>
+					<conservee>false</conservee>
+					<description>Charg&#233;e de communication</description>
+					<employeur>LUDILUX</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1619</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les salaires ont &#233;t&#233; indiqu&#233;s en se r&#233;f&#233;rant aux avis d'imp&#244;t sur le revenu des diff&#233;rentes ann&#233;es</commentaire>
+					<conservee>false</conservee>
+					<description>Professeure d'anglais</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>18362</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>15131</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>16788</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24217</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16845</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>08/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>LUDILUX</employeurConjoint>
+					<activiteProf>G&#233;rant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Alliance HQE GBC</nomStructure>
+					<descriptionActivite>Pr&#233;sidente d'une association d'utilit&#233; publique qui promeut la construction et l'am&#233;nagement du territoire durable en France et dans le reste du monde</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re r&#233;gionale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>28463</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19&#8239;554</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>27&#8239;627</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;362</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;017</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;349</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#233;put&#233;e</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37&#8239;378</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>72&#8239;288</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>72&#8239;351</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>72&#8239;019</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>71&#8239;922</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>35&#8239;961</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>LUDILUX</nomSociete>
+					<evaluation>10000</evaluation>
+					<remuneration>N&#233;ant</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>1000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Conseiller municipal &#224; La Chapelle de la Tour</commentaire>
+					<nom>SAGNES Guillaume</nom>
+					<employeur/>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Conseiller municipal &#224; Pont de Beauvoisin</commentaire>
+					<nom>HERBOUX-DUBOIS Cl&#233;ment</nom>
+					<employeur/>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>PAVY Pierre</nom>
+					<employeur/>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>38</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Is&#232;re(38)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Is&#232;re(38)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>MEYNIER-MILLEFERT</nom>
+				<prenom>Marjolaine</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/09/1982</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

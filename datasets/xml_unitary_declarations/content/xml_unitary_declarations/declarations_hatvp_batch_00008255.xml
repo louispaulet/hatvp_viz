@@ -1,0 +1,287 @@
+<declarations><declaration>
+		<dateDepot>23/07/2021 12:05:58</dateDepot>
+		<uuid>87e67092-be20-4dfa-9278-d306af8885c7</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>retraite au 31/08/2017</commentaire>
+					<description>Directeur de greffe
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<employeur>MINISTERE JUSTICE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>74&#8239;810</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>77&#8239;990</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>72&#8239;710</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>65&#8239;090</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>69&#8239;570</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>AUCUN</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Minist&#232;re dela justice</employeurConjoint>
+					<activiteProf>Secr&#233;taire administrative 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association qui peut octroyer des secours aux personnels en difficult&#233; Subvention aux agents pour des actions culturels , sportives</commentaire>
+					<nomStructure>ARSC (association r&#233;gionale socio culturelle des personnels de la Cour d'appel de BOURGES</nomStructure>
+					<descriptionActivite>Pr&#233;sident l'ARSC est le support financier du CRAS de BOURGES Conseil R&#233;gional de l'action sociale des personnels de la cour d'appel de BOURGES</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6&#8239;600</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6&#8239;540</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6&#8239;824</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6&#8239;561</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6&#8239;168</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;265</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice pr&#233;sident communaut&#233; d'agglom&#233;ration BOURGES</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13&#8239;819</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12&#8239;496</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14&#8239;511</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13&#8239;700</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12&#8239;991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;132</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>PEA</commentaire>
+					<nomSociete>LBPAM</nomSociete>
+					<evaluation>587</evaluation>
+					<remuneration>10,30</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>LBPAM</nomSociete>
+					<evaluation>1673</evaluation>
+					<remuneration>58</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>13</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>BOURGESPLUS</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/BOURGESPLUS</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>POYET</nom>
+				<prenom>Denis</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>04/03/1955</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

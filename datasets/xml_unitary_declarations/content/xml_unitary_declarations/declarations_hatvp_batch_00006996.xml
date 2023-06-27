@@ -1,0 +1,201 @@
+<declarations><declaration>
+		<dateDepot>07/09/2021 16:48:51</dateDepot>
+		<uuid>17fd6343-aba3-4f39-8c76-4425cbe98744</uuid>
+		<origine>ADEL</origine>
+		<complete>false</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Retrait&#233; au 01/10/2016</commentaire>
+					<conservee>false</conservee>
+					<description>ACHETEUR</description>
+					<employeur>HOLCIM/EQIOM</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>31098</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>30348</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>29905</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>31133</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>39240</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>09/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Toujours en retrait&#233; et &#233;lu</commentaire>
+					<description>acheteur puis retrait&#233;</description>
+					<employeur>EQIOM et RETRAITE CARSAT</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>42&#8239;138</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35&#8239;566</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>38&#8239;610</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>36&#8239;800</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>37&#8239;022</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>11352</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Dirigeant du secteur public (soci&#233;t&#233;s publiques, offices publics de l&#8217;habitat, EPIC de l&#8217;Etat&#8230;)</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Dirigeant soci&#233;t&#233; publique locale</typeMandat>
+				<codCategorieMandat>DIR</codCategorieMandat>
+				<nomCategorieMandat>Dirigeant du secteur public</nomCategorieMandat>
+				<codTypeMandatFichier>sem</codTypeMandatFichier>
+				<labelTypeMandat>Dirigeant d'une soci&#233;t&#233; publique locale</labelTypeMandat>
+				<labelOrgane>Nom de la soci&#233;t&#233; </labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe/>
+			<qualiteDeclarant>VICE PRESIDENT</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Dirigeant d'une soci&#233;t&#233; publique locale/CONSEILLER DEPARTEMENTAL/VICE PRESIDENT</qualiteDeclarantForPDF>
+			<dateDebutMandat>15/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete>CONSEILLER DEPARTEMENTAL</nomSociete>
+			<nomSocieteMere/>
+			<chiffreAffaire>0</chiffreAffaire>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>M&#233;quignon</nom>
+				<prenom>alain</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/09/1956</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

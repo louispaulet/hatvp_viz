@@ -1,0 +1,385 @@
+<declarations><declaration>
+		<dateDepot>24/11/2020 15:30:20</dateDepot>
+		<uuid>4665c51a-b120-4741-ba67-ad0e63fb0890</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait&#233; depuis 1990</commentaire>
+					<conservee>true</conservee>
+					<description>Retrait&#233; de la gendarmerie</description>
+					<employeur>Retrait&#233;</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>34440</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>39054</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>39215</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33376</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34&#8239;188</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34&#8239;196</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>31&#8239;287</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25&#8239;907</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Elu S&#233;nateur au 1er octobre 2017 et r&#233;&#233;lu le 27 septembre 2020</commentaire>
+					<conservee>true</conservee>
+					<description>S&#233;nateur</description>
+					<employeur>S&#233;nat</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;898</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#8239;088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55&#8239;906</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait&#233;e de l'administration territoriale</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>n&#233;ant</employeurConjoint>
+					<activiteProf>n&#233;ant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission du poste de Maire au 31 octobre 2017 et reste conseiller municipal sans indemnit&#233;s</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>57478</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>57478</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>57650</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>43904</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune r&#233;mun&#233;ration durant ce mandat d&#233;mission le 31 octobre 2017 mais reste conseiller communautaire toujours sans indemnit&#233;s</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sident de la communaut&#233; d'agglom&#233;ration Cannes Pays de L&#233;rins</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission &#224; la date du 31 octobre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Pr&#233;sident du conseil d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>35890</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35779</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>S&#233;nateur depuis le 1er octobre 2017 et r&#233;&#233;lu le 27 septembre 2020</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>senateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;898</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#8239;088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55&#8239;906</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>M&#234;me commentaire que rubrique 3</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>533500</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>55</capitalDetenu>
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Employ&#233;e &#224; 70% de la collectivit&#233; (mairie de Mandelieu) et &#224; 50% en tant que collaborateur charg&#233; de l'agenda</commentaire>
+					<nom>GIUSTO V&#233;ronique</nom>
+					<employeur>Mairie de Mandelieu La Napoule</employeur>
+					<descriptionActivite>Collaborateur parlementaire dans les Alpes-Maritimes</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Employ&#233;e &#224; 70% de la collectivit&#233; (mairie de Mandelieu) et &#224; 50% en tant que collaborateur charg&#233; de la communication et de l'informatique</commentaire>
+					<nom>ROTGER-MAILLARD Nathalie</nom>
+					<employeur>Mairie de Mandelieu-La Napoule</employeur>
+					<descriptionActivite>Collaborateur parlementaire dans les Alpes-Maritimes</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Employ&#233; &#224; temps plein en tant que collaborateur parlementaire en charge du suivi des travaux parlementaires</commentaire>
+					<nom>FANIER Basile</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>06</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Alpes-Maritimes(06)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Alpes-Maritimes(06)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>LEROY</nom>
+				<prenom>Henri</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/03/1945</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

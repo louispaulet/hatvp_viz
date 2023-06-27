@@ -1,0 +1,326 @@
+<declarations><declaration>
+		<dateDepot>08/07/2022 11:22:24</dateDepot>
+		<uuid>e3e149d9-83d0-4c40-8ee2-800f4943f52b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Collaboratrice parlementaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Amicale des Conseillers g&#233;n&#233;raux et d&#233;partementaux de Lorraine</nomStructure>
+					<descriptionActivite>Organisation d'activit&#233;s ludiques. Membre simple</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association du chemin de fer forestier d'Abreschviller Site touristique</nomStructure>
+					<descriptionActivite>Membre simple</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Moselle Attractivit&#233; Association pour le d&#233;veloppement de la Moselle.</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sident charg&#233; de la promotion touristique</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Soci&#233;t&#233; Publique Locale Destination Amn&#233;ville</nomStructure>
+					<descriptionActivite>Soci&#233;t&#233; qui s'occupe du d&#233;veloppement d'Amn&#233;ville Simple membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Syndicat Mixte Num&#233;rique pour la Communication Audiovisuelle</nomStructure>
+					<descriptionActivite>Simple membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Union d&#233;partementale des offices de tourisme et syndicats d'initiative de Moselle</nomStructure>
+					<descriptionActivite>Membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Moselle Agence technique</nomStructure>
+					<descriptionActivite>Aides techniques pour les communes. Membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association d&#233;partementale Moselle Arts Vivants</nomStructure>
+					<descriptionActivite>Association qui s'occupe des manifestations culturelles dans le d&#233;partement Membre</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association d'Equipement du Bassin Lorrain Grand Est</nomStructure>
+					<descriptionActivite>Aides techniques et financi&#232;res du d&#233;veloppement des communes. Membre</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;063</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6&#8239;790</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    j'ai pris ma r&#233;num&#233;ration mensuelle X12</commentaire>
+					<nomSociete>Communaut&#233; de Commune Sarrebourg Moselle Sud</nomSociete>
+					<activite>vice-pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8&#8239;148</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    j'ai pris ma r&#233;num&#233;ration mensuelle X12</commentaire>
+					<nomSociete>Conseil D&#233;partemental</nomSociete>
+					<activite>Conseiller</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;755</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Moselle (57)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>44</organeParent>
+			</organe>
+			<qualiteDeclarant>vice-pr&#233;sident</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Moselle (57)/vice-pr&#233;sident</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/08/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SIMON</nom>
+				<prenom>Bernard</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>29/09/1950</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

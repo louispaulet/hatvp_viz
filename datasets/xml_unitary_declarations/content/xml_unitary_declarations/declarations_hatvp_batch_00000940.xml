@@ -1,0 +1,600 @@
+<declarations><declaration>
+		<dateDepot>18/04/2021 09:34:45</dateDepot>
+		<uuid>50ab419d-b615-4572-a14a-42966703f1e6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>G&#233;rant et actionnaire unique de l'EURL BCAF 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>BCAF</nomSociete>
+					<activite>G&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>96817</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>97624</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>97613</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>147619</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>147619</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration mais dividendes per&#231;us 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>g&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+     Ni r&#233;mun&#233;ration ni dividendes per&#231;us</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>g&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de revenus SCI familiale non soumise &#224; l'IS</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>G&#233;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre b&#233;n&#233;vole de la direction nationale d'EELV</commentaire>
+					<nomSociete>EELV</nomSociete>
+					<activite>membre du CA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Secr&#233;taire r&#233;gional d'EELV Rh&#244;ne Alpes &#224; titre b&#233;n&#233;vole</commentaire>
+					<nomSociete>EELV RA</nomSociete>
+					<activite>secr&#233;taire r&#233;gional</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation via l'EURL BCAF</commentaire>
+					<nomSociete>SAS IDF ENVIRONNEMENT</nomSociete>
+					<activite>Pr&#233;sidence de la SAS par l'EURL BCAF</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le montant pour &#233;valuer la valeur des parts est celui des capitaux propres de l'entreprise au 31/12/19</commentaire>
+					<nomSociete>BCAF</nomSociete>
+					<evaluation>2971238</evaluation>
+					<remuneration>En 2019 : 147 619&#8364; net en tant que g&#233;rant 100 000 &#8364; de dividendes bruts en 2019</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>5000</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeur des parts &#233;valu&#233; avec le montant des capitaux propres</commentaire>
+					<nomSociete>IDF ENVIRONNEMENT</nomSociete>
+					<evaluation>190820</evaluation>
+					<remuneration>29320 &#8364; de dividendes brut 2019</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon l'estimation de l'actif</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>50000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>47</capitalDetenu>
+					<nombreParts>70</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capitaux propres n&#233;gatifs. Evaluation identique &#224; l'apport initial en capital</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>50</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon la valeur des capitaux propres au 31/12/19</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>4717</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>13</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon les capitaux propres au 31/12/19</commentaire>
+					<nomSociete>SARL Cave des Grattes Ciel</nomSociete>
+					<evaluation>58242</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>45</capitalDetenu>
+					<nombreParts>450</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon l'apport initial (statuts SCOP) Le capital d&#233;tenu &#233;tait de 16,67% &#224; la cr&#233;ation le 06/08/14. Le capital est variable, le % d&#233;tenu actuellement est inconnu.</commentaire>
+					<nomSociete>SARL SCOP LE BIERISTAN</nomSociete>
+					<evaluation>2000</evaluation>
+					<remuneration>2TR Produis de placement (titres participatifs) : 995&#8364; en 2019</remuneration>
+					<capitalDetenu>17</capitalDetenu>
+					<nombreParts>40</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon la valeur des capitaux propres au 31/12/19</commentaire>
+					<nomSociete>SARL Pizzeria Tonkin</nomSociete>
+					<evaluation>22912</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>38</capitalDetenu>
+					<nombreParts>379</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;tention de 10 parts de 100&#8364;</commentaire>
+					<nomSociete>SCIC SA ENERCOOP</nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>% de d&#233;tention inconnu Valeur estim&#233;e selon l'attestation de titres du 20/10/17</commentaire>
+					<nomSociete>SCA ENERGIE PARTAGEE</nomSociete>
+					<evaluation>1020</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>10</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cr&#233;ation le 07/06/19 Evaluation selon apport initial</commentaire>
+					<nomSociete>SAS PIMOUSSE</nomSociete>
+					<evaluation>5000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>500</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capital actuel de la NEF variable et inconnu Evaluation selon la valeur initiale</commentaire>
+					<nomSociete>SAS LA NEF</nomSociete>
+					<evaluation>9000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>300</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cr&#233;ation le 03/01/20 Evaluation selon l'apport initial</commentaire>
+					<nomSociete>SARL SCOP LA MACHINE</nomSociete>
+					<evaluation>9600</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>49</capitalDetenu>
+					<nombreParts>192</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capital inconnu du Cr&#233;dit Mutuel Evaluation selon relev&#233; de compte Cr&#233;dit Mutuel du 18/07/20</commentaire>
+					<nomSociete>Cr&#233;dit Mutuel</nomSociete>
+					<evaluation>55018</evaluation>
+					<remuneration>854&#8364; en 2019</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>55018</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capital variable inconnu Evaluation selon l'apport du 23/11/17</commentaire>
+					<nomSociete>SAS UN DEUX TOITS SOLEIL</nomSociete>
+					<evaluation>100</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>2</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Capital variable de 96600&#8364; initialement lors de la cr&#233;ation 2018. Evaluation selon l'apport initial</commentaire>
+					<nomSociete>SCIC SARL VILLAGES VIVANTS</nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>Sans objet</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>5</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation selon la valeur des capitaux propres au 31/12/19</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>185027</evaluation>
+					<remuneration>Dividendes 36000 &#8364; brut en 2019</remuneration>
+					<capitalDetenu>90</capitalDetenu>
+					<nombreParts>900</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Collectivit&#233; &#224; statut particulier</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>ctsp</codTypeMandatFichier>
+				<labelTypeMandat>Collectivit&#233; &#224; statut particulier</labelTypeMandat>
+				<labelOrgane>Collectivit&#233;</labelOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>MTPLYON</codeOrgane>
+				<codeListeOrgane>COLLECT</codeListeOrgane>
+				<nomListeOrgane>Collectivit&#233;s &#224; statut particulier</nomListeOrgane>
+				<labelOrgane>M&#233;tropole de Lyon</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Collectivit&#233; &#224; statut particulier/M&#233;tropole de Lyon</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Bernard</nom>
+				<prenom>Bruno</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/12/1970</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

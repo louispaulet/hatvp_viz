@@ -1,0 +1,456 @@
+<declarations><declaration>
+		<dateDepot>16/08/2022 10:44:33</dateDepot>
+		<uuid>260a75e7-f4a1-416a-99ee-f8a29cdfa9cd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Minist&#232;re de l'Education Nationale</employeurConjoint>
+					<activiteProf>Inspecteur g&#233;n&#233;ral de l'&#233;ducation, du sport et de la recherche</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les montants sont ceux des ann&#233;es enti&#232;res sauf l'ann&#233;e 2022 (en cours). 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#233;put&#233;e</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>60&#8239;951</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71&#8239;042</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;105</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;723</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;616</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>41&#8239;434</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montants 2017 &#224; 2021 en ann&#233;e enti&#232;re ; montant 2022 (ao&#251;t 2022) en montant estim&#233; (8 mois sur 12).</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re municipale du Mans et conseill&#232;re de Le Mans M&#233;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15&#8239;105</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5&#8239;424</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5&#8239;450</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;450</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;450</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3&#8239;633</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;sign&#233;e par le conseil de Le Mans M&#233;tropole comme administratrice en juin 2018, d'abord de CENOVIA (ex - SEM - Soci&#233;t&#233; d'&#201;quipement du Mans) puis &#224; compter de juillet 2020 de la soci&#233;t&#233; publique locale (SPL) "C&#233;novia Cit&#233;s", je ne re&#231;ois ni r&#233;mun&#233;ration ni gratification. Je n'ai pu participer &#224; aucune r&#233;union du CA depuis la date de ma d&#233;signation en juillet 2020.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Cenovia, entreprise publique locale ayant pour objet l'am&#233;nagement et le d&#233;veloppement urbains et d'habitat, ou encore la gestion du service public</nomSociete>
+					<activite>Membre du Conseil d'administration Cenovia</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI ayant pour objet la gestion d'un bien immobilier affect&#233; &#224; l'activit&#233; d'&#233;lue.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>Cog&#233;rante d'une SCI ayant pour objet la gestion d'un bien immobilier affect&#233; &#224; l'activit&#233; d'&#233;lue</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI cr&#233;&#233;e en vue du regroupement des biens immobiliers personnels 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>Cog&#233;rante d'une SCI ayant pour objet d'acqu&#233;rir, vendre ou g&#233;rer des biens immobiliers personnels situ&#233;s 
+        [Donn&#233;es non publi&#233;es]
+    </activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;sign&#233;e administratrice comme &#233;lue locale par le conseil de Le Mans M&#233;tropole, je n'ai per&#231;u ni re&#231;u ni r&#233;mun&#233;ration ni gratification (mandat allant de mars 2014 &#224; juin 2020).</commentaire>
+					<nomSociete>Le Mans Habitat &#233;tablissement public &#224; caract&#232;re industriel ou commercial ayant pour objet la location de logements</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI ayant pour objet unique la gestion d'un bien immobilier d&#233;di&#233; &#224; l'exercice des mandats &#233;lectifs; 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>79200</evaluation>
+					<remuneration>Aucune</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>119</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI 
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+    ayant pour objet de g&#233;rer les biens immobiliers 
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>600</evaluation>
+					<remuneration>Aucune</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>1200</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucun autre employeur &#224; ma connaissance. A la date de d&#233;claration aucun autre collaborateur &#224; raison d'une r&#233;organisation de l'&#233;quipe.</commentaire>
+					<nom>CHATONNAY Claude</nom>
+					<employeur>Aucun autre employeur</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Membre du bureau de l&#8217;Association interparlementaire hell&#233;nique mondiale (PADEE-WHIA), organisation interparlementaire de la diaspora grecque r&#233;unissant des l&#233;gislateurs d&#8217;origine grecque du monde entier, cr&#233;&#233;e sous les auspices du Parlement Grec (cf lien sur le site du Parlement Grec https://www.hellenicparliament.gr/ en/Diethneis-Drastiriotites/Diethnes-Perivallon/Ellinismos-tis-Diasporas/PADEE/) ; n'est pas de nature &#224; faire na&#238;tre un conflit d'int&#233;r&#234;ts.</contenu>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Participe de mani&#232;re b&#233;n&#233;vole &#224; la formation d'&#233;tudiants &#224; l' IUT / Universit&#233; du Mans (enseignements et correction de copies)</contenu>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>72</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Sarthe(72)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Sarthe(72)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>KARAMANLI</nom>
+				<prenom>Marietta</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/12/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

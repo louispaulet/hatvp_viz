@@ -1,0 +1,220 @@
+<declarations><declaration>
+		<dateDepot>11/07/2022 17:00:19</dateDepot>
+		<uuid>7ddbeff9-3ebd-4b95-90d7-6051fd65eac3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j' exerce cet emploi depuis novembre 1992 au sein de swisslife avec un salaire mensuel net de &#8364;3650 . Je suis &#233;galement charg&#233;e d' enseignement &#224; l' universit&#233; de lille (master droit ) avec une r&#233;mun&#233;ration annuelle nette de &#8364; 1500 activit&#233; que j' ai arr&#234;t&#233; en 2016 Depuis 2021 , j' ai repris mon activite de charg&#233;e d' enseignements &#224; l' universit&#233; pour un montant annuel net de 4750 &#8364;</commentaire>
+					<description>juriste</description>
+					<employeur>swisslife</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>42000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>42&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>42&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>46&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>23&#8239;100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2012</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>swisslife</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseill&#232;re r&#233;gionale d&#233;l&#233;gu&#233;e au devoir de m&#233;moire et &#224; l' inventaire du patrimoine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>25&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12&#8239;600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu r&#233;gional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu r&#233;gional</labelTypeMandat>
+				<labelOrgane>R&#233;gion</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>32</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>R&#233;gions</nomListeOrgane>
+				<labelOrgane>Hauts-de-France (32)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>conseill&#232;re r&#233;gionale d&#233;l&#233;gu&#233;e au devoir de m&#233;moire et &#224; l' inventaire du patrimoine</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu r&#233;gional/Hauts-de-France (32)/conseill&#232;re r&#233;gionale d&#233;l&#233;gu&#233;e au devoir de m&#233;moire et &#224; l' inventaire du patrimoine</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>dorchies</nom>
+				<prenom>mauricette</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>05/12/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

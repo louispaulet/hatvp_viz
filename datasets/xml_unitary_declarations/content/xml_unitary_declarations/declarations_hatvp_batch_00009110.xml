@@ -1,0 +1,384 @@
+<declarations><declaration>
+		<dateDepot>13/05/2021 12:13:30</dateDepot>
+		<uuid>1339ef0d-9352-4614-967e-6502ef683fe6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Dirigeant non salari&#233; de la soci&#233;t&#233; Magellan Consulting que j'ai cr&#233;&#233;e en mai 2019 et liquid&#233;e le 19 d&#233;cembre 2020 Je n'ai donc plus d'activit&#233; durant mon mandat </commentaire>
+					<nomEmployeur>Non salari&#233;</nomEmployeur>
+					<description>Consultant</description>
+					<dateDebut>05/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette activit&#233; professionnelle a cess&#233; au 30 avril 2019 J'ai ensuite cr&#233;&#233; une soci&#233;t&#233; "Magellan Consulting" pour exercer une activit&#233; de consultant Je b&#233;n&#233;ficie de l'ARE dans ce cadre depuis septembre 2019 J'ai cess&#233; de touch&#233; des allocations ch&#244;mage depuis le 30 septembre 2020, mon mandat de s&#233;nateur prenant effet au 1er octobre 2020 </commentaire>
+					<description>Directeur G&#233;n&#233;ral des Services</description>
+					<employeur>Conseil d&#233;partemental du Cantal</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>101&#8239;878</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>106&#8239;960</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>111&#8239;153</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>111&#8239;461</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>112&#8239;173</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>39&#8239;696</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>04/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+     </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Conseil d&#233;partemental du Cantal </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal d'Aurillac</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire Agglom&#233;ration d'Aurillac</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI familiale dont je suis cog&#233;rant Il s'agit de revenus fonciers </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+     </nomSociete>
+					<activite>Immobilier</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>38&#8239;156</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>34&#8239;688</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37&#8239;549</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>39&#8239;832</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>37&#8239;745</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>38&#8239;650</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>25&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du CA en qualit&#233; de repr&#233;sentant de la Ville d'Aurillac</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Seba15</nomSociete>
+					<activite>SAEM d'am&#233;nagement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>capital d&#233;tenu en pleine propri&#233;t&#233; dans une SCI familiale le revenu indiqu&#233; est le revenu 2019 </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+     </nomSociete>
+					<evaluation>1465469</evaluation>
+					<remuneration>38650&#8364;</remuneration>
+					<capitalDetenu>19</capitalDetenu>
+					<nombreParts>11010</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s'agit des parts d&#233;tenues en nue-propri&#233;t&#233; dans la SCI familiale </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+     </nomSociete>
+					<evaluation>809394</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>13</capitalDetenu>
+					<nombreParts>7755</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Besson Delphine</nom>
+					<employeur>C&#233;dric Vial S&#233;nateur de Savoie</employeur>
+					<descriptionActivite>Collaborateur parlementaire au S&#233;nat &#224; 50%</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Claux Bertrand</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>Collaborateur parlementaire en circonscription &#224; 100%</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ne prend ses fonctions qu'au 16 novembre 2020</commentaire>
+					<nom>Belaidi Aurore</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>Assistante parlementaire en circonscription &#224; 90%</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>15</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Cantal(15)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Cantal(15)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M </civilite>
+				<nom>Sautarel</nom>
+				<prenom>St&#233;phane</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>29/01/1965</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

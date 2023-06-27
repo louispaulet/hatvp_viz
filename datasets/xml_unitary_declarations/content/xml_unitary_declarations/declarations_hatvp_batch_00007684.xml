@@ -1,0 +1,375 @@
+<declarations><declaration>
+		<dateDepot>12/01/2021 09:01:00</dateDepot>
+		<uuid>d77ee35e-1172-43ed-ae06-9c3a48176f90</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis en disponibilit&#233; depuis le 1er avril 2020.</commentaire>
+					<description>Cadre courrier</description>
+					<employeur>La poste</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24423</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>24160</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23485</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23909</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>25545</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24997</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SARL
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Artisan Chauffage Promberie Sanitaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de cette fonction au 1er avril car incompatibilit&#233; avec le mandat de S&#233;natrice. Pour autant je suis rest&#233;e conseill&#232;re municipale jusqu'aux &#233;lections du 29 juin 2020.</commentaire>
+					<descriptionMandat>Maire Ispagnac</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5851</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7920</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1980</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de cette fonction au 1er avril 2020 car incompatible avec le mandat de S&#233;natrice. Pour autant je suis rest&#233;e conseill&#232;re communautaire jusqu'aux &#233;lections de juin 2020. Je percevais 450 euros par mois en tant que Vice pr&#233;sidente.</commentaire>
+					<descriptionMandat>Vice pr&#233;sidente Conseil Communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4050</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5400</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de la Vice-Pr&#233;sidence car incompatible avec le mandat de S&#233;natrice. Pour autant je suis rest&#233;e conseill&#232;re d&#233;partementale &#224; compter d'avril 2020. Je percevais 1429 euros par mois en tant que Vice pr&#233;sidente.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice pr&#233;sidente Conseil D&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12861</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17148</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17148</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17148</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17148</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4287</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je per&#231;ois d&#233;sormais : - avril : 1040,85&#8364; - mail : 1040,85&#8364; - juin : 1040,85&#8364;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re D&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3122</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Suite aux &#233;lections du 29 juin je ne suis plus conseill&#232;re communautaire.</commentaire>
+					<descriptionMandat>Conseill&#232;re Communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Suite aux &#233;lections du 29 juin je ne suis plus conseill&#232;re municipale.</commentaire>
+					<descriptionMandat>Conseill&#232;re Municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ZAMPIELLO Betty</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>OCTOR Dennis</nom>
+					<employeur>M. Octor est &#224; mi temps avec moi ainsi qu'&#224; mi temps avec Mme Carrere, S&#233;natrice des Hautes Pyr&#233;n&#233;es.</employeur>
+					<descriptionActivite>Collaborateur parlementaire au S&#233;nat &#224; Paris.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BERGONHE Marion</nom>
+					<employeur>Mme Bergonhe est &#233;galement collaboratrice d'&#233;lus au D&#233;partement de la Loz&#232;re. Elle est &#224; mi-temps pour moi.</employeur>
+					<descriptionActivite>secr&#233;tariat de la permanence en Loz&#232;re</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>48</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Loz&#232;re(48)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Loz&#232;re(48)</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/03/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Pantel</nom>
+				<prenom>Guylene</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/12/1963</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

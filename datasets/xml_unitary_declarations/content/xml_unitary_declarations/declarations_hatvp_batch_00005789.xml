@@ -1,0 +1,452 @@
+<declarations><declaration>
+		<dateDepot>26/06/2022 10:25:05</dateDepot>
+		<uuid>51c1eb16-4199-4725-aba1-58729bea9c9c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pas de comptabilit&#233; &#224; ce moment pour les revenus de 2017 je pourrais le remplir apr&#232;s ma d&#233;claration de revenu</commentaire>
+					<conservee>true</conservee>
+					<description>m&#233;decin g&#233;n&#233;raliste rempla&#231;ant</description>
+					<employeur>profession lib&#233;rale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>72636</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>66757</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>69625</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>77483</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60026</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ce n'est pas un travail mais un mandat</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Mairie d'Agen</employeurConjoint>
+					<activiteProf>Adjointe</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>c'est un mandat non un travail</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Communaut&#233; d'Agglom&#233;ration d'Agen</employeurConjoint>
+					<activiteProf>Conseill&#232;re</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Travaille au sein de l&#8217;agence Soulli&#233; Fr&#232;res</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>travailleur ind&#233;pendant</employeurConjoint>
+					<activiteProf>Agent immobilier &#224; Agen</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Association pour La d&#233;veloppement en R&#233;gion du Cin&#233;ma ( ADRC)</employeurConjoint>
+					<activiteProf>Pr&#233;sidente B&#233;n&#233;vole</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat arr&#234;t&#233;</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>11086</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>10620</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8846</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9054</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9024</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9485</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4454</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat stopp&#233;</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice pr&#233;sident Agglomertaion Agen</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>11086</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>10620</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8846</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9054</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9024</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9024</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4554</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat stopp&#233;</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident sivu Darel</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>2030</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>2024</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1874</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1870</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1866</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1866</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>929</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>35&#8239;500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>29&#8239;448</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j'ai d&#233;missionn&#233; de mon mandat &#224; l'Agglom&#233;ration d'Agen</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Soci&#233;t&#233; d'Economie Mixte de gestion du parc des expositions et du centre des congr&#233;s d'Agen</nomSociete>
+					<activite>administrateur</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>vendu depuis 2018</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>40872</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>1874</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Terral Dorian</nom>
+					<employeur/>
+					<descriptionActivite>attach&#233; parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Rive Claire</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233; parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>47</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Lot-et-Garonne(47)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Lot-et-Garonne(47)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>lauzzana</nom>
+				<prenom>michel</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/03/1957</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

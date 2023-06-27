@@ -1,0 +1,407 @@
+<declarations><declaration>
+		<dateDepot>01/08/2020 22:34:33</dateDepot>
+		<uuid>2a3c460a-db41-4538-9d04-13786218078e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis intervenant pour un cours de Master 2 &#224; l'Universit&#233; Lyon 2 pour un module qui dure 6 heures</commentaire>
+					<description>Intervenant en Master 2</description>
+					<employeur>Universit&#233; Lyon 2</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>303</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>02/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis intervenant en Master 2 &#224; l'Universit&#233; Lyon 2 pour un module qui dure 6 heures. A ce jour je n'ai pas encore per&#231;u de r&#233;mun&#233;ration mais elle doit intervenir dans les semaines &#224; venir et sera du m&#234;me ordre que l'an dernier.</commentaire>
+					<description>Intervenant en Master 2</description>
+					<employeur>Universit&#233; Lyon 2</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>303</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>02/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Auto-entrepreneur</employeurConjoint>
+					<activiteProf>Conseil en communication et aux entreprises</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>N&#233;ant</nomStructure>
+					<descriptionActivite>N&#233;ant</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai fait l'addition chaque ann&#233;e du net &#224; payer avant imp&#244;t sur le revenu</commentaire>
+					<descriptionMandat>1ER ADJOINT AU MAIRE DE SAINT-VALLIER</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6300</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7914</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7812</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7754</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7661</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7706</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3052</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai fait l'addition chaque ann&#233;e du net &#224; payer avant imp&#244;t sur le revenu. Ce mandat est encore en cours. Pour l'ann&#233;e 2020 j'ai fait le cumul jusqu'&#224; l'indemnit&#233; du mois d'ao&#251;t 2020.</commentaire>
+					<descriptionMandat>CONSEILLER DEPARTEMENTAL DE LA DR&#212;ME</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14090</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>18626</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18668</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18445</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18531</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai fait l'addition chaque ann&#233;e du net &#224; payer avant imp&#244;t sur le revenu. Ce mandat de Pr&#233;sident de la Communaut&#233; de communes est celui pour lequel je dois faire cette d&#233;claration. J'ai &#233;t&#233; r&#233;&#233;lu le 9 juillet dernier &#224; la pr&#233;sidence de la communaut&#233; de communes. Ainsi pour l'ann&#233;e 2020 j'ai fait le calcul du 1er janvier &#224; aujourd'hui. L'indemnit&#233; reste la m&#234;me. C'est la raison pour laquelle je mentionne &#233;galement que ce mandat est en cours.</commentaire>
+					<descriptionMandat>Pr&#233;sident de la Communaut&#233; de communes Porte de Dr&#244;mArd&#232;che</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>16287</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25452</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25397</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>25487</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>25182</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25270</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14762</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le 23 mai 2020, j'ai &#233;t&#233; &#233;lu Maire de Saint-Vallier (26240). J'ai re&#231;u 2 indemnit&#233;s depuis le d&#233;but de ce mandat que j'ai mentionn&#233; dans la r&#233;mun&#233;ration de l'ann&#233;e 2020.</commentaire>
+					<descriptionMandat>Maire de Saint-Vallier</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3890</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de ce mandat en mars 2016.</commentaire>
+					<descriptionMandat>VICE PRESIDENT DU SDIS 26</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2093</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>784</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2015</dateDebut>
+					<dateFin>03/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis juin 2015, je suis dirigeant du Parti Socialiste. Depuis cette date j'ai exerc&#233; plusieurs fonctions. J'ai d'abord &#233;t&#233; Secr&#233;taire national adjoint en charge des f&#233;d&#233;rations, puis Secr&#233;taire national aux f&#233;d&#233;rations, puis Secr&#233;taire national &#224; la structuration et depuis octobre 2018, je suis Secr&#233;taire national aux relations ext&#233;rieurs et porte parole. Il s'agit d'une fonction 100% b&#233;n&#233;vole.</commentaire>
+					<nomSociete>Parti Socialiste</nomSociete>
+					<activite>Secr&#233;taire national et porte parole</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>150</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>1</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Porte de Dr&#244;mArd&#232;che</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Pr&#233;sident</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Porte de Dr&#244;mArd&#232;che/Pr&#233;sident</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>JOUVET</nom>
+				<prenom>PIERRE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>06/10/1986</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

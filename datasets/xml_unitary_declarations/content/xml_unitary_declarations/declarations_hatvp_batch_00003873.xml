@@ -1,0 +1,960 @@
+<declarations><declaration>
+		<dateDepot>29/11/2022 11:04:56</dateDepot>
+		<uuid>a2877b74-05a6-445d-9774-f701e2dd922a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 76)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>220</superficieBati>
+					<superficieNonBati>0.25</superficieNonBati>
+					<dateAcquisition>2013</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>70.0</quotePart>
+					<prixAcquisition>1100000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>700000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Usufruit</droitReel>
+					<capitalDetenu>98.33</capitalDetenu>
+					<autreActif>
+        [Donn&#233;es non publi&#233;es]
+     </autreActif>
+					<passif>APPART 259000 APPART 80000 FCPI28553 MAISON 326000 COMPTE COURANT 286000 APPRT 160000</passif>
+					<valeur>147</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<conservee>false</conservee>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>25</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2008</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>252000</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>240000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<conservee>false</conservee>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 92)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>25</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2011</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>219000</prixAcquisition>
+							<prixTravaux>0</prixTravaux>
+							<valeurVenale>200000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<conservee>false</conservee>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 76)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>220</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2015</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>322600</prixAcquisition>
+							<prixTravaux>10000</prixTravaux>
+							<valeurVenale>310000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>pr&#234;t pour la sci &#224; hauteur de 180000 COMPRENANT ACQUISITION ET FRAIS</commentaire>
+							<nature>appart</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 59)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>60</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2019</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>180000</prixAcquisition>
+							<prixTravaux/>
+							<valeurVenale>150000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI COMPRENANT LES LMURS DUNE PHARMACIE ET STUDIOS</commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>33.0</capitalDetenu>
+					<autreActif>IMMEUBLE A 
+        [Donn&#233;es non publi&#233;es]
+     </autreActif>
+					<passif>33 PR CENT DE 239000</passif>
+					<valeur>20862</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>local commercial et 2 studios</commentaire>
+							<conservee>false</conservee>
+							<nature>Local commercial</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 76)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>300</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2008</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>250000</prixAcquisition>
+							<prixTravaux/>
+							<valeurVenale>60000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Usufruit</droitReel>
+					<capitalDetenu>99.94</capitalDetenu>
+					<autreActif>
+        [Donn&#233;es non publi&#233;es]
+     </autreActif>
+					<passif>800000 emprunt pour la maison dans 
+        [Donn&#233;es non publi&#233;es]
+     achete le 31 juillet 2021 compte courant 17000 les autres bien sont totalement rembourses </passif>
+					<valeur>73753</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>lors de l achat il y avait un local atenant vendu depuis</commentaire>
+							<nature>Local commercial</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 76)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>100</superficieBati>
+							<superficieNonBati>0.01</superficieNonBati>
+							<dateAcquisition>2002</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Usufruit</droitReel>
+							<quotePart>99.94</quotePart>
+							<prixAcquisition>190000</prixAcquisition>
+							<prixTravaux/>
+							<valeurVenale>120000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 76)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>60</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2006</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Usufruit</droitReel>
+							<quotePart>99.94</quotePart>
+							<prixAcquisition>145000</prixAcquisition>
+							<prixTravaux/>
+							<valeurVenale>140000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 84)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>240</superficieBati>
+							<superficieNonBati>0.5</superficieNonBati>
+							<dateAcquisition>2021</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Usufruit</droitReel>
+							<quotePart>99.94</quotePart>
+							<prixAcquisition>880000</prixAcquisition>
+							<prixTravaux/>
+							<valeurVenale>800000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>creation spfpl suite vente part de la pharmacie jenner et pharmacie st joseph actif 2568000 passif 2160000 compte courant 200000 compte courant selarl 112000</commentaire>
+					<denomination>spfpl firmin</denomination>
+					<valeurActuelle>939467</valeurActuelle>
+					<participation>100.0</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>SELARL PHARMACIE JENNER</denomination>
+					<valeurActuelle>338</valeurActuelle>
+					<participation>0.02</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>DONT SCPI RENOVALYS</commentaire>
+					<conservee>false</conservee>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>104000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA PME</naturePlacement>
+					<valeur>2134</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<etablissement>CREDIT MUTUEL</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>FIP</naturePlacement>
+					<valeur>150000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions airbus, axa, credit agricole, Fnac, orange l oral,pernod Ricard, safran,sanofi,scneider,thales,vinci</commentaire>
+					<titulaire>Agnes Firmin</titulaire>
+					<etablissement>caisse &#233;pargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>160000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>fcpi</commentaire>
+					<titulaire>agnes firmin</titulaire>
+					<etablissement>extendam</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>270000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<etablissement>vatel capital</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>fip apicap</naturePlacement>
+					<valeur>77000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>il s agit du compte especes affecte au pea</commentaire>
+					<titulaire>agnes firmin</titulaire>
+					<etablissement>caisse epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>PEA</naturePlacement>
+					<valeur>2879</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>codevi inutillise depuis de nombreesues annees et jamais ferme par la banquje demande faite et en cours</commentaire>
+					<titulaire>agnes firmin</titulaire>
+					<etablissement>societe generale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>AGNES FIRMIN</souscripteur>
+					<etablissement>AVIVA VIE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>01/04/2005</dateSouscription>
+					<valeurRachat>713974</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<souscripteur>AGNES FIRMIN</souscripteur>
+					<etablissement>CONTRAT CARDIFF</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>02/03/2013</dateSouscription>
+					<valeurRachat>378000</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NANTIE POUR LES 2 PRETS IN FINE</commentaire>
+					<conservee>false</conservee>
+					<souscripteur>AGNES FIRMIN</souscripteur>
+					<etablissement>BNP</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>04/04/2005</dateSouscription>
+					<valeurRachat>161000</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ASSURANCE VIE NANTIE SUR PRET SPFPL</commentaire>
+					<souscripteur>Agnes Firmin</souscripteur>
+					<etablissement>caisse &#233;pargne</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>25/01/2020</dateSouscription>
+					<valeurRachat>208834</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>Agnes Firmin</souscripteur>
+					<etablissement>CARDIFF</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>29/05/2020</dateSouscription>
+					<valeurRachat>398815</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>agnes firmin</souscripteur>
+					<etablissement>aviva</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>13/01/2020</dateSouscription>
+					<valeurRachat>781816</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>agnes firmin</souscripteur>
+					<etablissement>afer</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>20/01/2020</dateSouscription>
+					<valeurRachat>173273</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>AGNES FIRMIN</souscripteur>
+					<etablissement>aviva</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>30/12/2019</dateSouscription>
+					<valeurRachat>24717</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>AGNES FIRMIN</souscripteur>
+					<etablissement>aviva</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>24/12/2012</dateSouscription>
+					<valeurRachat>30170</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>agnes firmin</souscripteur>
+					<etablissement>bnp</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>12/11/2008</dateSouscription>
+					<valeurRachat>30646</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>Agnes FIRMIN</souscripteur>
+					<etablissement>ALLIANZ VIE</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>01/12/2008</dateSouscription>
+					<valeurRachat>11165</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<valeur>3210</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CIN</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>AGNES FIRMIN</titulaire>
+					<valeur>3000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>cic</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>agnes 
+        [Donn&#233;es non publi&#233;es]
+     firmin </titulaire>
+					<valeur>16588</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>caisse &#233;pargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+     firmin </titulaire>
+					<valeur>100</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>courant perso</typeCompte>
+					<etablissement>caisse epargne</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>agnes firmin</titulaire>
+					<valeur>1500</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>cpte joinbt</typeCompte>
+					<etablissement>soci&#233;t&#233; g&#233;n&#233;rale</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>a et 
+        [Donn&#233;es non publi&#233;es]
+     firmin </titulaire>
+					<valeur>3468</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Agnes FIRMIN</titulaire>
+					<valeur>0</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Agnes FIRMIN</titulaire>
+					<valeur>13</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>TABLEAU 
+        [Donn&#233;es non publi&#233;es]
+     </description>
+					<valeur>11000</valeur>
+					<typeEstimation>Valeur d&#8217;acquisition</typeEstimation>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>TABLEAU 
+        [Donn&#233;es non publi&#233;es]
+     </description>
+					<valeur>13000</valeur>
+					<typeEstimation>Valeur d&#8217;acquisition</typeEstimation>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items/>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>PHARMACIE JENNER</description>
+					<denomination>PHARMACIE</denomination>
+					<valeur>75000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>SCI 
+        [Donn&#233;es non publi&#233;es]
+     </description>
+					<denomination/>
+					<valeur>17000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>SCI 
+        [Donn&#233;es non publi&#233;es]
+     </description>
+					<denomination/>
+					<valeur>280000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>holding spfpl firmin</description>
+					<denomination/>
+					<valeur>200000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>societe generale</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>achat maison</nature>
+					<datePassif>31/03/2013</datePassif>
+					<objetDette>credit</objetDette>
+					<montant>450000</montant>
+					<duree>180</duree>
+					<restantDu>152230</restantDu>
+					<mensualite>2000</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>prosante</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; de l'organisation territoriale et des professions de sant&#233;</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s du ministre de la sant&#233; et de la pr&#233;vention, charg&#233;e de l'organisation territoriale et des professions de sant&#233;</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233;e aupr&#232;s du ministre de la sant&#233; et de la pr&#233;vention, charg&#233;e de l'organisation territoriale et des professions de sant&#233;</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>S&#233;paration de biens</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Firmin Le Bodo</nom>
+				<prenom>Agn&#232;s</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/11/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

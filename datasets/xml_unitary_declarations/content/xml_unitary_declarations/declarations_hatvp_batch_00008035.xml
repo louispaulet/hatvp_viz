@@ -1,0 +1,399 @@
+<declarations><declaration>
+		<dateDepot>31/08/2021 20:04:47</dateDepot>
+		<uuid>350a762b-d8a3-45ef-a11a-f8c8f66340c7</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Exercice 2021 non clos</commentaire>
+					<description>EXPLOITANT AGRICOLE</description>
+					<employeur>SCEA
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15&#8239;879</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22&#8239;943</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>29&#8239;231</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20&#8239;433</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;521</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16&#8239;985</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>01/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SCRIB'</employeurConjoint>
+					<activiteProf>COMMUNICATION FORMATION</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>DE 2017 &#192; NOV. 2020</commentaire>
+					<nomStructure>ASSOCIATION DES MAIRES DE LA VIENNE (AMF 86)</nomStructure>
+					<descriptionActivite>PR&#201;SIDENT</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>DEPUIS AVRIL 2015</commentaire>
+					<nomStructure>SOLIHA VIENNE</nomStructure>
+					<descriptionActivite>PR&#201;SIDENT</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>DEPUIS AVRIL 2015</commentaire>
+					<nomStructure>FONDS SOLIDARIT&#201; LOGEMENT</nomStructure>
+					<descriptionActivite>PR&#201;SIDENT</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>AGENCE DES TERRITOIRES 86</nomStructure>
+					<descriptionActivite>Accompagnement des communes et leurs groupements pour tous leurs besoins num&#233;riques, juridiques ou li&#233;s au cadre de vie. Pr&#233;sident</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>CAUE 86 - Pr&#233;sident</nomStructure>
+					<descriptionActivite>Aide aux collectivit&#233;s et aux particuliers sur les questions d'urbanisme, d'architecture et d'environnement</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sident</commentaire>
+					<descriptionMandat>CONSEIL D&#201;PARTEMENTAL DE LA VIENNE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;864</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;639</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>COMMUNAUT&#201; D'AGGLO GRAND CHATELLERAULT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;768</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8&#8239;520</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#233;mun&#233;ration ci-dessus en brut</commentaire>
+					<nomSociete>CONSEIL D&#201;PARTEMENTAL DE LA VIENNE</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;639</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montants indiqu&#233;s en brut (net non pr&#233;cis&#233; sur les cumuls)</commentaire>
+					<nomSociete>MAIRIE D'ANTRAN</nomSociete>
+					<activite>MAIRE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15&#8239;966</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>16&#8239;014</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;248</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16&#8239;356</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16&#8239;335</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14&#8239;009</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CC PORTES DU POITOU (pr&#233;sident) RATTACH&#201;E &#192; GRAND CHATELLERAULT (vice-pr&#233;sident) EN 2017</commentaire>
+					<nomSociete>COMMUNAUT&#201; DE COMMUNES DES PORTES DU POITOU / GRAND CHATELLERAULT</nomSociete>
+					<activite>PR&#201;SIDENT / VICE-PR&#201;SIDENT</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20&#8239;385</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22&#8239;305</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;471</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>18&#8239;065</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19&#8239;154</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;846</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8&#8239;520</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SYNDICAT MIXTE DE L'A&#201;ROPORT DE POITIERS-BIARD</nomSociete>
+					<activite>Gestion de l'a&#233;roport - Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>86</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Vienne (86)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Vienne (86)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PICHON</nom>
+				<prenom>ALAIN</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>21/09/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

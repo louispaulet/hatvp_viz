@@ -1,0 +1,390 @@
+<declarations><declaration>
+		<dateDepot>28/08/2020 20:34:46</dateDepot>
+		<uuid>82d0dfad-fc90-4a7d-9d5b-41b3a48c5380</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<description>Directeur d'agence</description>
+					<employeur>Cr&#233;dit Mutuel</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>52602</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>deviseuse dans une imprimerie</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Deviseuse en imprimerie</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Maire de Marly depuis mars 2008, r&#233;&#233;lu en juin 2020</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14374</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Vice Pr&#233;sident de Metz M&#233;tropole depuis avril 2008 et r&#233;&#233;lu en juillet 2020</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice Pr&#233;sident de Metz M&#233;tropole pole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14007</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les sommes d&#233;clar&#233;es tiennent compte de l'imp&#244;t pr&#233;lev&#233; &#224; la source pour l'ensemble de mes fonctions &#233;lectives</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller R&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21695</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre repr&#233;sentant le Conseil R&#233;gional GRAND EST au conseil d'administration du centre Pompidou de Metz (fonction non r&#233;mun&#233;r&#233;e)</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Centre Pompidou Metz</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je suis pr&#233;sident de la SEM SEBL-Grand Est en tant que conseiller r&#233;gional depuis avril 2015. Toujours en fonction. Pr&#233;sidence non r&#233;mun&#233;r&#233;e</commentaire>
+					<nomSociete>SEBL Grand Est</nomSociete>
+					<activite>Pr&#233;sident d'une Soci&#233;t&#233; d'Economie Mixte (SEM)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre du CA depuis quelques semaines. Il y a des jetons de pr&#233;sence MAIS pas encore de r&#233;union mise en place &#224; ce jour... (environ 200&#8364; brut la s&#233;ance pour 4 s&#233;ances maxi dans l'ann&#233;e)</commentaire>
+					<nomSociete>TAMM</nomSociete>
+					<activite>Conseil d'Administration des Transports de l&#8217;Agglom&#233;ration de Metz M&#233;tropole</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues depuis plus de 10 ans dans le cadre d'un PEA</commentaire>
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>2512</evaluation>
+					<remuneration>d&#233;tention actions en direct</remuneration>
+					<capitalDetenu/>
+					<nombreParts>18</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues depuis plus de 10 ans dans le cadre d'un PEA</commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>7375</evaluation>
+					<remuneration>d&#233;tention actions</remuneration>
+					<capitalDetenu/>
+					<nombreParts>839</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues depuis plus de 10 ans dans le cadre d'un PEA</commentaire>
+					<nomSociete>ORANGE</nomSociete>
+					<evaluation>3924</evaluation>
+					<remuneration>d&#233;tention actions</remuneration>
+					<capitalDetenu/>
+					<nombreParts>410</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues depuis plus de 10 ans dans le cadre d'un PEA</commentaire>
+					<nomSociete>VALEO</nomSociete>
+					<evaluation>3856</evaluation>
+					<remuneration>d&#233;tention d'actions</remuneration>
+					<capitalDetenu/>
+					<nombreParts>150</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues depuis plus de 10 ans dans le cadre d'un PEA</commentaire>
+					<nomSociete>Vivendi</nomSociete>
+					<evaluation>2158</evaluation>
+					<remuneration>d&#233;tention d'actions</remuneration>
+					<capitalDetenu/>
+					<nombreParts>90</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>actions d&#233;tenues en direct dans 1 PEA depuis plus de 10 ans</commentaire>
+					<nomSociete>veolia environnement</nomSociete>
+					<evaluation>3152</evaluation>
+					<remuneration>d&#233;tention d'actions</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>165</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Metz M&#233;tropole</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Vice-pr&#233;sident</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Metz M&#233;tropole/Vice-pr&#233;sident</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HORY</nom>
+				<prenom>Thierry</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/07/1963</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

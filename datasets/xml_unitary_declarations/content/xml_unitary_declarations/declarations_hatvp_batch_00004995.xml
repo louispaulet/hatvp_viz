@@ -1,0 +1,292 @@
+<declarations><declaration>
+		<dateDepot>17/07/2022 21:11:14</dateDepot>
+		<uuid>336d7ad3-1dd0-4743-9812-6aede1d9b61b</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ces sommes correspondent &#224; mon traitement d'universitaire. Pour l'ann&#233;e 2022, je n'ai pris en compte que la p&#233;riode allant de janvier &#224; juin.</commentaire>
+					<conservee>true</conservee>
+					<description>Professeur des Universit&#233;s</description>
+					<employeur>Universit&#233; Panth&#233;on-Assas Paris 2</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>65&#8239;524</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>64&#8239;450</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>64&#8239;779</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>65&#8239;303</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>32&#8239;650</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>CFA-FORMASUP</employeurConjoint>
+					<activiteProf>Cadre administratif</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Date d'entr&#233;e en fonction: 19 novembre 2017</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Force R&#233;publicaine (parti politique)</nomStructure>
+					<descriptionActivite>Secr&#233;taire g&#233;n&#233;ral</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Alternative Patrimoniale est une soci&#233;t&#233; de gestion de patrimoine. Ma pr&#233;sence au conseil de surveillance est b&#233;n&#233;vole.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Soci&#233;t&#233; Alternative Patrimoine 19C Rue du Foss&#233; des Treize 67000 Strasbourg</nomSociete>
+					<activite>Membre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette SCI est une SCI familiale immobili&#232;re Elle rel&#232;ve des revenus fonciers mais ne donne lieu ni &#224; r&#233;mun&#233;ration ni &#224; gratification.</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>53288</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>13</capitalDetenu>
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cette SCI est une SCI familiale immobili&#232;re Elle rel&#232;ve des revenus fonciers mais ne donne lieu ni &#224; r&#233;mun&#233;ration ni &#224; gratification</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>20000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>7</capitalDetenu>
+					<nombreParts>200</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>RIEFFEL Catherine</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233;e parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LOZITO Nathalie</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233;e parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis 2012, Madame Le Chenadec travaille &#224; mi-temps pour moi. L'autre moiti&#233; du mi-temps &#233;tait effectu&#233; aupr&#232;s de Monsieur le D&#233;put&#233; Dominique Tian jusqu'en juin 2012 et &#224; l'avenir le sera avec Monsieur le d&#233;put&#233; Xavier Breton</commentaire>
+					<nom>LE CHENADEC Fran&#231;oise</nom>
+					<employeur>2012 &#224; 2017: Monsieur le d&#233;put&#233; Dominique TIAN A partir de 2017: Monsieur le d&#233;put&#233; Xavier BRETON</employeur>
+					<descriptionActivite>Attach&#233;e parlementaire au Palais Bourbon</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GRUNER Sylvie</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>67</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Bas-Rhin(67)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Bas-Rhin(67)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HETZEL</nom>
+				<prenom>Patrick</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>02/07/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,370 @@
+<declarations><declaration>
+		<dateDepot>02/08/2022 09:51:03</dateDepot>
+		<uuid>a10439f8-f85e-47f4-a310-b9673ac8e409</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>en cong&#233; sans solde jusqu'en janvier 2016</commentaire>
+					<conservee>false</conservee>
+					<description>formatrice en insertion professionnelle</description>
+					<employeur>isvt</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>22999</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>12/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>vente et comptabilite</description>
+					<employeur>l&#233;gumes et saveurs</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8251</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>10062</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>8228</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2268</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5&#8239;313</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5&#8239;240</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;220</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;631</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>LEGUMES ET SAVEURS</employeurConjoint>
+					<activiteProf>MARAICHAGE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction b&#233;n&#233;vole non remun&#233;re&#233;e</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>F&#233;d&#233;ration de la maroquinerie fran&#231;aise</nomStructure>
+					<descriptionActivite>Co pr&#233;sident de l'amicale de la maroquinerie fran&#231;aise</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>J'ai arr&#233;t&#233; mes fonctions de conseill&#232;re r&#233;gionale fin juin 2021</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>CONSEILLERE REGIONALE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>22999</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>22999</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>22999</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22999</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24420</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16778</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26&#8239;498</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18&#8239;691</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;067</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;711</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire/>
+					<nomSociete>earl l&#233;gumes et saveurs</nomSociete>
+					<evaluation>933</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>49</capitalDetenu>
+					<nombreParts>49</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire/>
+					<nom>vocanson Myriam</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>accueil telephonique gestion de la boite mail tenue de l'agenda prise des RV Gestion des dossiers et des courriers </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouveau collaborateur</label>
+					</motif>
+					<commentaire/>
+					<nom>Patricia GOUDARD</nom>
+					<employeur>Maire de Retournac</employeur>
+					<descriptionActivite>secretariat accueil du public</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>B&#233;r&#233;nice KHATTAR</nom>
+					<employeur>
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>Attach&#233;e parlementaire Travail l&#233;gislatif, preparation d'interventions, gestiondu temps &#224; Paris amener &#224; venir en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>debut de contrat le 1/09/2021</commentaire>
+					<nom>mathilde BOURGIN</nom>
+					<employeur>cONSEILLERE MUNICIPALE AU PUY EN VELAY</employeur>
+					<descriptionActivite>Attach&#233;e parlementaire Gestion des relations avec les &#233;lus Preparation des interventions Suivi des dossiers</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>neant</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>43</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haute-Loire(43)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Haute-Loire(43)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>VALENTIN</nom>
+				<prenom>isabelle</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/01/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

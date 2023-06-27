@@ -1,0 +1,368 @@
+<declarations><declaration>
+		<dateDepot>11/08/2019 16:39:35</dateDepot>
+		<uuid>cb07172c-c7fd-4459-b09e-182d78e032ac</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de l'activit&#233; au 1er juin 2019</commentaire>
+					<nomEmployeur>Management des liens</nomEmployeur>
+					<description>Activit&#233;s de consultant RH</description>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>06/2019</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>800</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>228</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>260</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>ITG Conseils</nomEmployeur>
+					<description>Activit&#233;s tr&#232;s &#233;pisodiques de consultant RH</description>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2018</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>968</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Passage &#224; 1/5 &#232;mes de temps &#224; partir du 1er septembre ce qui impliquera un salaire net de 800 euros par mois environ</commentaire>
+					<description>Professeure associ&#233;e</description>
+					<employeur>Kedge Business School</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>37900</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>40632</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>39375</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37532</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>38574</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>39917</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2013</dateDebut>
+					<dateFin>08/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Minist&#232;re de la Justice</employeurConjoint>
+					<activiteProf>Magistrat</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Mission locale de Marseille</nomStructure>
+					<descriptionActivite>Membre du CA depuis 2014 en tant que personnalit&#233; qualifi&#233;e</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Fran&#231;aise de l'OIT</nomStructure>
+					<descriptionActivite>Membre du CA de l'Association en tant qu'ex membre du CESE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Fondation INRC ( Institut National de la Relation Client)</nomStructure>
+					<descriptionActivite>Membre du CA d ela Fondation depuis Avril 2018</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de la structure au 1er juin 2019</commentaire>
+					<nomStructure>Association Human</nomStructure>
+					<descriptionActivite>Membre du CA Promotion d'un label RH /RSE europ&#233;en</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>MODEM ( Mouvement D&#233;mocrate)</nomStructure>
+					<descriptionActivite>Membre du Conseil national Vice-Pr&#233;sidente du bureau d&#233;partemental 13</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ne figurent pas dans ces montants les indemnit&#233;s repr&#233;sentatives de frais ( environ 1400 euros par mois)</commentaire>
+					<descriptionMandat>Conseil Economique Social et Environnemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>13200</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>13083</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>13120</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13933</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>12786</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>13230</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2013</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>121 actions d&#233;tenues sur un PEA LCL</commentaire>
+					<nomSociete>ONET</nomSociete>
+					<evaluation>18769</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>121</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>30 actions me restant suite &#224; mon poste de DRH de Gemplus de 1992 &#224; 2002</commentaire>
+					<nomSociete>GEMALTO</nomSociete>
+					<evaluation>1489</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation &#224; un plan Investimage /cin&#233;ma qui prend fin fin 2019</commentaire>
+					<nomSociete>PALATINE ETOILE</nomSociete>
+					<evaluation>8288</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; europ&#233;en</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>EUR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; europ&#233;en</nomCategorieMandat>
+				<codTypeMandatFichier>europe</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane/>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233; europ&#233;en</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/05/2019</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>BRUNET</nom>
+				<prenom>Sylvie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/03/1959</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

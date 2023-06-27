@@ -1,0 +1,444 @@
+<declarations><declaration>
+		<dateDepot>26/11/2021 15:14:52</dateDepot>
+		<uuid>23fcf2a4-e820-4513-b011-0a8dcbabfa1a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2014 &#224; 2016 : R&#233;mun&#233;ration par la St&#233; Info Elec Ltd ; 2017 &#224; 2020 : R&#233;mun&#233;ration par la St&#233; Cinebook Ltd ; Le montant 2021 est estim&#233; au 30/11/21.</commentaire>
+					<conservee>true</conservee>
+					<description>Chef d'entreprise - Direction G&#233;n&#233;rale</description>
+					<employeur>CINEBOOK Ltd</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12282</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8526</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5377</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4601</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4381</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4381</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;381</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;015</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>CINEBOOK Ltd</employeurConjoint>
+					<activiteProf>Editeur de bande dessin&#233;e</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>S&#233;nateur repr&#233;sentant les Fran&#231;ais &#233;tablis hors de France</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>S&#233;nateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>68&#8239;061</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>68&#8239;112</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68&#8239;766</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>69&#8239;493</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>69&#8239;783</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>69&#8239;783</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>63&#8239;968</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole. Pr&#233;sident de la section britanique de l'UFE, association reconnue d'utilit&#233; publique de 11/2005 &#224; 11/2014 ; A partir de 12/2014, simple membre du conseil d'administration sans pouvoir d&#233;cisionnaire et totalement b&#233;n&#233;vole pour une section qui compte une cinquantaine de membres.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>UNION DES FRANCAIS DE L'ETRANGER (UFE GB)</nomSociete>
+					<activite>Membre du Conseil d'administration de la section britannique d'une association reconnue d'utilit&#233; publique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; de la soci&#233;t&#233; arr&#234;t&#233;e au 31/12/16. Conseil en Management pour la soci&#233;t&#233; Cinebook Ltd d&#233;tenue &#224; 100% par Olivier Cadic</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>INFO ELEC Ltd</nomSociete>
+					<activite>Chef d'entreprise - Direction G&#233;n&#233;rale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>8167</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>39125</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12282</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8526</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5377</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; poursuivie pendant le mandat. Direction G&#233;n&#233;rale de l'entreprise. Montant 2021 : Estimation au 28/02/2021</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>CINEBOOK Ltd</nomSociete>
+					<activite>Chef d'entreprise - Direction G&#233;n&#233;rale</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>8632</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>9560</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4601</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4381</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4381</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;381</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;015</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole. Association loi de 1901 cr&#233;&#233;e le 8/10/2021. Comit&#233; d'organisation de la comp&#233;tition Worldskills qui aura lieu en 2024 &#224; Lyon</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>WORLDSKILLS LYON 2024</nomSociete>
+					<activite>Membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin>11/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; bas&#233;e au Royaume-Uni Taux de change 26/11/2021 utilis&#233; pour calculer &#233;valuation 1GBP=1,18EUR Valeur estim&#233;e 2,600,000GBP Les 2 soci&#233;t&#233;s Info Elec Ltd et Cinebook Ltd ont &#233;t&#233; fusionn&#233;es &#224; compter du 31/12/2016 par souci de simplification. Les patrimoines des 2 soci&#233;t&#233;s ont &#233;t&#233; confondus, faisant dispara&#238;tre la soci&#233;t&#233; Info Elec Ltd. La valeur de l'ensemble n'a pas &#233;t&#233; affect&#233;e. L'actionnaire minoritaire est le m&#234;me. La r&#233;mun&#233;ration est calcul&#233;e par l'expert-comptable lors de la d&#233;claration de l'avantage en nature d'un compte courant d&#233;biteur dont le montant n'a pas chang&#233; depuis l'origine.</commentaire>
+					<nomSociete>CINEBOOK Ltd</nomSociete>
+					<evaluation>3070000</evaluation>
+					<remuneration>Voir activit&#233;s professionnelles</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>994</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis le 1/10/2014</commentaire>
+					<nom>Gheysens Fran&#231;ois</nom>
+					<employeur/>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis le 1/10/2020</commentaire>
+					<nom>Bouyer Maxime</nom>
+					<employeur/>
+					<descriptionActivite>Assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis le 8/11/2021</commentaire>
+					<nom>Richard Olivia</nom>
+					<employeur/>
+					<descriptionActivite>Assistante parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>997</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>repr&#233;sentant les Fran&#231;ais &#233;tablis hors de France (S&#233;nat s&#233;rie 2)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/repr&#233;sentant les Fran&#231;ais &#233;tablis hors de France (S&#233;nat s&#233;rie 2)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CADIC</nom>
+				<prenom>Olivier</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/04/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

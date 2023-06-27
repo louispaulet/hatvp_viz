@@ -1,0 +1,322 @@
+<declarations><declaration>
+		<dateDepot>25/10/2022 16:09:49</dateDepot>
+		<uuid>92c13b9e-54f4-43d3-a45b-fb294bed44ed</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Correction sur la valeur v&#233;nale du bien pour la quote-part d&#233;tenue avec le coefficient 0,7 appliqu&#233;. Initialement, la valeur v&#233;nale de l'int&#233;gralit&#233; du bien &#233;tait prise en compte dans la DSP.</commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 83)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>366</superficieBati>
+					<superficieNonBati>1.3</superficieNonBati>
+					<dateAcquisition>2017</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Nue-propri&#233;t&#233;</droitReel>
+					<quotePart>25.0</quotePart>
+					<prixAcquisition>105000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>105000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pr&#234;t en cours</commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>36.0</capitalDetenu>
+					<autreActif/>
+					<passif/>
+					<valeur>230000</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>Estimation actualis&#233;e : 640.000</commentaire>
+							<conservee>false</conservee>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 38)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>150</superficieBati>
+							<superficieNonBati>0.16</superficieNonBati>
+							<dateAcquisition>2000</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>490000</prixAcquisition>
+							<prixTravaux>10000</prixTravaux>
+							<valeurVenale>640000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Olivier et
+        [Donn&#233;es non publi&#233;es]
+    V&#233;ran</titulaire>
+					<valeur>100</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Olivier V&#233;ran</titulaire>
+					<valeur>63</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Olivier V&#233;ran</titulaire>
+					<valeur>39</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>bnp paribas</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Olivier V&#233;ran</titulaire>
+					<valeur>4500</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>renault</marque>
+					<anneeAchat>2020</anneeAchat>
+					<valeurAchat>17000</valeurAchat>
+					<valeur>13000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>citroen</marque>
+					<anneeAchat>2017</anneeAchat>
+					<valeurAchat>24000</valeurAchat>
+					<valeur>14000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomCreancier>BNP</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t personnel</nature>
+					<datePassif>01/01/2011</datePassif>
+					<objetDette>achat parts SCI
+        [Donn&#233;es non publi&#233;es]
+    </objetDette>
+					<montant>215000</montant>
+					<duree>250</duree>
+					<restantDu>120000</restantDu>
+					<mensualite>1125</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>renouvdemo</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re charg&#233; du renouveau d&#233;mocratique, porte-parolat du Gouvernement</labelOrgane>
+				<labelDeclaration>Ministre d&#233;l&#233;gu&#233; aupr&#232;s de la Premi&#232;re ministre, charg&#233; du renouveau d&#233;mocratique, porte-parole du Gouvernement</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre d&#233;l&#233;gu&#233; aupr&#232;s de la Premi&#232;re ministre, charg&#233; du renouveau d&#233;mocratique, porte-parole du Gouvernement</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>S&#233;paration de biens</regimeMatrimonial>
+			<regimeMatrimonialComments>
+        [Donn&#233;es non publi&#233;es]
+    </regimeMatrimonialComments>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>veran</nom>
+				<prenom>olivier</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/04/1980</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

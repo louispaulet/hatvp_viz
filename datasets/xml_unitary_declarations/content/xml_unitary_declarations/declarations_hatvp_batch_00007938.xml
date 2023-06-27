@@ -1,0 +1,458 @@
+<declarations><declaration>
+		<dateDepot>24/03/2023 15:18:22</dateDepot>
+		<uuid>a6a4424b-c736-4fe5-9937-b9654d040c22</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>sans objet</employeurConjoint>
+					<activiteProf>prestations de traduction</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d. En attente de la r&#233;ponse du comit&#233; d&#8217;&#233;thique du CNCCEF.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Comit&#233; National des Conseillers du Commerce Ext&#233;rieur de la France, et section de Pologne des CCEF.</nomStructure>
+					<descriptionActivite>membre du bureau de la commission Europe.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Chambre Nationale des Praticiens de la M&#233;diation.</nomStructure>
+					<descriptionActivite>Membre.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37&#8239;947</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>71&#8239;042</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;105</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70&#8239;676</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>35&#8239;338</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon associ&#233; a repris les fonctions ex&#233;cutives en octobre 2022</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Enseignants sans fronti&#232;res</nomSociete>
+					<activite>formation</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin>10/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je repr&#233;sente l'Assembl&#233;e Nationale au sein de ce Conseil d'Administration</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Agence Fran&#231;aise de D&#233;veloppement</nomSociete>
+					<activite>financement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Nomination par le parlement</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Agence pour l'Enseignement Fran&#231;ais &#224; l'Etranger</nomSociete>
+					<activite>Diplomatie cultutrelle</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+     gestion compl&#232;tement d&#233;l&#233;gu&#233;e depuis l'origine.</commentaire>
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>4904</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, cf pr&#233;c&#233;dent.</commentaire>
+					<nomSociete>LOREAL</nomSociete>
+					<evaluation>3982</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, cf pr&#233;c&#233;dents</commentaire>
+					<nomSociete>Sartorius System Biotech</nomSociete>
+					<evaluation>3939</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>13</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, voir pr&#233;c&#233;dents</commentaire>
+					<nomSociete>Orange</nomSociete>
+					<evaluation>3175</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>300</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information voir pr&#233;c&#233;dents</commentaire>
+					<nomSociete>Saint Gobain</nomSociete>
+					<evaluation>3026</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>61</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, voir pr&#233;c&#233;dents</commentaire>
+					<nomSociete>Schneider Electric</nomSociete>
+					<evaluation>2841</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, voir pr&#233;c&#233;dents</commentaire>
+					<nomSociete>Pernod Ricard</nomSociete>
+					<evaluation>2484</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>12</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour information, voir pr&#233;c&#233;dents</commentaire>
+					<nomSociete>ROBECO Sust Water Equity</nomSociete>
+					<evaluation>2005</evaluation>
+					<remuneration>NS</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>6</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mi-temps - Contrat de droit fran&#231;ais, r&#233;sidente en Allemagne.</commentaire>
+					<nom>STAUDENMAYER Claire</nom>
+					<employeur/>
+					<descriptionActivite>Conduite de s&#233;minaire de communication.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Recrut&#233; en tant que stagiaire, puis pass&#233; a temps partiel. Dur&#233;e d&#233;termin&#233;e.</commentaire>
+					<nom>Arthur Kenigsberg</nom>
+					<employeur>NA</employeur>
+					<descriptionActivite>NA</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Hugo Outin</nom>
+					<employeur>NA</employeur>
+					<descriptionActivite>NA</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Nadia Salem</nom>
+					<employeur/>
+					<descriptionActivite>Organisation des relations avec la Presse et les M&#233;dia, travail de communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Brach Emma</nom>
+					<employeur>NA</employeur>
+					<descriptionActivite>NA</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Cette d&#233;claration modificative fait suite &#224; l'arriv&#233;e d'une nouvelle collaboratrice, ainsi que de changements dans mes participations financi&#232;res, essentiellement la cession de mes actions dans la soci&#233;t&#233; &#224; mission ESF.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>099</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>repr&#233;sentant les Fran&#231;ais &#233;tablis hors de France (Assembl&#233;e nationale)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/repr&#233;sentant les Fran&#231;ais &#233;tablis hors de France (Assembl&#233;e nationale)</qualiteDeclarantForPDF>
+			<dateDebutMandat>21/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PETIT</nom>
+				<prenom>Fr&#233;d&#233;ric</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>10/02/1961</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

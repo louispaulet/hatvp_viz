@@ -1,0 +1,420 @@
+<declarations><declaration>
+		<dateDepot>20/11/2022 19:02:54</dateDepot>
+		<uuid>959ef094-cc3b-49a9-8558-580f1499db35</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 64)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>244</superficieBati>
+					<superficieNonBati>0.18</superficieNonBati>
+					<dateAcquisition>2008</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Nue-propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>310000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>1163000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 28)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>195</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2018</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>33.0</quotePart>
+					<prixAcquisition>399000</prixAcquisition>
+					<prixTravaux>120000</prixTravaux>
+					<valeurVenale>131670</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 75)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>211</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2022</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>74.0</quotePart>
+					<prixAcquisition>3470000</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>2567800</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; sp&#233;cialis&#233;e pour la fabrication et installation de production d'&#233;nergies renouvelables.</commentaire>
+					<conservee>false</conservee>
+					<denomination>SAS Watt &amp; Home</denomination>
+					<valeurActuelle>21883</valeurActuelle>
+					<participation>1.46</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#233;t&#233; sp&#233;cialis&#233;e dans la fabrication de mat&#233;riel &#233;lectrique</commentaire>
+					<conservee>false</conservee>
+					<denomination>Eur'Ohm</denomination>
+					<valeurActuelle>462</valeurActuelle>
+					<participation>0.0024</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Actions soci&#233;t&#233; Elis cot&#233;es &#224; Paris d&#233;tenues en propre : 1 273 actions au cours de 13,72 euros au 18 juillet 2022*;</commentaire>
+					<conservee>false</conservee>
+					<titulaire>Guerini Stanislas</titulaire>
+					<etablissement/>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>D&#233;tention directe</naturePlacement>
+					<valeur>17465</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items/>
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En date du 17 juillet</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>ING DIRECT</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Guerini Stanislas</titulaire>
+					<valeur>250</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>50% du compte joint Valeur = 6 662,95 x 0,50 Au 17 juillet 2022</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>ING DIRECT</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Guerini Stanislas et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>3331</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au 18 juillet 2022</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>ING DIRECT</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Guerini Stanislas</titulaire>
+					<valeur>102</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En date du 18 juillet 2022</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>ING DIRECT</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Guerini Stanislas</titulaire>
+					<valeur>512</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En date du 17 juillet 2022</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>Banque Rothschild</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Guerini Stanislas</titulaire>
+					<valeur>25818</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte joint avec un total de 19 769&#8364; en date du 18 juillet 2022. Soit 50% du total = 9 884,5&#8364;</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Boursorama</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Stanislas et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>9884</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ouvert le 17 juillet 2022</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Boursorama</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Stanislas GUERINI</titulaire>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<neant>true</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aide &#224; l'accession &#224; la propri&#233;t&#233; remboursable apr&#232;s 20 ans. Remboursement partiel de 2 millions d'euros le 18 juillet 2022.</commentaire>
+					<conservee>false</conservee>
+					<nomCreancier>
+        [Donn&#233;es non publi&#233;es]
+    </nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Pr&#234;t personnel remboursable in fine sur 20 ans 
+        [Donn&#233;es non publi&#233;es]
+    </nature>
+					<datePassif>25/01/2022</datePassif>
+					<objetDette>
+        [Donn&#233;es non publi&#233;es]
+    </objetDette>
+					<montant>4550000</montant>
+					<duree>240</duree>
+					<restantDu>2550000</restantDu>
+					<mensualite>0</mensualite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montant total du pr&#234;t : 800.000&#8364; Part du d&#233;clarant : 240.000&#8364; (30%) 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomCreancier>Boursorama</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Emprunt immobilier</nature>
+					<datePassif>15/04/2022</datePassif>
+					<objetDette>Emprunt immobilier</objetDette>
+					<montant>240000</montant>
+					<duree>192</duree>
+					<restantDu>236384</restantDu>
+					<mensualite>1205</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>foncpub</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re de la Transformation et de la Fonction publiques</labelOrgane>
+				<labelDeclaration>Ministre de la Transformation et de la Fonction publiques </labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Ministre de la Transformation et de la Fonction publiques </qualiteDeclarantForPDF>
+			<dateDebutMandat>20/05/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>Participation aux acqu&#234;ts</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Guerini</nom>
+				<prenom>Stanislas</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>14/05/1982</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

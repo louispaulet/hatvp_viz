@@ -1,0 +1,517 @@
+<declarations><declaration>
+		<dateDepot>24/08/2022 11:13:58</dateDepot>
+		<uuid>10153cfd-b2a6-4d1f-8b96-71c15a2600d6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>22</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2003</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>70000</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>70000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>45</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2018</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>228582</prixAcquisition>
+					<prixTravaux>2500</prixTravaux>
+					<valeurVenale>230000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI 
+        [Donn&#233;es non publi&#233;es]
+    Patricia Miralles 29% 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>29.0</capitalDetenu>
+					<autreActif>compte bancaires cr&#233;dit Mutuel cr&#233;dit Agricole</autreActif>
+					<passif>Emprunt Cr&#233;dit Agricole 156472&#8364; 83071&#8364; Emprunt Cr&#233;dit Mutuel 122174&#8364; total 361663&#8364;</passif>
+					<valeur>254717</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>75</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2013</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>29.0</quotePart>
+							<prixAcquisition>115000</prixAcquisition>
+							<prixTravaux>15000</prixTravaux>
+							<valeurVenale>120000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>300</superficieBati>
+							<superficieNonBati>0.14</superficieNonBati>
+							<dateAcquisition>2015</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>29.0</quotePart>
+							<prixAcquisition>570000</prixAcquisition>
+							<prixTravaux>100000</prixTravaux>
+							<valeurVenale>1000000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 34)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>66</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2020</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>29.0</quotePart>
+							<prixAcquisition>125000</prixAcquisition>
+							<prixTravaux>5000</prixTravaux>
+							<valeurVenale>130000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>25.0</capitalDetenu>
+					<autreActif/>
+					<passif>Emprunt Cr&#233;dit Agricole 352391&#8364;</passif>
+					<valeur>250</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 11)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>300</superficieBati>
+							<superficieNonBati>0.395</superficieNonBati>
+							<dateAcquisition>2022</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>25.0</quotePart>
+							<prixAcquisition>315000</prixAcquisition>
+							<prixTravaux>20000</prixTravaux>
+							<valeurVenale>335000</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items/>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items/>
+			<neant>true</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>credit agricole</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>patricia.miralles</titulaire>
+					<valeur>1970</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>credit agricole</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>patricia.miralles</titulaire>
+					<valeur>8014</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>credit agricole</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>patricia miralles et 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>527</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Cr&#233;dit Mutuel</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Miralles Patricia</titulaire>
+					<valeur>1094</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>CSL</typeCompte>
+					<etablissement>Cr&#233;dit Agricole</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>MIRALLES PATRICIA</titulaire>
+					<valeur>15742</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Patricia Miralles 29% des parts de la SCI</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>credit mutuel</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>2846</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Patricia Miralles 29% des parts de la SCI</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>credit agricole</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>SCI P
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>1000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>25% des parts de la SCI</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>cr&#233;dit agricole 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>67</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items/>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>lancia</marque>
+					<anneeAchat>2015</anneeAchat>
+					<valeurAchat>2000</valeurAchat>
+					<valeur>300</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>opel</marque>
+					<anneeAchat>2019</anneeAchat>
+					<valeurAchat>2500</valeurAchat>
+					<valeur>1500</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items/>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items/>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomCreancier>Cr&#233;dit Mutuel</nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>Cr&#233;dit Immobilier</nature>
+					<datePassif>15/10/2018</datePassif>
+					<objetDette>acquisition immobili&#232;re</objetDette>
+					<montant>117140</montant>
+					<duree>240</duree>
+					<restantDu>103938</restantDu>
+					<mensualite>638</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>defense</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Minist&#232;re de la D&#233;fense</labelOrgane>
+				<labelDeclaration>Ministre de la D&#233;fense</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Secr&#233;taire d'&#201;tat aupr&#232;s du ministre des arm&#233;es, charg&#233;e des anciens combattants et de la m&#233;moire</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>N&#233;ant</regimeMatrimonial>
+			<regimeMatrimonialComments>PACS</regimeMatrimonialComments>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>MIRALLES</nom>
+				<prenom>PATRICIA</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/08/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

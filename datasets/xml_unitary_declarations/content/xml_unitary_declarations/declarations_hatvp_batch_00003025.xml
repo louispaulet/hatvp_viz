@@ -1,0 +1,368 @@
+<declarations><declaration>
+		<dateDepot>31/10/2020 12:25:02</dateDepot>
+		<uuid>8c445109-a9f4-4757-9e1f-c86cfa6b2c3d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Soci&#233;t&#233; des courses du Pertre</nomStructure>
+					<descriptionActivite>soci&#233;taire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>association protection juridique pour l'autonomie 75. Gestion de tutelles et curatelles</nomStructure>
+					<descriptionActivite>administrateur</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Amis des courses du Pertre D&#233;fense et promotion de la soci&#233;t&#233; des courses</nomStructure>
+					<descriptionActivite>administrateur</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j'ai d&#233;missionn&#233; le 30 septembre 2017 et ne si&#232;ge plus au Conseil Municipal depuis Juin 2020</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>maire Le Pertre</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>11018</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12777</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>12520</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10044</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j'ai d&#233;missionn&#233; le 30 septembre 2017 et quitt&#233; le Conseil Communautaire</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>vice Pr&#233;sident vitr&#233; communaut&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>8497</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>11056</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>13371</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>9057</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; r&#233;&#233;lu le 27 septembre 2020. Je n'ai plus d'autres mandat &#233;lectif.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>s&#233;nateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>64000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>64000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>64000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>59600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j'ai &#233;t&#233; r&#233;&#233;lu en novembre 2017 Je suis renouvelable &#224; la prochaine AG qui doit se tenir d'ici la fin de l'ann&#233;e</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>amicale gaulliste du s&#233;nat</nomSociete>
+					<activite>tr&#233;sorier</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2014</dateDebut>
+					<dateFin>11/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai &#233;t&#233; d&#233;sign&#233; en octobre 2020</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Mission locale de Saint Malo</nomSociete>
+					<activite>accompagnement vers l'emploi</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>354000</evaluation>
+					<remuneration>aucune, seulement des revenus fonciers</remuneration>
+					<capitalDetenu>99</capitalDetenu>
+					<nombreParts>903</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>0</nomOrganisationConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>603250</evaluation>
+					<remuneration>aucune seulement des revenus fonciers</remuneration>
+					<capitalDetenu>77</capitalDetenu>
+					<nombreParts>2557</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>0</nomOrganisationConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mr Belloir est employ&#233; par l'Agas. il est par ailleurs conseiller d&#233;partemental d'Ille et Vilaine et adjoint au maire de St Malo</commentaire>
+					<nom>Nicolas Belloir</nom>
+					<employeur>conseiller d&#233;partemental adjoint au maire de St Malo</employeur>
+					<descriptionActivite>collaborateur s&#233;nat en ille et vilaine</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mme de keranflec'h est employ&#233; par l'Agas</commentaire>
+					<nom>St&#233;phanie Poupard epouse de Kerranflec'h</nom>
+					<employeur/>
+					<descriptionActivite>collaboratrice parlementaire &#224; Paris</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>35</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Ille-et-Vilaine(35)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Ille-et-Vilaine(35)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/10/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>de LEGGE</nom>
+				<prenom>dominique</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>18/02/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

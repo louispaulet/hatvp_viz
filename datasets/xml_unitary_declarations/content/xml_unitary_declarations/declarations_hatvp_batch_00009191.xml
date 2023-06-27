@@ -1,0 +1,256 @@
+<declarations><declaration>
+		<dateDepot>18/10/2020 19:39:51</dateDepot>
+		<uuid>1828e3ab-3034-4aac-96a4-c49fa6231b6d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Revenus approximatifs en 2020 (Salaires x 9)</commentaire>
+					<description>secr&#233;taire d&#233;partemental</description>
+					<employeur>F&#233;d&#233;ration 44 du PCF</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>33&#8239;258</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>33&#8239;281</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>33&#8239;286</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33&#8239;276</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34&#8239;026</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34&#8239;246</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20&#8239;792</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SNJH</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>- Indication approximative en 2020 - En 2014 jusqu'en Decembre 2015, j'&#233;tais &#233;galement conseiller r&#233;gional (voir revenus 2014/2015 - Conform&#233;ment aux statuts de ma formation politique, l'int&#233;gralit&#233; de mes indemnit&#233;s d'&#233;lu sont revers&#233;e &#224; mon parti. Elles apparaissent donc en don sur mes avis fiscaux. Mes seuls "revenus de vie" sont donc mes salaires indiqu&#233;s en rubrique 1</commentaire>
+					<descriptionMandat>Adjoint au maire de Nantes / Conseiller M&#233;tropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>49&#8239;567</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>45&#8239;660</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#8239;844</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#8239;124</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>25&#8239;520</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;380</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>16&#8239;920</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>(Secr&#233;taire d&#233;partemental du PCF en Loire-Atlantique tel qu'indiqu&#233; pr&#233;c&#233;demment dans mes revenus)</commentaire>
+					<nomSociete>Conseil &#233;xecutif national du PCF</nomSociete>
+					<activite>Membre du CEN</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Conform&#233;ment aux statuts de ma formation politique, l'int&#233;gralit&#233; de mes indemnit&#233;s d'&#233;lu sont revers&#233;es &#224; mon parti. Elles apparaissent donc en don sur mes avis fiscaux. Mes seuls "revenus de vie" sont mes salaires indiqu&#233;s en rubrique 1</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>44109</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Nantes (44)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Nantes (44)</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SEASSAU</nom>
+				<prenom>Aymeric</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/12/1977</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

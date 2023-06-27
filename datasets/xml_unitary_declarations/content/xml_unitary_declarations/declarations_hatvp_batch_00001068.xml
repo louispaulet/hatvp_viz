@@ -1,0 +1,501 @@
+<declarations><declaration>
+		<dateDepot>27/12/2021 09:55:28</dateDepot>
+		<uuid>ad2a0abc-a17b-4568-9b11-dd9c9b60dc25</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>chiffre &#233;valu&#233;e en 2020 puisque l'ann&#233;e n'est pas finie &#224; la date de la d&#233;claration</commentaire>
+					<description>adjointe &#224; la maire de paris</description>
+					<employeur>marie de paris</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>45146</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>50008</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50013</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>62237</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>61747</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>parti communiste fran&#231;ais</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>fonction exerc&#233;e &#224; titre b&#233;n&#233;vole. Pr&#233;sidente de l'association ECVF du 29 juin 2019 au 26 mars 2021.</commentaire>
+					<nomStructure>ECVF - association d'&#233;lues contre les violences faites aux femmes</nomStructure>
+					<descriptionActivite>membre de l'association.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>ANACEJ</nomStructure>
+					<descriptionActivite>nomination par d&#233;l&#233;gation de la maire de paris au sein de l'Assembl&#233;e g&#233;n&#233;rale, du conseil d'administration de l'ANACEJ</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Fondation Gabriel P&#233;ri</nomStructure>
+					<descriptionActivite>membre du coll&#232;ge du fondateur au sein du conseil d'administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Association des maires de l'Ile de France</nomStructure>
+					<descriptionActivite>d&#233;signation en conseil de Paris.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Coll&#232;ge Anne Frank</nomStructure>
+					<descriptionActivite>d&#233;signation en conseil de Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Coll&#232;ge Pilatre de Rozier</nomStructure>
+					<descriptionActivite>D&#233;signation en conseil de Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Coll&#232;ge Voltaire</nomStructure>
+					<descriptionActivite>D&#233;signation en conseil de Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Comit&#233; de gestion de la section du Centre d'action sociale 11&#233;me arrondissement</nomStructure>
+					<descriptionActivite>d&#233;signation en conseil</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant qu'adjointe &#224; la maire de Paris.</commentaire>
+					<nomStructure>Commission d&#233;partementale de l'Etat, de lutte contre la prostitution, le prox&#233;n&#233;tisme, et la traite des &#234;tres humains aux fin d'exploitation sexuelle</nomStructure>
+					<descriptionActivite>d&#233;signation par le conseil de Paris pour si&#233;ger au sein de la commission</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Conseils de Famille (num&#233;ro 2) des pupilles de l'Etat et du d&#233;partement de Paris</nomStructure>
+					<descriptionActivite>d&#233;signation par le conseil de Paris pour si&#233;ger au sein de la commission organis&#233;e par l'&#233;tat.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Ecole &#233;l&#233;mentaire 8 cit&#233; voltaire paris 11</nomStructure>
+					<descriptionActivite>d&#233;signation en conseil.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant que conseill&#232;re de Paris</commentaire>
+					<nomStructure>Ecole priv&#233; saint Paul</nomStructure>
+					<descriptionActivite>d&#233;signation en conseil</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation en tant qu'adjointe de la maire de Paris en charge de l'&#233;galit&#233; femme-homme, conseill&#232;re de Paris.</commentaire>
+					<nomStructure>jury du prix de la ville de Paris pour les &#233;tudes de genre</nomStructure>
+					<descriptionActivite>d&#233;signation par le conseil de Paris pour &#234;tre membre du jury organis&#233;e par la ville de Paris</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;valuation pour l'ann&#233;e 2020 en multipliant par 12 l'indemnit&#233; telle que vot&#233;e : en tant qu&#8217;adjointe, les indemnit&#233;s sont 5639,63 euros brut mensuel (d&#233;lib&#233;ration en Conseil de Paris des 23 et 24 juillet 2020)</commentaire>
+					<descriptionMandat>adjointe &#224; la maire de paris en charge de l'&#233;galit&#233; femmes-hommes de la jeunesse et de l'&#233;ducation populaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>45146</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>50008</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50013</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>62237</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>61744</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67675</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>activit&#233; &#224; titre militante b&#233;n&#233;vole encore en cours</commentaire>
+					<nomSociete>parti communiste fran&#231;ais</nomSociete>
+					<activite>membre du Comit&#233; executif national</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>04/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Repr&#233;sentation de la ville de Paris en tant qu'administratrice au sein de l'&#233;tablissement de la maison des m&#233;tallos qui a pris fin avec la fin du mandat &#233;lectoral en juin 2020</commentaire>
+					<nomSociete>Maison des Metallos</nomSociete>
+					<activite>administratrice de l'&#233;tablissement public de la coop&#233;ration Culturelle</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>repr&#233;sentation de la ville de Paris en tant que membre au comit&#233; administrant l'&#233;tablissement du syndicat mixte Syctom jusqu'&#224; la fin du mandat &#233;lectoral en juin 2020</commentaire>
+					<nomSociete>Syndicat mixte SYCTOM</nomSociete>
+					<activite>membre du comit&#233; d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2015</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#224; titre b&#233;n&#233;vole et personnel.</commentaire>
+					<nomSociete>Soci&#233;t&#233; immobili&#233;re du 53 eur Rochechouart</nomSociete>
+					<activite>pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>part sociale &#224; la banque populaire pour un montant de 2100 euros</commentaire>
+					<nomSociete>BANQUE POPULAIRE</nomSociete>
+					<evaluation>2100</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75000</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Paris (75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant>ajointe &#224; la maire de Paris en charge de l'&#233;galit&#233; femmes-hommes, de la jeunesse et de l'&#233;ducation populaire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Paris (75)/ajointe &#224; la maire de Paris en charge de l'&#233;galit&#233; femmes-hommes, de la jeunesse et de l'&#233;ducation populaire</qualiteDeclarantForPDF>
+			<dateDebutMandat>28/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Bidard</nom>
+				<prenom>H&#233;l&#232;ne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>06/04/1981</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,598 @@
+<declarations><declaration>
+		<dateDepot>03/08/2021 17:06:02</dateDepot>
+		<uuid>c8c54924-694e-47ac-a223-fc44217fece0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>entrepreur individuel</employeurConjoint>
+					<activiteProf>Pharmacienne &#224; 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis 2008</commentaire>
+					<descriptionMandat>Maire de Vernajoul</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9&#8239;087</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9&#8239;079</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>9&#8239;419</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8&#8239;052</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9&#8239;665</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9&#8239;794</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;416</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Vice-pr&#233;sident</commentaire>
+					<descriptionMandat>Conseiller d&#233;partemental d'Ari&#232;ge</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>16&#8239;275</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21&#8239;679</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19&#8239;937</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21&#8239;156</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21&#8239;068</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>21&#8239;087</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#8239;906</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Pr&#233;sident du Syndicat d&#233;partemental d'&#233;nergies de l'Ari&#232;ge</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;808</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;162</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole</commentaire>
+					<descriptionMandat>Membre du conseil d'administration du Syndicat Mixte D&#233;partemental de l'Eau et de l'Assainissement de l'Ari&#232;ge</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre du conseil d'administration b&#233;n&#233;vole</commentaire>
+					<nomSociete>Soci&#233;t&#233; coop&#233;rative d'int&#233;r&#234;t collectif d'HLM "Un toit pour tous"</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole</commentaire>
+					<nomSociete>F&#233;d&#233;ration nationale des collectivit&#233;s conc&#233;dantes et r&#233;gies (FNCCR)</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>B&#233;n&#233;vole ; repr&#233;sentant le conseil d&#233;partemental</commentaire>
+					<nomSociete>Service d&#233;partemental d'incendie et de secours de l'Ari&#232;ge (SDIS 09)</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Part d&#233;tenu dans le cadre de mes fonctions de membre b&#233;n&#233;vole du conseil d'administration</commentaire>
+					<nomSociete>Soci&#233;t&#233; coop&#233;rative d'int&#233;r&#234;t collectif d'HLM "Un toit pour tous"</nomSociete>
+					<evaluation>16</evaluation>
+					<remuneration>n&#233;ant</remuneration>
+					<capitalDetenu/>
+					<nombreParts>1</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>106,7 par action au 1er juillet 2021</commentaire>
+					<nomSociete>Arkema</nomSociete>
+					<evaluation>854</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>8</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>53,48 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>BNP Paribas</nomSociete>
+					<evaluation>7969</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>149</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>11,735 euros au 1er juillet 2021</commentaire>
+					<nomSociete>EDF</nomSociete>
+					<evaluation>2687</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>229</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>4,543 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Nokia</nomSociete>
+					<evaluation>618</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>136</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>56,55 euros par titre au 1er juillet 2021</commentaire>
+					<nomSociete>Saint-Gobain</nomSociete>
+					<evaluation>4524</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>80</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>25,70 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Soci&#233;t&#233; G&#233;n&#233;rale</nomSociete>
+					<evaluation>10794</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>420</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>28,50 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Vivendi</nomSociete>
+					<evaluation>459</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>18</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>11,732 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Engie</nomSociete>
+					<evaluation>2827</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>241</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>86,70 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Thal&#232;s</nomSociete>
+					<evaluation>9017</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>104</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>134,35 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Michelin</nomSociete>
+					<evaluation>22436</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>167</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>9,664 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Orange</nomSociete>
+					<evaluation>1651</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>171</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>20,06 par action au 1er juillet 2021</commentaire>
+					<nomSociete>Suez</nomSociete>
+					<evaluation>480</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>24</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>38,76 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>TotalEnergies</nomSociete>
+					<evaluation>13566</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>350</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>11,988 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Cr&#233;dit Agricole</nomSociete>
+					<evaluation>11736</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>979</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>4,126 euros par action au 1er juillet 2021</commentaire>
+					<nomSociete>Air France KLM</nomSociete>
+					<evaluation>116</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>28</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>423,35 GBX par action au 1er juillet 2021 ; soit 4,96 euros</commentaire>
+					<nomSociete>HSBC Holdings</nomSociete>
+					<evaluation>3765</evaluation>
+					<remuneration>ventilation impossible (v. observation &#224; la fin de la d&#233;claration)</remuneration>
+					<capitalDetenu/>
+					<nombreParts>759</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Il m'a &#233;t&#233; impossible de proc&#233;der &#224; la ventilation des dividendes per&#231;us des diff&#233;rentes soci&#233;t&#233;s mentionn&#233;es dans la rubrique participations financi&#232;res faute d'informations suffisamment d&#233;taill&#233;es de ma banque. Le montant total des dividendes que j'ai per&#231;us en 2020 (incluant les dividendes per&#231;us par le biais d'OPCVM) &#233;tait de 2 638 euros</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>09</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Ari&#232;ge (09)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Ari&#232;ge (09)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Ferr&#233;</nom>
+				<prenom>Jean-Paul</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/07/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

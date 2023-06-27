@@ -1,0 +1,292 @@
+<declarations><declaration>
+		<dateDepot>01/09/2020 16:07:16</dateDepot>
+		<uuid>1f0c0b9c-3008-40a8-a33d-053cf1dd1c33</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Distribution de boissons et r&#233;gie publicitaire</description>
+					<employeur>Sarl 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>21048</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>21000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>17000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>16500</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association organisatrice des F&#234;tes Maritimes Internationales de Brest et de tous les Ev&#232;nements Nautiques de l'agglom&#233;ration</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Brest Ev&#232;nements Nautiques</nomStructure>
+					<descriptionActivite>Vice-pr&#233;sident, membre du CA et du Bureau repr&#233;sentant villede Brest</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Gestionnaire des &#233;quipements par d&#233;l&#233;gation de service public des &#233;quipements dont Brest m&#233;tropole est propri&#233;taire ( Oc&#233;anopolis, Le Quartz, Parc des Expositions, Ports de Plaisance, Salle Brest Ar&#233;na, Patinoire, Stationnement, go&#233;lette La Recouvrance</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>SAEM "Brest'Aim"</nomStructure>
+					<descriptionActivite>Repr&#233;sentant de Brest m&#233;tropole au Conseil d'Administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>SEM de Portage Immobilier ( SEMPI )</nomStructure>
+					<descriptionActivite>Repr&#233;sentant de la Ville de Brest au Conseil d'Administration</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>AteliersDesCapucins</nomStructure>
+					<descriptionActivite>GestionnairedesAteliers</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Adjoint au Maire de Brest</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>976</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>13157</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>25906</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21975</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14898</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller communautaire de Brest m&#233;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>83</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>996</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1962</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1678</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1086</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2016</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Sarl 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>7624</evaluation>
+					<remuneration>NEANT</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>7624</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>29019</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Brest (29)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjoint au maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Brest (29)/Adjoint au maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PELLICANO</nom>
+				<prenom>Fortun&#233;</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>09/08/1955</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

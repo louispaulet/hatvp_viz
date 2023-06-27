@@ -1,0 +1,407 @@
+<declarations><declaration>
+		<dateDepot>23/11/2020 12:07:18</dateDepot>
+		<uuid>b2ef81f2-9c52-487a-adb5-569bbdf6a816</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; est toujours exerc&#233;e. Les revenus 2019 seront d&#233;termin&#233;s pour la d&#233;claration 2020.</commentaire>
+					<conservee>true</conservee>
+					<description>m&#233;decin radiologue</description>
+					<employeur>profession lib&#233;rale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>44705</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>32787</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>125655</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>85397</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>57&#8239;434</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>s&#233;nateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12462</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>50877</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49848</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;829</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#8239;117</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne suis plus conseiller communautaire depuis ale 28 juin 2020.</commentaire>
+					<descriptionMandat>conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1900</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2525</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2530</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2365</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;410</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;422</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;197</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne suis plus conseiller municipal depuis le 28 juin 2020.</commentaire>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2070</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2772</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2778</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2550</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2&#8239;646</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2&#8239;659</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;314</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je poss&#232;de la nu-propri&#233;t&#233; de 250 parts dont l'usufruit a &#233;t&#233; c&#233;d&#233; &#224; la SELARL IMAGERIE DIJON : aujourd'hui la valeur de mes parts est estim&#233;e &#224; 42 000&#8364;. La valeur v&#233;nale du bien est estim&#233;e &#224; 275 000 euros.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>location immobili&#232;re</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>11/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la SCI 
+        [Donn&#233;es non publi&#233;es]
+     a &#233;t&#233; dissoute le 9 novembre 2017</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>location immobili&#232;re</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>705</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>11/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je ne per&#231;ois aucune r&#233;mun&#233;ration, je suis g&#233;rant, voire rubrique 3</commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>42000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>250</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BR&#201;MONT Jacques</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Collaborateur parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>DE JESUS Emmanuelle</nom>
+					<employeur>SARL Proscriptum EI Domaine de Charmois</employeur>
+					<descriptionActivite>G&#233;rante SARL et g&#233;rante EI communication et accueil touristique</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>TRITZ Ulrich</nom>
+					<employeur>Sarl ProsScriptum</employeur>
+					<descriptionActivite>Co-g&#233;rant activit&#233; communication</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>21</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>C&#244;te-d'Or(21)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/C&#244;te-d'Or(21)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>HOUPERT</nom>
+				<prenom>Alain</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>13/08/1957</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

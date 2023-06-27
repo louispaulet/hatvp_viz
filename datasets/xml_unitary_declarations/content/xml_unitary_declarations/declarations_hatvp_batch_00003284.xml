@@ -1,0 +1,786 @@
+<declarations><declaration>
+		<dateDepot>21/12/2022 11:40:38</dateDepot>
+		<uuid>8d51839b-8932-442f-b81c-fe13e41933ed</uuid>
+		<origine>ADEL</origine>
+		<complete>false</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Oui je n'exerce qu'avec des parties priv&#233;es aucun conflit d'int&#233;r&#234;t</commentaire>
+					<conservee>true</conservee>
+					<description>AVOCATE ASSOCIEE</description>
+					<employeur>SELARL D INTORNI MESNIL CHARPAIL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SELARL D INTORNI MESNIL CHARPAIL</employeurConjoint>
+					<activiteProf>g&#233;rant soci&#233;t&#233; avocat</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Syndicat Mixte pour les inondations l'am&#233;nagement et la gestion de l'eau SMIAGE</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Conseil d&#233;partemental de l'&#233;ducation nationale</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Commission de concertation pour l'enseignement priv&#233; pour l'acad&#233;mie de Nice</nomStructure>
+					<descriptionActivite>Membre suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Commission de la formation et de la vie universitaire du conseil acad&#233;mique de l'universit&#233; de Nice</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>COPIL et CA de l'&#233;tablissement exp&#233;rimental UCA</nomStructure>
+					<descriptionActivite>membre suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>IAE Nice cote d'azur</nomStructure>
+					<descriptionActivite>membre suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Commission de formation et de la vie universitaire du conseil acad&#233;mique de l'UNICE</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>UFR STAPS NIce</nomStructure>
+					<descriptionActivite>membre suppl&#233;ante</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>POLYTECH unice</nomStructure>
+					<descriptionActivite>Membre suppl&#233;ante</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Ufr sciences</nomStructure>
+					<descriptionActivite>Membre suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Ephad sainte croix lantosque</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>comit&#233; du suivi de la charte d&#8217;engagement du nouveau r&#233;seau de proximit&#233; des finances publiques</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>AGENCE 06</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>S2MIA</nomStructure>
+					<descriptionActivite>membre Suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Syndicat Mixte de l'abattoir du mercantour</nomStructure>
+					<descriptionActivite>membre suppl&#233;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Syndicat mixte pour l'am&#233;nagement de la station d'isola 2000</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Syndicat mixte des stations du mercantour</nomStructure>
+					<descriptionActivite>Membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>SMVVV</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission envoy&#233;e</commentaire>
+					<nomStructure>Parc national mercantour</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>CDESI</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>commission des finances COnseil d&#233;partemental</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Commission autonomie Conseil d&#233;partemental</nomStructure>
+					<descriptionActivite>membre titulaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Commission Sport jeunesse et devoir de m&#233;moire Conseil d&#233;partemental</nomStructure>
+					<descriptionActivite>Pr&#233;sidente de la commission</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission depuis le 2 juillet 2022</commentaire>
+					<descriptionMandat>maire de rimplas</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4284</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5713</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;713</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5&#8239;713</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mandat de conseilli&#232;re m&#233;tropolitaine jusqu'au mois de juin 2020 puis r&#233;&#233;lection en juillet 2020 entant que Vice pr&#233;sidente de la m&#233;tropole. D&#233;mission du poste de VP le 2 juillet 22 poursuite du mandat de conseill&#232;re m&#233;tropolitaine. Indemnit&#233;s 2021 /22 d&#233;clar&#233;e dans la rubrique VP m&#233;tropole NCA</commentaire>
+					<descriptionMandat>CONSEILLIERE METROPOLITAINE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>7698</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10264</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>10264</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10264</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10264</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10264</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5131</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>CONSEILLIERE REGIONALE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1150</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>27600</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27600</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>27600</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>27600</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>27600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission de mon poste de Vice pr&#233;sidente mais maintient du poste de conseill&#232;re m&#233;tropolitaine</commentaire>
+					<descriptionMandat>VICE PRESIDENTE METROPOLE NCA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>10&#8239;500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseill&#232;re municipale de RImplas</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission adress&#233;e au pr&#233;fet le 18/07/22</commentaire>
+					<nomSociete>parc national du mercantour</nomSociete>
+					<activite>Vice pr&#233;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission adress&#233;e au Pr&#233;sident le 18/7/22</commentaire>
+					<nomSociete>Syndicat mixte Roubion</nomSociete>
+					<activite>Vice pr&#233;sdiente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2&#8239;100</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI DETENANT NOS LOCAUX PROFESSIONNELS D&#233;tention directe de 1% des parts et indirecte de 98% des parts pour le compte de 
+        [Donn&#233;es non publi&#233;es]
+    et 78% en tant qu'associ&#233;es de la SCI 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>2</evaluation>
+					<remuneration>0&#8364;</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI FAMILIALE DETENANT UN BIEN IMMOBILIER 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>21</evaluation>
+					<remuneration>0&#8364;</remuneration>
+					<capitalDetenu>21</capitalDetenu>
+					<nombreParts>21</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SELARL D INTORNI MESNIL CHARPAIL</nomSociete>
+					<evaluation>65000</evaluation>
+					<remuneration>0&#8364; &#224; part les r&#233;mun&#233;rations d&#233;clar&#233;es au 1</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>100</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI Familiale d&#233;tenant notre logement. Je d&#233;teins personnellement 24,76 pour-cent des parts et de mani&#232;re indirecte, 49pour-cent pour 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>232000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>53</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Contrat 3 jours de travail par semaine</commentaire>
+					<nom>Pierre Chrestia</nom>
+					<employeur>n&#233;ant</employeur>
+					<descriptionActivite>Collaborateur en charge de la gestion de mon activit&#233; sur paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>3 jours de travail par semaine. Temps partiel</commentaire>
+					<nom>PLENT JULIEN</nom>
+					<employeur>Salari&#233; &#233;tude huissier</employeur>
+					<descriptionActivite>Collaborateur en charge des vall&#233;es tir&#233;e et v&#233;subie de ma circonscription. R&#233;ception /dol&#233;ances/ Discours, Liens &#233;lus</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>3 jours de travail par semaine</commentaire>
+					<nom>SPILLEBOUT Elisabeth</nom>
+					<employeur>Mairie de Rimplas temps partiel 2 jours par semaine</employeur>
+					<descriptionActivite>Secr&#233;taire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>3 jours de travail par semaine</commentaire>
+					<nom>Saradjian ALexandre</nom>
+					<employeur>N&#233;ant</employeur>
+					<descriptionActivite>Collaborateur en charge de la partie ni&#231;oise, r&#233;ception dol&#233;ances, liens &#233;lus, discours / m&#233;dia</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Tiers temps &#224; mon Service</commentaire>
+					<nom>INARD Gaetan</nom>
+					<employeur>Eric CIOTTI d&#233;put&#233;</employeur>
+					<descriptionActivite>Collaborateur parisien en charge de la gestion des actes parlementaires</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>06</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Alpes-Maritimes(06)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Alpes-Maritimes(06)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>D'INTORNI</nom>
+				<prenom>CHRISTELLE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>02/05/1985</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

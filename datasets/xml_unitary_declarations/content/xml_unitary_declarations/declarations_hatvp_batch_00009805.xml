@@ -1,0 +1,925 @@
+<declarations><declaration>
+		<dateDepot>20/09/2021 22:28:29</dateDepot>
+		<uuid>03d48313-d671-4f70-9e6e-5d3fff446d9a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>agricultrice</description>
+					<employeur>GAEC
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11&#8239;608</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>7&#8239;500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>du 05/10 au 19/10 171,43 &#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Remplacement pour le 01/03/18 86,36 &#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin>03/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour le 26/04/18 86,16&#8364; Net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>04/2018</dateDebut>
+					<dateFin>04/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour le 31/05/18 86,21 &#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>05/2018</dateDebut>
+					<dateFin>05/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement du 1er au 30 juin 2018 75,80&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>06/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour le 1er decembre 2018 86,39&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>12/2018</dateDebut>
+					<dateFin>12/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement sur la p&#233;riode du 07/07/16 au 31/07/16 212,65&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>07/2016</dateDebut>
+					<dateFin>07/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour la p&#233;riode du 01/08/16 au 25/08/16 130,43&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>08/2016</dateDebut>
+					<dateFin>08/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour la p&#233;riode du 13/04/17 au 30/04/2017 63,76&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>04/2017</dateDebut>
+					<dateFin>04/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour la p&#233;riode du 01/05/17 au 31/05/17 63,76&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>05/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour la p&#233;riode du 01/06/17 au 29/06/17 103,92&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>remplacement pour la p&#233;riode du 26/03/18 au 27/03/18 349,31&#8364; net</commentaire>
+					<description>manipulatrice en radiologie m&#233;dicale</description>
+					<employeur>SELARL Groupe d'Imagerie M&#233;dicale</employeur>
+					<remuneration/>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin>03/2018</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>GAEC 
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>agriculteur</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>D&#201;PARTEMENT DE LA LOZ&#200;RE</nomStructure>
+					<descriptionActivite>Suppl&#233;ante pour le comit&#233; technique d&#233;partemental Loz&#232;re de la SAFER</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>D&#201;PARTEMENT DE LA LOZ&#200;RE</nomStructure>
+					<descriptionActivite>Suppl&#233;ante pour le conseil de rivage des lacs du conservatoire de l'espace littoral et des rivages lacustres</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>D&#201;PARTEMENT DE LA LOZ&#200;RE</nomStructure>
+					<descriptionActivite>Suppl&#233;ante pour l'EPL (&#201;tablissement Public Loire)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>D&#201;PARTEMENT DE LA LOZ&#200;RE</nomStructure>
+					<descriptionActivite>Suppl&#233;ante pour le CHSCT (Comit&#233; d'Hygi&#232;ne de S&#233;curit&#233; et des Conditions de Travail)</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseiller d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;372</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;077</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;346</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>conseill&#232;re d&#233;l&#233;gu&#233;e aux affaires scolaires</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;514</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;010</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Vice pr&#233;sidente, pr&#233;sidente de la commission sports, culture, patrimoine et vie associative</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;372</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Suppl&#233;ante au sein du CDEN</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire repr&#233;sentante au coll&#232;ge priv&#233; du sacr&#233; Coeur (LANGOGNE)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Suppl&#233;ante pour le coll&#232;ge public Marthe Dupeyron (LANGOGNE)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire de la Comission D&#233;partementale de la m&#233;daille de Bronze de la jeunesse et des sports</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour l'EPLEFPA Civergols</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour l'association Education par le travail (Laval Adger)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Suppl&#233;ante commission executive (COMEX) de la MDPH</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire EPHAD de Luc</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire mission locale Lozere</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire ADDA Sc&#232;nes Crois&#233;es de Loz&#232;re</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire Loz&#232;re Logistique Scenique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire association Occitanie en Sc&#232;ne</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour la Commission R&#233;gionale et CD-FDVA</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour le Conseil D&#233;partemental de la jeunesse, des sports et de la vie associative (CDJSVA)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour l'EDML : syndicat mixte pour la gestion de l'&#233;cole d&#233;partementale de musique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Titulaire pour le conseil d'&#233;tablissement de l'EDML</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>DEPARTEMENT DE LA LOZERE</nomSociete>
+					<activite>Suppl&#233;ante pour le CDAF (commission d&#233;partementale d'am&#233;nagement foncier)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>commission ville et travaux</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>Commission associations</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>Conseil d'Administration coll&#232;ge Marthe Dupeyron de LANGOGNE</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>Conseil d'&#233;cole maternelle</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MAIRIE DE LANGOGNE</nomSociete>
+					<activite>Conseil d'&#233;cole &#233;lementaire</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>09/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>48</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Loz&#232;re (48)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant>vice-pr&#233;sidente, presidente de la commission sports, culture, patrimopine et vie associative</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Loz&#232;re (48)/vice-pr&#233;sidente, presidente de la commission sports, culture, patrimopine et vie associative</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>TRIOULIER</nom>
+				<prenom>Johanne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/03/1982</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,376 @@
+<declarations><declaration>
+		<dateDepot>15/08/2021 21:57:38</dateDepot>
+		<uuid>39b24415-d67a-455a-85b0-341533280000</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Professeur certifi&#233; classe exceptionnelle 4 &#233;chelon</commentaire>
+					<description>Enseignant Sciences de l'Ing&#233;nieur</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>43680</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>40830</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>41459</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>43145</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>39200</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>34850</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>39&#8239;220</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;750</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Education nationale</employeurConjoint>
+					<activiteProf>Professeur des &#233;coles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cr&#233;ation de l'association en 2019</commentaire>
+					<nomStructure>Association Saudade Pr&#233;sident</nomStructure>
+					<descriptionActivite>Association amiti&#233; Franco portugaise sur le canton C&#232;re et S&#233;gala</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Gintrac Animation et Patrimoine GAP</nomStructure>
+					<descriptionActivite>Sauvegarde du Patrimoine local et animation de la commune</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Sauvegrde du Ch&#226;teau de Taillefer</nomStructure>
+					<descriptionActivite>Membre Action d'entretiens et soutien au projet de sauvegarde des ruines du ch&#226;teau de Taillefer commune de Gintrac</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Maire de la commune de Gintrac Population de 120 habitants</commentaire>
+					<descriptionMandat>Mairie de Gintrac</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6135</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6135</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6135</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6135</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6135</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;400</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;900</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>VP sports</commentaire>
+					<descriptionMandat>VP communaut&#233; de communes C&#232;re et s&#233;gala</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1851</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4668</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5330</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>VP activit&#233; sports</commentaire>
+					<descriptionMandat>Communaut&#233; de communes CAUVALDOR</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11486</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11540</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7448</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;508</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Conseiller D&#233;partemental du canton C&#232;re et S&#233;gala &#224; compter de f&#233;vrier 2018</commentaire>
+					<descriptionMandat>Conseiller D&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12&#8239;430</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13&#8239;560</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15&#8239;359</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#8239;709</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2018</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>VP depuis ao&#251;t 2021 Parc R&#233;gional des Causses du Quercy</commentaire>
+					<nomSociete>Parc R&#233;gional des Causses du Quercy</nomSociete>
+					<activite>VP urbanisme</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>985</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;379</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2020</dateDebut>
+					<dateFin>08/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>46</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Lot (46)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>76</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Lot (46)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PROENCA</nom>
+				<prenom>CHRISTOPHE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>31/05/1966</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

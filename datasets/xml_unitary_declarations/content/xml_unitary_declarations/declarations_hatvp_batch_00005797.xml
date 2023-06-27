@@ -1,0 +1,381 @@
+<declarations><declaration>
+		<dateDepot>30/09/2021 12:34:57</dateDepot>
+		<uuid>e66853c3-17e1-4b44-80c7-107bcd80419c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Rapporteur ext&#233;rieur</description>
+					<employeur>Cour des comptes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21296</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>66503</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46890</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2015</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Chef de d&#233;partement</description>
+					<employeur>Commission de r&#233;gulation de l'&#233;nergie</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>57908</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>59778</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>66171</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>68109</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>46810</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>08/2015</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Soci&#233;t&#233; g&#233;n&#233;rale (banque d'investissement)</employeurConjoint>
+					<activiteProf>"market maker" (activit&#233; de trading algorithmique)</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;mission &#224; venir apr&#232;s que le conseil constitutionnel ait statu&#233; sur le recours.Montant 2017 au 31.09</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire-adjoint</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>18545</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>26228</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25447</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>19984</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat non r&#233;mun&#233;r&#233; depuis le 1er juillet 2016 du fait de non cumul avec l'indemnit&#233; au titre du conseil m&#233;tropolitain</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1555</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2229</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1062</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L'indemnit&#233; a commenc&#233; &#224; &#234;tre vers&#233;e le 1er juillet 2016.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller m&#233;tropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4718</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6999</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Remplacement &#224; venir dans le cadre de la loi sur le non cumul des mandats. Administrateur &#224; titre gracieux. changement de nom (SAEM devenu SPL) au second semestre 2016.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPL Val de Seine</nomSociete>
+					<activite>soci&#233;t&#233; d'am&#233;nagement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre du conseil d'administration &#224; titre gratuit</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SAEM Val de Seine</nomSociete>
+					<activite>soci&#233;t&#233; d'am&#233;nagement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2012</dateDebut>
+					<dateFin>03/2014</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Charles Lavauzelle Ines</nom>
+					<employeur>Rapin Jean-Fran&#231;ois (s&#233;nateur du Pas-de-Calais)</employeur>
+					<descriptionActivite>Attach&#233; parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Elisabeth de Maistre</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#233;e parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Je souhaite signaler ma participation aux deux conseils d'administration suivants :(1) Fonds &#171; &#201;coles chr&#233;tiennes francophones d&#8217;Orient &#187;, co-g&#233;r&#233; par le minist&#232;re des Affaires &#233;trang&#232;res et de l'Europe et par la fondation d'utilit&#233; publique Oeuvre d'Orient : d&#233;signation en tant que personnalit&#233; qualifi&#233;e (pr&#233;sident du groupe interparlementaire d'amiti&#233; France-Liban au S&#233;nat) ;(2) SPL Val de Seine am&#233;nagement :  d&#233;lib&#233;ration du Conseil municipal de Boulogne-Billancourt en date du 30 septembre 2021</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Hauts-de-Seine(92)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Hauts-de-Seine(92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>02/10/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Lavarde</nom>
+				<prenom>Christine</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/10/1984</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

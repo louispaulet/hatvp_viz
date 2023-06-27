@@ -1,0 +1,376 @@
+<declarations><declaration>
+		<dateDepot>04/09/2021 00:22:40</dateDepot>
+		<uuid>87c2b915-ed29-454a-a7b7-3f45858693d0</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>en retraite depuis le 01/0.1/2019</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>profession lib&#233;rale</employeurConjoint>
+					<activiteProf>m&#233;decin g&#233;n&#233;raliste</activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>m&#233;decin g&#233;n&#233;raliste retrait&#233; depuis le 01/01/2019</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>ADOPS 85 ( association d&#233;partementale pour l'organisation de la permanence des soins en Vend&#233;e )</employeurConjoint>
+					<activiteProf>m&#233;decin r&#233;gulateur pour les g&#233;n&#233;ralistes au centre 15 de la Vend&#233;e (r&#233;gulation t&#233;l&#233;phonique )</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les r&#233;mun&#233;rations de 2015 et 2016 sont en brut et celles de 2017,2018,2019,2020 et 2021 sont en net fiscal</commentaire>
+					<descriptionMandat>vice-pr&#233;sidence du conseil d&#233;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>28&#8239;632</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>38&#8239;433</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33&#8239;204</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34&#8239;691</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>23&#8239;860</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24&#8239;209</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;813</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3&#8239;156</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les r&#233;mun&#233;rations de 2015 et 2016 sont en brut</commentaire>
+					<descriptionMandat>vice-pr&#233;sidence de la communaut&#233; de communes de l'HERMENAULT</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7&#8239;526</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7&#8239;549</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les r&#233;mun&#233;rations de 2017,2018,2019,2020 et 2021 sont en net fiscal</commentaire>
+					<descriptionMandat>vice-pr&#233;sidence de la communaut&#233; de communesdu pays de FONTENAY-VENDEE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8&#8239;028</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6&#8239;448</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6&#8239;885</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;053</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;682</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2017</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les r&#233;mun&#233;rations de 2020 et 2021 sont en net fiscal</commentaire>
+					<descriptionMandat>vice-pr&#233;sidence du centre de gestion fonction publique territoriale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>902</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4&#8239;090</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>les r&#233;mun&#233;rations de 2015 et 2016 sont en brut fiscal et celles de 2017,2018,2019,2020 et de 2021 sont en net fiscal</commentaire>
+					<descriptionMandat>maire de MOUZEUIL-SAINT-MARTIN</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17&#8239;334</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17&#8239;386</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;352</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16&#8239;166</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11&#8239;158</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8&#8239;136</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>maison des communes de la vend&#233;e</nomSociete>
+					<activite>pr&#233;sidente de l'association des maires et des communaut&#233;s de communes de la vend&#233;e</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>85</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Vend&#233;e (85)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>52</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Vend&#233;e (85)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/06/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>coulon</nom>
+				<prenom>anne marie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>25/06/1955</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

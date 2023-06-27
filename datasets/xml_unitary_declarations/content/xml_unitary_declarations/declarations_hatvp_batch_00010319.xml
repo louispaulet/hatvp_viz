@@ -1,0 +1,329 @@
+<declarations><declaration>
+		<dateDepot>29/08/2020 18:05:32</dateDepot>
+		<uuid>8c9ca3e0-681f-4346-bf01-fd361596c7ec</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'un emploi &#233;tudiant pour lequel j'ai r&#233;alis&#233; essentiellement des missions ponctuelles, voire travaill&#233; les mois d'&#233;t&#233; en entier (2015 et 2017), d'o&#249; la disparit&#233; dans la r&#233;mun&#233;ration d'une ann&#233;e &#224; l'autre.</commentaire>
+					<description>Conseill&#232;re mutualiste et s&#233;curit&#233; sociale</description>
+					<employeur>Mutuelle G&#233;n&#233;rale des Etudiants de L'Est MGEL</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1127</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1938</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>190</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>571</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2015</dateDebut>
+					<dateFin>07/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Stagiaire en gestion de patrimoine</description>
+					<employeur>Cr&#233;dit Agricole Nord Est</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1203</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2016</dateDebut>
+					<dateFin>08/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit en r&#233;alit&#233; d'un seul mois de travail &#233;tudiant, le mois d&#8217;ao&#251;t 2017. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Auxiliaire &#233;t&#233; (accueil du public en agence et aide aux op&#233;rations de base)</description>
+					<employeur>Cr&#233;dit Agricole Nord Est</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>De fin Juillet &#224; Fin Aout, j'ai &#233;t&#233; auxiliaire &#233;t&#233; et donc en emploi &#233;tudiant, puis mon contrat a &#233;t&#233; prolong&#233; en CDD avec changement de statut (de auxiliaire &#233;t&#233; &#224; assistante) le mois de septembre.</commentaire>
+					<description>Auxiliaire Et&#233; puis Assistante</description>
+					<employeur>Cr&#233;dit Agricole Nord Est</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4710</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2018</dateDebut>
+					<dateFin>09/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Missions ponctuelles entre Mai et Juillet 2017.</commentaire>
+					<description>Hotesse d'accueil dans l'&#233;v&#233;nementiel</description>
+					<employeur>City One Events</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>425</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Service civique : sensibilisation des jeunes publics &#224; la qualit&#233; de l'air et &#224; sa pr&#233;servation, dans les &#233;coles de l'Eurom&#233;tropole de Strasbourg</description>
+					<employeur>ATMO Grand Est</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1731</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2903</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>CAPGEMINI
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit d'un stage qui n'a pas &#233;t&#233; r&#233;mun&#233;r&#233;. Apr&#232;s ce stage, j'ai continu&#233; d'&#234;tre juriste b&#233;n&#233;vole pour l'association, de mani&#232;re plus ponctuelle. Je co-g&#232;re aujourd'hui un compost de quartier mis en place par l'association, mais qui va &#234;tre r&#233;cup&#233;r&#233; par une autre association sous peu.</commentaire>
+					<nomStructure>Association Z&#233;ro D&#233;chet Strasbourg : lutter contre le tout jetable, sensibiliser les populations et les dirigeants &#224; la question des d&#233;chets, promouvoir une d&#233;marche z&#233;ro d&#233;chet.</nomStructure>
+					<descriptionActivite>Juriste stagiaire : stage entre mon Master 1 et mon Master 2. Activit&#233; : r&#233;daction d'une plainte contre diverses enseignes ne respectant pas le STOP PUB &#224; Strasbourg, en collaboration avec le juriste de l'association nationale Zero Waste France.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association promouvant la culture g&#233;n&#233;rale au sein du cursus juridiques &#233;tudiants de la facult&#233; de droit de Strasbourg. Mon troisi&#232;me mandat se terminera cette ann&#233;e, lors de la prochaine assembl&#233;e g&#233;n&#233;rale (entre septembre et novembre 2020).</commentaire>
+					<nomSociete>Athena, l'association culturelle des juristes</nomSociete>
+					<activite>Tr&#233;sori&#232;re (2017-2018), Pr&#233;sidente (2018-2019), Tr&#233;sori&#232;re (2019-2020)</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>67482</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Strasbourg (67)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjointe titulaire d'une d&#233;l&#233;gation &#224; la d&#233;mocratie locale, les initiatives et la participation citoyennes</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Strasbourg (67)/Adjointe titulaire d'une d&#233;l&#233;gation &#224; la d&#233;mocratie locale, les initiatives et la participation citoyennes</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ZIELINSKI</nom>
+				<prenom>Carole</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>08/11/1995</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

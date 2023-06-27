@@ -1,0 +1,580 @@
+<declarations><declaration>
+		<dateDepot>03/02/2023 16:20:31</dateDepot>
+		<uuid>0e7683a3-41c6-41ff-86f9-8b8f78119837</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Donation de la nue-propri&#233;t&#233; &#224; 
+        [Donn&#233;es non publi&#233;es]
+    par acte notari&#233; du 13 d&#233;cembre 2019 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 92)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>145</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>1986</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Usufruit</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>297275</prixAcquisition>
+					<prixTravaux>20000</prixTravaux>
+					<valeurVenale>371000</valeurVenale>
+					<regimeJuridique>Bien commun</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 33)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>165</superficieBati>
+					<superficieNonBati>0.0863</superficieNonBati>
+					<dateAcquisition>2013</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>50.0</quotePart>
+					<prixAcquisition>376000</prixAcquisition>
+					<prixTravaux>15000</prixTravaux>
+					<valeurVenale>500000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items/>
+			<neant>true</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montant des capitaux propres au 30 septembre 2018: 963790 &#8364; Part d&#233;tenue: 1/15</commentaire>
+					<denomination>SARL Domaine de La Grange</denomination>
+					<valeurActuelle>64252</valeurActuelle>
+					<participation>6.666</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeur estim&#233;e du GFA: Terres agricoles: 31,7 ha &#224; 0,568 &#8364;/m2 Bois et taillis: 8,6069 ha &#224; 0,327&#8364;/m2 Chateau et d&#233;pendances (avec 4,5 ha autour): 995000&#8364; (&#233;valuation
+        [Donn&#233;es non publi&#233;es]
+     de Janvier 2019) Part d&#233;tenue: 1/15</commentaire>
+					<denomination>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </denomination>
+					<valeurActuelle>80624</valeurActuelle>
+					<participation>6.6666</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>PEE liquid&#233; pour couvrir la donation et les frais associ&#233;s</commentaire>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<etablissement>BNP PE &amp; RE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>0</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Compte de retraite 
+        [Donn&#233;es non publi&#233;es]
+    liquid&#233; pour couvrir la donation et les frais associ&#233;s. Le solde de 2465 &#8364; est en tr&#233;sorerie</commentaire>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<etablissement>CNP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<naturePlacement>Compte titre</naturePlacement>
+					<valeur>0</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>Odile PIERART</souscripteur>
+					<etablissement>BNPP-Cardif</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>11/12/2003</dateSouscription>
+					<valeurRachat>266515</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>BNPP Cardif</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>28/07/2003</dateSouscription>
+					<valeurRachat>161027</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Odile PIERART</souscripteur>
+					<etablissement>BNP Paribas</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>09/11/2018</dateSouscription>
+					<valeurRachat>600218</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>
+        [Donn&#233;es non publi&#233;es]
+    </souscripteur>
+					<etablissement>BNPP Cardif</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>09/11/2018</dateSouscription>
+					<valeurRachat>233199</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Odile PIERART</titulaire>
+					<valeur>24143</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Odile PIERART</titulaire>
+					<valeur>12622</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>PEL</typeCompte>
+					<etablissement>BP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Odile PIERART</titulaire>
+					<valeur>72584</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Odile PIERART</titulaire>
+					<valeur>738</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>CEL</typeCompte>
+					<etablissement>BP 
+        [Donn&#233;es non publi&#233;es]
+    </etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Odile PIERART</titulaire>
+					<valeur>456</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+     ou Mme Odile PIERART</titulaire>
+					<valeur>3791</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+     ou Mme Odile PIERART</titulaire>
+					<valeur>358</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Solde au 31/12/2017. Compte joint 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>372113</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>24143</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>LDD</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>12622</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>CEL</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>441</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Solde au 28 f&#233;vrier 2019 du compte courant. &#201;v&#233;nement &#224; signaler: Solde succession 
+        [Donn&#233;es non publi&#233;es]
+     de 31 543 &#8364; re&#231;u par virement du notaire sur ce compte courant 
+        [Donn&#233;es non publi&#233;es]
+    , le 23 janvier 2019</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>BNPP</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>Mme Odile PIERART ou 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>53172</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<items/>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>RENAULT espace IV</marque>
+					<anneeAchat>2016</anneeAchat>
+					<valeurAchat>19350</valeurAchat>
+					<valeur>15000</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bateau semi-rigide achet&#233; d'occasion</commentaire>
+					<nature>Bateau</nature>
+					<marque>Caribe Nautica</marque>
+					<anneeAchat>2016</anneeAchat>
+					<valeurAchat>18500</valeurAchat>
+					<valeur>15000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<items/>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Pr&#234;t 
+        [Donn&#233;es non publi&#233;es]
+    </description>
+					<denomination/>
+					<valeur>300000</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items/>
+			<neant>true</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items/>
+			<neant>true</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d&#8217;une autorit&#233; administrative ind&#233;pendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d&#8217;une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>HATVP</codeOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+				<nomListeOrgane>Autorit&#233;s administratives ind&#233;pendantes</nomListeOrgane>
+				<labelOrgane>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>membre</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Haute Autorit&#233; pour la transparence de la vie publique (HATVP)/membre</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/12/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>Communaut&#233; l&#233;gale r&#233;duite aux acqu&#234;ts</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Pi&#233;rart</nom>
+				<prenom>Odile</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>04/02/1950</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

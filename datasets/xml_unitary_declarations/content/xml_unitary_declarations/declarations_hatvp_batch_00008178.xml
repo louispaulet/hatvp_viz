@@ -1,0 +1,252 @@
+<declarations><declaration>
+		<dateDepot>10/09/2019 14:43:01</dateDepot>
+		<uuid>87066481-d5d3-420b-996a-54c1a57dd414</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis toujours employ&#233; de la structure mais je suis pass&#233; &#224; mi-temps depuis Juillet 2019</commentaire>
+					<description>Cadre dirigeant</description>
+					<employeur>KONIAMBO NICKEL SAS</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>80295</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>80295</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>80295</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>80295</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>100368</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>132085</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>66042</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2013</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association qui g&#232;re un enseignement priv&#233; protestante en nouvelle cal&#233;eonie</commentaire>
+					<nomStructure>Association FELP (F&#233;d&#233;ration de l'enseignement libre et protestante)</nomStructure>
+					<descriptionActivite>Tr&#233;sorier de l'association</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis toujours Maire de cette petite commune de 1452 habitants.</commentaire>
+					<descriptionMandat>Maire de KOUAOUA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>27400</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>36534</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>36524</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>36534</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36524</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>27400</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association qui g&#232;re des &#233;coles en nouvelle cal&#233;donie. Je si&#232;ge au conseil d'administration en tant que tr&#233;sorier, mais la fonction n'est pas r&#233;mun&#233;r&#233;e.</commentaire>
+					<nomSociete>FEDERATION DE L'ENSEIGNEMENT LIBRE ET PROTESTANTE</nomSociete>
+					<activite>TRESORIER DE LASSOCIATION</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2013</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre ou dirigeant d&#8217;une autorit&#233; administrative ind&#233;pendante</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre</typeMandat>
+				<codCategorieMandat>AAI</codCategorieMandat>
+				<nomCategorieMandat>Membre d&#8217;une AAI</nomCategorieMandat>
+				<codTypeMandatFichier>aai</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>AAI</labelOrgane>
+				<codeListeOrgane>AAI</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>MEMBRE DU CONGRES DE LA NOUVELLE CALEDONIE</qualiteDeclarant>
+			<qualiteDeclarantForPDF>MEMBRE DU CONGRES DE LA NOUVELLE CALEDONIE</qualiteDeclarantForPDF>
+			<dateDebutMandat>12/05/2019</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PONGA</nom>
+				<prenom>Alcide</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/05/1975</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

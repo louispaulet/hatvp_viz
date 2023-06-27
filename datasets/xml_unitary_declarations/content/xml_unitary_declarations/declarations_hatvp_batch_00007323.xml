@@ -1,0 +1,275 @@
+<declarations><declaration>
+		<dateDepot>03/08/2020 14:49:45</dateDepot>
+		<uuid>1fce6aae-1d85-42f9-88fd-22fc32b55b21</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>diminution volontaire de mon nombre d'heure en janvier 2019 ce qui explique la baisse de r&#233;mun&#233;ration</commentaire>
+					<description>Psychologue</description>
+					<employeur>Association don bosco</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>31449</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>31882</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>32000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>33154</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>27393</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11242</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Arr&#234;t de ces vacations en juin 2017</commentaire>
+					<description>psychologue charg&#233;e de cours aux futur es CESF</description>
+					<employeur>IDPCES</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>269</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>269</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>250</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En 2020 suite au covid, pas d'intervention &#224; l'ubo mais &#224; priori prestation pay&#233;e en fin d'ann&#233;e 2020</commentaire>
+					<description>Charg&#233;e de cours</description>
+					<employeur>UBO</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>160</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>160</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>108</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>108</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>110</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2015</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A ces revenus il faut &#244;ter le pr&#233;l&#232;vement urssaf trimestriel</commentaire>
+					<description>Psychologue</description>
+					<employeur>SNCF Auto entrepreneur</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>10000</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomStructure>TI coop, supermarch&#233; coop&#233;ratif</nomStructure>
+					<descriptionActivite>Coop&#233;ratrice</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+     </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>29019</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Brest (29)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>adjointe au maire charg&#233;e du quartier de st marc et d&#233;l&#233;gation accueil et accompagnement des victimes</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Brest (29)/adjointe au maire charg&#233;e du quartier de st marc et d&#233;l&#233;gation accueil et accompagnement des victimes</qualiteDeclarantForPDF>
+			<dateDebutMandat>05/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>MORVAN</nom>
+				<prenom>ga&#235;lle</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/07/1971</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,220 @@
+<declarations><declaration>
+		<dateDepot>21/06/2021 21:41:52</dateDepot>
+		<uuid>2f021b40-8885-4857-b70e-a7eaf108c1cd</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>n&#233;ant</employeurConjoint>
+					<activiteProf>n&#233;ant</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ma qualit&#233; de membre est li&#233;e au fait que je suis vice pr&#233;sident en charge de l'enfance et la jeunesse ainsi que des aides &#224; domicile. L'agglom&#233;ration verse des subventions &#224; ces associations pour leur permettre de fonctionner correctement. Ces subventions sont vot&#233;es en s&#233;ance publique dans les Conseils communautaires apr&#232;s avoir &#233;t&#233; valid&#233;es en s&#233;ance de bureau communautaire.</commentaire>
+					<nomStructure>Association BIDIBUL : Cr&#232;che. Association ESPACE DES DEUX RIVES : Accueil de loisirs et cr&#232;che. Association L'OCAL : Accueil de loisirs.</nomStructure>
+					<descriptionActivite>Ces trois associations concernent des cr&#232;ches et des accueils de loisirs sans h&#233;bergements. Je suis membre du Conseil d'administration dans ces trois associations.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Ces indemnit&#233;s sont li&#233;es &#224; la fonction de Maire que j'exerce depuis des ann&#233;es. Elles sont valid&#233;es et vot&#233;es en Conseil municipal tous les ans lors du vote des budgets primitifs. Elles sont comme les indemnit&#233;s de fonction de vice pr&#233;sident, d&#233;clar&#233;es dans mes d&#233;clarations d'imp&#244;ts et font l'objet d'un pr&#233;l&#232;vement &#224; la source apr&#232;s avoir &#233;t&#233; retenues &#224; la source.</commentaire>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>15&#8239;459</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>15&#8239;351</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>15&#8239;818</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>15&#8239;539</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15&#8239;683</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233;s de fonction de vice pr&#233;sident</commentaire>
+					<nomSociete>Agglom&#233;ration Seine Eure</nomSociete>
+					<activite>Vice pr&#233;sdient</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8&#8239;108</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7&#8239;629</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7&#8239;728</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>7&#8239;641</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7&#8239;597</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;685</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Agglom&#233;ration Seine Eure</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Agglom&#233;ration Seine Eure</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>DUFOUR</nom>
+				<prenom>Ren&#233;</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>01/09/1948</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

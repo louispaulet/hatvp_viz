@@ -1,0 +1,538 @@
+<declarations><declaration>
+		<dateDepot>11/08/2022 16:39:39</dateDepot>
+		<uuid>2ff0a1b5-d35e-4f6e-8ae2-cff3370744e8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit de la participation &#224; 2 jurys de VAE musique.</commentaire>
+					<conservee>false</conservee>
+					<description>jury de VAE</description>
+					<employeur>CEFEDEM</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>165</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>165</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2015</dateDebut>
+					<dateFin>10/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>mairie de Dieppe</employeurConjoint>
+					<activiteProf>fonctionnaire territoriale 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>b&#233;n&#233;vole et ne percevra aucune indeminit&#233; &#224; ce titre</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>FEDERATION DES ELUS DES ENTREPRISES PUBLIQUES LOCALES (Fed. EPL)</nomStructure>
+					<descriptionActivite>Administrateur comme personne qualifi&#233;e</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>vice-pr&#233;sident du SMEDAR</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>710</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>8530</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>8530</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>7196</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6609</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6629</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3361</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire de mon poste de maire, je reste conseiller municipal de Dieppe.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>maire de Dieppe / conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>59941</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>51798</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>48822</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>56311</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>59302</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>58488</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>27019</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire pour me conformer &#224; la loi interdisant le cumul des mandants.</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>conseiller r&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24955</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8451</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2015</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sident D&#233;partement</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>41511</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>41511</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>41511</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>41511</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10493</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>04/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#233;missionnaire de mon poste de vice-pr&#233;sident, je reste conseiller communautaire</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Vice-Pr&#233;sident / conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>9146</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>9146</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>9146</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2667</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; gratuite</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Groupement hospitalier de Dieppe</nomSociete>
+					<activite>Menbre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2017</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>PCF</nomSociete>
+					<activite>Membre du conseil national</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>12/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Embauch&#233;e depuis le 19 mars 2018 Fin de la mission Juin 2022</commentaire>
+					<nom>Juilie Dupuis</nom>
+					<employeur/>
+					<descriptionActivite>Assistante parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Damien BECQUART</nom>
+					<employeur/>
+					<descriptionActivite>assistant parlementaire parlementaire depuis Juin 2017</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Employ&#233;e &#224; 1/3 temps. d&#233;mission en Ao&#251;t 2022</commentaire>
+					<nom>Fatima BELAIDI</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>RIEU Valentin</nom>
+					<employeur/>
+					<descriptionActivite>Stagiaire du 16 avril au 29 Juin 2018 travail avec les collaborateur parlementaires sur les dossiers locaux et sur l'activit&#233; du D&#233;put&#233; &#224; l'assembl&#233;e (notes, r&#233;daction, amendements, prises de rendez vous;;;) du</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>WEIL RABAUD Arthur</nom>
+					<employeur/>
+					<descriptionActivite>stagiaire du 4 au 30 Juin 2018 R&#233;daction de notes, suivi du travail parlementaire en lien avec les collaborateurs et le D&#233;put&#233;</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Haverd Lucie</nom>
+					<employeur/>
+					<descriptionActivite>Etudiante en master 2 de droit public a la sorbonne Lucie effectue son stage du4/03/2018 au 28/06 et collabore a l'ensemble des missions d'assistant parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Du 18 mars2019 au 31 juillet, 14 heures par semaine H basire
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Basire Herv&#233;</nom>
+					<employeur>Retrait&#233; de l'Education nationale</employeur>
+					<descriptionActivite>Suivi de l'ensemble du travail parlementaire en lien avec la commission d'enqu&#234;te sur l'&#233;cole inclusive.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>CDI &#224; temps plein 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Rieu Valentin</nom>
+					<employeur/>
+					<descriptionActivite>Travail l&#233;gislatif &#224; l'assembl&#233;e nationale(note, question &#233;crite, orale...)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Khedimallah Sarah</nom>
+					<employeur>Etudiante en droit sarah r&#233;dige les courriers en lien avec le mandat parlementaire et assure le suivi des dossiers de circonscription</employeur>
+					<descriptionActivite>employ&#233;e en circonscription 16 h par semaine d'abord en CDD du 1er novembre au 31 d&#233;cembre puis en CDI &#224; compter du 1er d&#233;cembre 
+        [Donn&#233;es non publi&#233;es]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Contrat depuis Ao&#251;t 2022 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>Olg&#251;n Tulai</nom>
+					<employeur/>
+					<descriptionActivite>assistante parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>76</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-Maritime(76)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Seine-Maritime(76)</qualiteDeclarantForPDF>
+			<dateDebutMandat>21/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>S&#233;bastien</nom>
+				<prenom>JUMEL</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/12/1971</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,503 @@
+<declarations><declaration>
+		<dateDepot>11/07/2022 15:35:10</dateDepot>
+		<uuid>88ca47aa-2bba-4cb2-8a6d-760a01061073</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Cadre m&#233;dico-social aupr&#232;s de personnes en situation de handicap</description>
+					<employeur>Protection Sociale de Vaugirard</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21&#8239;442</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>36&#8239;675</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2017</dateDebut>
+					<dateFin>08/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Stagiaire de la Formation Professionnelle</description>
+					<employeur>UNIFAF</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>9&#8239;407</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17&#8239;999</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>10/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>PDG Plastiques</employeurConjoint>
+					<activiteProf>R&#233;gleur d'automates permettant la fabrication de bouteilles en plastique</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association en sommeil depuis la COVID</commentaire>
+					<nomStructure>Les Amis de Connaissance du Monde Pithiviers</nomStructure>
+					<descriptionActivite>Association diffusant des documentaires sur des villes et r&#233;gions du monde en pr&#233;sence du r&#233;alisateur sur sc&#232;ne.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sident</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Tous Citoyens : R&#233;ussir pour Pithiviers</nomStructure>
+					<descriptionActivite>constituer et soutenir une liste de candidats aux &#233;lections municipales, accompagner les &#233;lus TCRP de Pithiviers et plus largement accompagner l'action citoyenne, informer et &#233;clairer les citoyens sur les enjeux des politiques locales, cr&#233;er du d&#233;bat et de la concertation, d&#233;velopper des projets pour favoriser le vivre ensemble, d&#233;fendre des valeurs de politique sociale, &#233;cologique et solidaire, d&#233;fendre le patrimoine historique et environnemental de la commune de Pithiviers, soutenir des candidats aux autres &#233;lections</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint au Maire de Pithiviers</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>4&#8239;839</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8&#8239;443</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9&#8239;281</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>9&#8239;199</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>9&#8239;540</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>7&#8239;012</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13&#8239;319</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16&#8239;182</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8&#8239;091</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-Pr&#233;sident de la Communaut&#233; de Communes le Coeur du Pithiverais</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2&#8239;546</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>3&#8239;716</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4&#8239;085</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2014</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-Pr&#233;sident du SITOMAP</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2&#8239;852</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4&#8239;814</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4&#8239;824</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4&#8239;891</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3&#8239;720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4&#8239;804</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;916</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2014</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Pr&#233;sident du SITOMAP</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3&#8239;001</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#8239;548</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4&#8239;774</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Vice-Pr&#233;sident de BGV</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;524</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5&#8239;666</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2&#8239;812</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-Pr&#233;sident de la Commuanut&#233; de Communes du Pithiverais</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3&#8239;508</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Administrateur</commentaire>
+					<nomSociete>SIAP</nomSociete>
+					<activite>Entreprise sociale de l'habitat</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>137</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>137</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>137</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>961</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>549</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2016</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CHAMBARD C&#233;dric</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur parlementaire &#224; Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Agricultrice
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>FAUTRAT Marie-Fran&#231;oise</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire &#224; mi-temps en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Buraliste
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nom>DINIZ Sandra</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire &#224; mi-temps en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cumul d'emploi</commentaire>
+					<nom>TOURNON Eric</nom>
+					<employeur>Education Nationale 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>Collaborateur parlementaire en circonscription (9/35&#232;me)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Cumul d'emploi</commentaire>
+					<nom>BRETON V&#233;ronique</nom>
+					<employeur>EHPAD 
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>Collaboratrice parlementaire en circonscription (9/35&#232;me)</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>45</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Loiret(45)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Loiret(45)</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>BROSSE</nom>
+				<prenom>Anthony</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>04/11/1980</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

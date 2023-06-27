@@ -1,0 +1,305 @@
+<declarations><declaration>
+		<dateDepot>15/09/2021 15:29:17</dateDepot>
+		<uuid>9d7d37c2-92ce-441d-9610-ae9e5df50ccf</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#233; conserv&#233;e</commentaire>
+					<description>Conseil en gestion de patrimoine</description>
+					<employeur>Ecofi Patrimoine Gestion</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>60&#8239;015</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>60&#8239;080</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>79&#8239;957</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>79&#8239;940</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>79&#8239;916</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>79&#8239;892</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>18&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Artisan - Individuel en nom propre</employeurConjoint>
+					<activiteProf>Plombier-Chauffagiste</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Un seul mandat exerc&#233; en 2021 : conseill&#232;re d&#233;partementale</commentaire>
+					<descriptionMandat>Conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19&#8239;580</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>20&#8239;910</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>26&#8239;781</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26&#8239;492</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>16&#8239;852</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17&#8239;368</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9&#8239;344</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ECOFI Patrimoine Gestion me verse une r&#233;mun&#233;ration (cf la rubrique activit&#233;s professionnelles) et des dividendes (cf la rubrique participations financi&#232;res).</commentaire>
+					<nomSociete>SARL ECOFI Patrimoine Gestion</nomSociete>
+					<activite>Conseil en gestion de patrimoine</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SARL ECOFI Patrimoine Gestion</nomSociete>
+					<evaluation>100000</evaluation>
+					<remuneration>Dividendes 14 800 &#8364; en 2020</remuneration>
+					<capitalDetenu/>
+					<nombreParts>50</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>109442</evaluation>
+					<remuneration>Revenus fonciers 8 836 &#8364; en 2020</remuneration>
+					<capitalDetenu/>
+					<nombreParts>30</nombreParts>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCPI Immorente Sofidy</nomSociete>
+					<evaluation>99482</evaluation>
+					<remuneration>Revenus fonciers 2 226 &#8364; en 2020</remuneration>
+					<capitalDetenu/>
+					<nombreParts>328</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>79</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Deux-S&#232;vres (79)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>75</organeParent>
+			</organe>
+			<qualiteDeclarant>Vice Pr&#233;sidente en charge du D&#233;veloppement territorial</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Deux-S&#232;vres (79)/Vice Pr&#233;sidente en charge du D&#233;veloppement territorial</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Gerbaud</nom>
+				<prenom>Estelle</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>22/08/1977</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,417 @@
+<declarations><declaration>
+		<dateDepot>26/10/2020 16:32:28</dateDepot>
+		<uuid>99d4c8b6-eb47-4c42-9b2d-2e71f9cf7a2f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>non connu pour 2017 sachant que depuis mon election au senat je ne per&#231;ois rien du cabinet d'avocat auquel je suis associ&#233;, le montant declar&#233; correspondant en realit&#233; &#224; des remboursements de cotisations trop pay&#233;es au seul credit de la scp et non de moi meme Je prendrai officiellement ma retraite d'avocat au 01012021 et conform&#233;ment &#224; ce que j'ai mis en place depuis mon &#233;lection en 2014 je ne per&#231;ois aucune r&#233;mun&#233;ration de la SCP d'avocats &#224; laquelle je suis associ&#233; jusqu'&#224; la fin de l'ann&#233;e 2020.</commentaire>
+					<conservee>false</conservee>
+					<description>avocat</description>
+					<employeur>exercice liberal en tant que membre de la scp davocats portant notamment mon nom</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>96140</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>130006</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2235</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>8735</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5772</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai mentionn&#233; pour 2017 la totalit&#233; de l'ann&#233;e et le chiffre de 2020 va par contre jusqu'&#224; l'&#233;lection de fin septembre.</commentaire>
+					<conservee>true</conservee>
+					<description>parlementaire</description>
+					<employeur>senat</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>12494</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49826</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>49822</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>67&#8239;553</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>66&#8239;808</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>67&#8239;088</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50&#8239;316</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2014</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>exercice liberal</employeurConjoint>
+					<activiteProf>medecin generaliste 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je vous ai d&#233;j&#224; d&#233;clar&#233; par ailleurs mes r&#233;mun&#233;rations &#232;s qualit&#233;s de S&#233;nateur.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Exclusivement S&#233;nateur</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#8239;380</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mes fonctions vont se terminer avec mon d&#233;part &#224; la retraite &#224; la fin de cette ann&#233;e.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>cogerant de la scp d avocats</nomSociete>
+					<activite>fonction benevolequand j'exer&#231;ais effectivement je beneficiais simplement de ma part de resultats li&#233;s a l'activit&#233; realis&#233;e</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mes fonctions de co g&#233;rant b&#233;n&#233;vole vont cesser avec la vente &#224; la fin de cette ann&#233;e de mes parts dans la SCI 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<nomSociete>cogerant de la sci 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<activite>cogerance benevole de la sci 
+        [Donn&#233;es non publi&#233;es]
+    </activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2012</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>je n ai pas de participations directes a l'excetion de quelques parts de client mutualiste &#224; la bpo pour 170 eurosje suis egalement titulaire de parts dans deux sci
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>j ai mis 0 partout parce qu 'a l'exception de parts bpo pour 160 euros et de parts casden bpo je ne detiens pas de participation financiere par precaution je declare en revenus mobiliers 34 euros en 2012 20 euros en 2013 4 euros en 2014 18euros en 2015 4 euros en 2016 et probablement idem en 2017 je n'ai trouv&#233; aucune rubrique pour les revenus fonciers et pref&#232;re par prudence les declarer ici aussi meme s'ils figurent dans ma declaration de patrimoine soit 11060 euros en 2012 7973 en 2013 10582 en 2014 14251 en 2015 14982 en 2016 et 7000 euros ( non enore exactement connu ) en 2017</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>plein temps</commentaire>
+					<nom>jacob catherine</nom>
+					<employeur>neant</employeur>
+					<descriptionActivite>secretariat administratif complet</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A plein temps &#224; compter du 16 d&#233;cembre 2020</commentaire>
+					<nom>theron laurie</nom>
+					<employeur>Mademoiselle Th&#233;ron travaille &#224; temps partiel pour le S&#233;nateur Vogel jusqu'au 5 novembre 2020
+        [Donn&#233;es non publi&#233;es]
+    </employeur>
+					<descriptionActivite>attachee parlementaire notamment communication et recherches-documentation</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>temps partiel</commentaire>
+					<nom>parmentier genevieve</nom>
+					<employeur>neant</employeur>
+					<descriptionActivite>attachee parlementaire volet legislatif correspondances et gestion dossiers</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>81</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Tarn(81)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Tarn(81)</qualiteDeclarantForPDF>
+			<dateDebutMandat>27/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>bonnecarrere</nom>
+				<prenom>philippe</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/07/1955</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

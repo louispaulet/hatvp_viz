@@ -1,0 +1,580 @@
+<declarations><declaration>
+		<dateDepot>12/08/2022 15:25:24</dateDepot>
+		<uuid>9144a02c-5945-4b35-be2b-e77e5913ce72</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Montant net avant IR. Pour 2022, j'ai mis le cumul jusqu'au 31/07. Je ne sais pas encore si je maintiens une activit&#233; &#224; temps tr&#232;s partiel, c'est en cours de discussion. Le d&#233;ontologue de l'assembl&#233;e m'a d&#233;j&#224; indiqu&#233; que c'&#233;tait possible, car j'ai une fonction uniquement technique chez Orange (salari&#233; de droit priv&#233;)</commentaire>
+					<conservee>true</conservee>
+					<description>Ing&#233;nieur syst&#232;mes et r&#233;seaux</description>
+					<employeur>Orange</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>46&#8239;916</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>48&#8239;256</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>48&#8239;856</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>49&#8239;310</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>48&#8239;527</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26&#8239;310</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#233;</label>
+					</motif>
+					<commentaire>Associ&#233;e g&#233;rante de la SELARL
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>SELARL Pharmacie 
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Pharmacie</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11&#8239;058</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>12&#8239;926</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13&#8239;070</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>14&#8239;464</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>17&#8239;333</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8&#8239;019</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Conseiller communautaire depuis mi 2015, j'arr&#234;te la d&#233;claration au 10/07/2020 lorsque j'y suis devenu vice pr&#233;sident</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1&#8239;319</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1&#8239;372</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1&#8239;296</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>634</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J'ai d&#233;missionn&#233; de mon mandat de VP et de conseiller communautaire le 18/7/2022</commentaire>
+					<descriptionMandat>Vice-pr&#233;sident d'EPCI</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8&#8239;925</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19&#8239;052</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>10&#8239;281</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je reste conseiller municipal suite &#224; ma d&#233;mission de ma fonction de Maire</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration/>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je ne suis plus au CA depuis 07/2020.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEM Territoires et D&#233;veloppement</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2950</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2950</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2950</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1475</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je ne suis plus membre de l'AMF35 et donc plus membre du CA suite &#224; ma d&#233;mission de mon mandat de maire toute fin juin 2022.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>AMF35</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je ne suis plus membre du CA depuis 07/2020</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPLA Territoires publics</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Je ne suis plus membre du CA depuis 07/2020</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SPLA Via Silva</nomSociete>
+					<activite>membre du conseil d'administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je ne suis plus membre suite &#224; ma d&#233;mission de Rennes M&#233;tropole (j'&#233;tais repr&#233;sentant de RM)</commentaire>
+					<nomSociete>SPL Destination Rennes</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne suis plus membre ayant d&#233;missionn&#233; de Rennes M&#233;tropole (j'y &#233;tais repr&#233;sentant de RM)</commentaire>
+					<nomSociete>Agence D&#233;veloppement Touristique 35</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne suis plus membre depuis ma d&#233;mission de Rennes M&#233;tropole. j'y &#233;tais repr&#233;sentant de RM, de part ma fonction de VP Tourisme.</commentaire>
+					<nomSociete>Comit&#233; R&#233;gional Tourisme Bretagne</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je n'y suis plus apr&#232;s le 18/7/2022 car li&#233; &#224; ma vice pr&#233;sidence Tourisme de Rennes M&#233;tropole</commentaire>
+					<nomSociete>OTB F&#233;d&#233;rations des Offices de Tourisme de Bretagne</nomSociete>
+					<activite>membre du Conseil d'Administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Salari&#233; d'Orange, je suis actionnaire salari&#233;, via des actions en propre (donn&#233;es ou acquises). 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Orange</nomSociete>
+					<evaluation>1750</evaluation>
+					<remuneration>Dividendes 2021 0,7&#8364;/action/an soit 121&#8364;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>173</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>RIBARDIERE Astrid</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice &#224; temps plein &#224; Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Est en parall&#232;le &#233;tudiant en droit &#224; l'universit&#233; de Rennes</commentaire>
+					<nom>DELERIN Nicolas</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur &#224; mi temps en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>35</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Ille-et-Vilaine(35)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Ille-et-Vilaine(35)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>BOULOUX</nom>
+				<prenom>Micka&#235;l</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/08/1972</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

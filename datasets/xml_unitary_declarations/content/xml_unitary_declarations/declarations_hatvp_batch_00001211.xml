@@ -1,0 +1,390 @@
+<declarations><declaration>
+		<dateDepot>07/09/2021 20:56:19</dateDepot>
+		<uuid>c7c16e3d-f87e-4e62-b27b-62c36bd54880</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>BB.pdf</fileName>
+				<serverFileName>c7c16e3d-f87e-4e62-b27b-62c36bd54880_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>en disponibilit&#233; &#224; partir du 1er Juillet 2015 jusqu'au 1er F&#233;vrier 2018 ensuite retraite</commentaire>
+					<conservee>false</conservee>
+					<description>Assistante de r&#233;gulation m&#233;dicale</description>
+					<employeur>Centre hospitalier Chamb&#233;ry</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>24612</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>24612</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>24612</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24612</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>12306</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>07/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>AUCUN SALAIRE PUISQU'EN DISPONIBILITE</commentaire>
+					<description>EN DISPONIBILITE</description>
+					<employeur>CENTRE HOSPITALIER</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2015</dateDebut>
+					<dateFin>02/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>donn&#233;es demand&#233;es par mail jusqu'au 1er F&#233;vrier 2020</commentaire>
+					<description>RETRAITEE</description>
+					<employeur>CENTRE HOSPITALIER</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16&#8239;943</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20&#8239;022</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6&#8239;674</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2018</dateDebut>
+					<dateFin>04/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>arr&#234;t de cette activit&#233; le 1er janvier 2021</commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>VILLE DE CHAMBERY</employeurConjoint>
+					<activiteProf>OPERATEUR 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>CONSEIL DEPARTEMENTAL</employeurConjoint>
+					<activiteProf>Retrait&#233; depuis le 1er janvier 2016</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2139 &#8364; bruts mensuels pour 2020 avant imp&#244;ts sur le revenu je suis toujours maire de ma commune sur ce mandat donc r&#233;mun&#233;ration idem</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire de Jacob-bellecombette</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19&#8239;669</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;139</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1516 &#8364; bruts mensuels pour 2020 avant imp&#244;ts sur le revenu je suis &#224; nouveau VP sur ce mandat donc r&#233;mun&#233;ration idem</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sidente de Grand Chamb&#233;ry</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>12&#8239;928</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1&#8239;516</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2722 &#8364; bruts mensuels pour 2020 avant imp&#244;ts je ne suis plus vice pr&#233;sidente au conseil d&#233;partemental sur ce nouveau mandat mais uniquement conseill&#232;re d&#233;partementale</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sidente du Conseil d&#233;partemental de la Savoie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25&#8239;134</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;722</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>486 &#8364; bruts mensuels pour 2020 avant imp&#244;ts sur le revenu je ne suis plus vice-pr&#233;sidente dans le nouveau mandat mais je ne sais pas si je dois l'annuler.....</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-Pr&#233;sidente au SDIS Savoie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4&#8239;375</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>486</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>nomm&#233;e Pr&#233;sidente du conseil d'administration du SDIS 73 &#224; compter du 16 juillet 2021 et suite aux &#233;lections d&#233;partementales de 2021 1716 &#8364; d&#233;clar&#233; pour l'instant et qui correspond &#224; : &#8226; 486,17 &#8364; pour le mois de juillet, &#8226; 972,35 &#8364; pour les mois d'ao&#251;t et septembre.</commentaire>
+					<descriptionMandat>Pr&#233;sidente du SDIS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;716</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je commence un nouveau mandat en tant que conseill&#232;re d&#233;partementale indemnit&#233; 1233 &#8364; apr&#232;s imp&#244;ts</commentaire>
+					<descriptionMandat>conseill&#232;re d&#233;partementale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1&#8239;526</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>Depuis 2020 je suis &#224; nouveau maire de ma commune et vp au sein de l'agglom&#233;ration (pas de changement par rapport au dernier mandat) Depuis 2021 je suis conseill&#232;re d&#233;partementale et Pr&#233;sidente du SDIS 73 (je ne suis plus VP au d&#233;partement comme dans le mandat pr&#233;c&#233;dent, mais conseill&#232;re d&#233;partementale uniquement, par contre je suis Pr&#233;sidente du SDIS) je per&#231;ois des indemnit&#233;s pour : - maire, - VP &#224; l'agglom&#233;ration Grandchamb&#233;ry, - conseill&#232;re D&#233;partementale - Pr&#233;sidente du SDIS 73 
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>73</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Savoie (73)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>84</organeParent>
+			</organe>
+			<qualiteDeclarant>Pr&#233;sidente du SDIS ET conseill&#232;re d&#233;partementale</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Savoie (73)/Pr&#233;sidente du SDIS ET conseill&#232;re d&#233;partementale</qualiteDeclarantForPDF>
+			<dateDebutMandat>16/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>BOCHATON</nom>
+				<prenom>BRIGITTE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/01/1958</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

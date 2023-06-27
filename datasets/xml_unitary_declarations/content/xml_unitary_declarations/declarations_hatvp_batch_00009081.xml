@@ -1,0 +1,572 @@
+<declarations><declaration>
+		<dateDepot>13/11/2020 14:42:15</dateDepot>
+		<uuid>8b4424ca-e88d-408f-94eb-0c8b5b16b594</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>HATVP justificatifs juillet 2020.pdf</fileName>
+				<serverFileName>8b4424ca-e88d-408f-94eb-0c8b5b16b594_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>D&#195;&#169;claration d'int&#195;&#169;r&#195;&#170;ts JUILLET_2015_2020.xlsx</fileName>
+				<serverFileName>8b4424ca-e88d-408f-94eb-0c8b5b16b594_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Elu le 23/03/2014 Elu le 23/05/2020 Indemnit&#233;s de 2017 &#224; 2020 net avant imp&#244;ts sur le revenu et retenue &#224; la source Pour 2020 : Indemnit&#233;s &#233;lu de janvier &#224; octobre 2020 net avant retenue &#224; la source</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Maire d'Issy-les-Moulineaux</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5795</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20637</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21848</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>22&#160;931</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Compl&#233;ments d'informations En 2017 AN r&#233;mun&#233;ration : 33917euros Fin de mandat 11/06/2017 + Retraite de D&#233;put&#233; 39147 euros Revenus net fiscaux au 31/12/2017 </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>D&#233;put&#233;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>54446</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>54263</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33917</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Elu : 21/05/2014 de 2015 &#224; 2019 Net avant imp&#244;ts sur le revenu et pr&#233;l&#232;vement &#224; la source Pour 2020 : de janvier &#224; octobre net avant retenue &#224; la source 2015 et 2016 : indemnit&#233;s frais non imp&#244;sables</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident Syndicat des Eaux d'Ile de France</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>1148</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1150</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>18740</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16490</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18099</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#160;056</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Elu le 01/09/2005 fin de mandat 01/06/2014 Pas de r&#233;mun&#233;ration </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident Comit&#233; de Bassin Seine Normandie</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>06/2014</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Li&#233; au mandat de Maire Syndicat des ordures m&#233;nag&#232;res Net avant imp&#244;ts sur le revenu et retenue &#224; la source Pour 2020 : Elu le 24/09/2020 Indemnit&#233;s de janvier &#224; septembre pas de salaire en octobre</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-pr&#233;sident du SYCTOM </descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7149</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>7176</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>7658</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>8221</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9519</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5&#160;588</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>SYELOM (dissolu) li&#233; au SYCTOM Li&#233; au mandat de maire Net fiscal </commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-pr&#233;sident du SYELOM</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6271</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6277</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>12/2016</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Elu le 5/01/2016 R&#233;&#233;lu le 10/07/2020 Indemnit&#233;s &#233;cr&#233;t&#233;es Incompatibles avec celles per&#231;ues de la M&#233;tropole du Grand Paris en qualit&#233; de Vice-pr&#233;sident</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-pr&#233;sident EPT GPSO</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident SEM Arc de Seine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>12/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Pr&#233;sident de droit</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Pr&#233;sident CCAS ville Issy-les-Moulineaux</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>03/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle fonction ou nouveau mandat</label>
+					</motif>
+					<commentaire>Elu Vice-pr&#233;sident le 22/01/2016 Elu Conseiller m&#233;tropolitain le 9 juillet 2020 et Vice-pr&#233;sident le 4/09/2020 Indemnit&#233;s net avant imp&#244;ts sur le revenu et retenue &#224; la source Pour 2020 : de janvier &#224; octobre</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Vice-pr&#233;sident de la M&#233;tropole du Grand Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>8634</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22827</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25717</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13&#160;542</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Pas de r&#233;mun&#233;ration en activit&#233; du 08/07/2010 au 01/07/2015</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Soci&#233;t&#233; du grand Paris</nomSociete>
+					<activite>Pr&#233;sident du Conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2015</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Soci&#233;t&#233; d'Economie Mixte de l'Arc de Seine Activit&#233; de location de terrains et d'autres biens immobiliers Pr&#233;sident du CA</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>SEMADS</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle participation</label>
+					</motif>
+					<commentaire>Pr&#233;sident du CA depuis le 16/10/2017 Office public de l'Habitat Auparavant Vice-pr&#233;sident R&#233;&#233;lu Pr&#233;sident le 4/09/2020</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>Seine Ouest Habitat</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2017</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>M&#233;tropole du Grand Paris</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/M&#233;tropole du Grand Paris</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/09/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SANTINI</nom>
+				<prenom>Andr&#233;</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>20/10/1940</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,648 @@
+<declarations><declaration>
+		<dateDepot>15/04/2023 02:12:58</dateDepot>
+		<uuid>ead4b7ce-b4ad-406c-acf7-3fcfaa26e4ae</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>0</declarationVersion>
+		<immeubleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 44)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>40</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2010</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>95000</prixAcquisition>
+					<prixTravaux>30000</prixTravaux>
+					<valeurVenale>136000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Appartement</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 94)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>20</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2013</dateAcquisition>
+					<origine>Donation</origine>
+					<droitReel>Nue-propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>51900</prixAcquisition>
+					<prixTravaux>0</prixTravaux>
+					<valeurVenale>83000</valeurVenale>
+					<regimeJuridique>Bien indivis</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>la superficie non bati est de 1330 m2 etla maison fait 20m2</commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 44)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>1330</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2018</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>9500</prixAcquisition>
+					<prixTravaux/>
+					<valeurVenale>12000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>financement cr&#233;dit &#224; la banque postale et apport de 25000 euros pour les frais de notaire --- Sortie de l'indivision le 10/03/2023 avec un rachat de la soult des 30% et acquisition de la pleine propri&#233;t&#233; . Rachat du pr&#234;t de la banque postale par la banque populaire</commentaire>
+					<nature>Maison individuelle</nature>
+					<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 44)
+        </codePostal>
+					<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+					<superficieBati>180</superficieBati>
+					<superficieNonBati>0.0</superficieNonBati>
+					<dateAcquisition>2019</dateAcquisition>
+					<origine>Acquisition</origine>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<quotePart>100.0</quotePart>
+					<prixAcquisition>375000</prixAcquisition>
+					<prixTravaux>52000</prixTravaux>
+					<valeurVenale>550000</valeurVenale>
+					<regimeJuridique>Bien propre</regimeJuridique>
+				</items>
+			</items>
+			<neant>false</neant>
+		</immeubleDto>
+		<sciDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI familiale 
+        [Donn&#233;es non publi&#233;es]
+     Soit un total de passif pour la SCI de 448 188 euros au 1 ao&#251;t 2020 dont 8 962 euros pour moi compte tenu de ma quote part</commentaire>
+					<conservee>false</conservee>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>2.0</capitalDetenu>
+					<autreActif/>
+					<passif>
+        [Donn&#233;es non publi&#233;es]
+     : Initialement de 315 000 euros - restant au 1 ao&#251;t 2020 303 485 euros soit 6069.7 euros compte tenu de ma quote part de 2% 
+        [Donn&#233;es non publi&#233;es]
+     : Initialement de 63 500 euros - restant au 1 ao&#251;t 2020 53 356.76 euros soit 1067.12 euros compte tenu de ma quote part de 2% 
+        [Donn&#233;es non publi&#233;es]
+     : Initialement de 110 000 euros - restant au 1 ao&#251;t 2020 91 347.75 euros soit 1826.94 euros compte tenu de ma quote part de 2% Soit un total de passif pour la SCI de 448 188 euros au 1 ao&#251;t 2020 dont de ma quote part 8 962 euros .</passif>
+					<valeur>4000</valeur>
+					<immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<conservee>false</conservee>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 93)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>30</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2014</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>63500</prixAcquisition>
+							<prixTravaux>15000</prixTravaux>
+							<valeurVenale>88000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire/>
+							<conservee>false</conservee>
+							<nature>Appartement</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 93)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>48</superficieBati>
+							<superficieNonBati>0.0</superficieNonBati>
+							<dateAcquisition>2014</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>100.0</quotePart>
+							<prixAcquisition>110000</prixAcquisition>
+							<prixTravaux>25000</prixTravaux>
+							<valeurVenale>145000</valeurVenale>
+						</immeublesSci>
+						<immeublesSci>
+							<motif>
+								<id>CREATION</id>
+								<label/>
+							</motif>
+							<commentaire>Valeur d'achat du bien est de 305000 euros . Montant total d'emprunt 315000 euros aupr&#232;s de la BNP sur une dur&#233;e de 17 ans</commentaire>
+							<nature>Maison individuelle</nature>
+							<adresse>
+            [Donn&#233;es non publi&#233;es]
+        </adresse>
+							<codePostal>
+            [Donn&#233;es non publi&#233;es] (D&#233;partement : 44)
+        </codePostal>
+							<localite>
+            [Donn&#233;es non publi&#233;es]
+        </localite>
+							<superficieBati>165</superficieBati>
+							<superficieNonBati>0.11</superficieNonBati>
+							<dateAcquisition>2020</dateAcquisition>
+							<origine>Acquisition</origine>
+							<droitReel>Pleine propri&#233;t&#233;</droitReel>
+							<quotePart>2.0</quotePart>
+							<prixAcquisition>305000</prixAcquisition>
+							<prixTravaux>10000</prixTravaux>
+							<valeurVenale>6100</valeurVenale>
+						</immeublesSci>
+					</immeublesSci>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Le capital est fix&#233; &#224; la somme de 500 euros. Il est divis&#233; en 500 parts sociales de 1 euros chacune, lib&#233;r&#233;es &#224; hauteur de 100% , enti&#232;rement souscrites et attribu&#233;es en totalit&#233; par les associ&#233;s et attribu&#233;es &#224; chacun d&#8217;eux en proportion de leurs apports respectifs.</commentaire>
+					<denomination>
+            [Donn&#233;es non publi&#233;es]
+        </denomination>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+					<capitalDetenu>98.0</capitalDetenu>
+					<autreActif>Aucun</autreActif>
+					<passif>Aucun</passif>
+					<valeur>490</valeur>
+					<immeublesSci/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</sciDto>
+		<valeursNonEnBourseDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCOP - Part de salari&#233; - soci&#233;taire.
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<denomination>UP</denomination>
+					<valeurActuelle>19893</valeurActuelle>
+					<participation>1.0</participation>
+					<droitReel>Pleine propri&#233;t&#233;</droitReel>
+				</items>
+			</items>
+			<neant>false</neant>
+		</valeursNonEnBourseDto>
+		<valeursEnBourseDto>
+			<neant>true</neant>
+		</valeursEnBourseDto>
+		<assuranceVieDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Sarah EL HAIRY</souscripteur>
+					<etablissement>AGIPI AV AXA</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>07/01/2022</dateSouscription>
+					<valeurRachat>949</valeurRachat>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<souscripteur>Sarah EL HAIRY</souscripteur>
+					<etablissement>AGIPI PER AXA</etablissement>
+					<reference>
+            [Donn&#233;es non publi&#233;es]
+        </reference>
+					<dateSouscription>30/12/2021</dateSouscription>
+					<valeurRachat>8881</valeurRachat>
+				</items>
+			</items>
+			<neant>false</neant>
+		</assuranceVieDto>
+		<comptesBancaireDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>CREDIT MUTUEL</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>48</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>AXA</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>577</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>COMPTE OUVERT LE 19 JUIN 2017 A L ASSEMBLEE NATIONALE</commentaire>
+					<conservee>false</conservee>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>LA POSTE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>940</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>AXA BANQUE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>9104</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte esp&#232;ces</typeCompte>
+					<etablissement>CREDIT MUTUEL</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>41</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>CAISSE EPARGNE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>18</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>BNP PARIBAS</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>-502</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>compte joint</commentaire>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>LA BANQUE POSTALE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY / 
+        [Donn&#233;es non publi&#233;es]
+    </titulaire>
+					<valeur>1269</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Livret A</typeCompte>
+					<etablissement>LAPOSTE</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY</titulaire>
+					<valeur>3100</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<typeCompte>Compte courant</typeCompte>
+					<etablissement>Banque populaire</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>480</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>livret B n&#176; 
+        [Donn&#233;es non publi&#233;es]
+     ouvert le 8 mars 2023 aupr&#232;s de la Banque Populaire et dont le solde est de 10 &#8364; ;</commentaire>
+					<typeCompte>Compte d'&#233;pargne</typeCompte>
+					<etablissement>BPGO</etablissement>
+					<numeroCompte>
+            [Donn&#233;es non publi&#233;es]
+        </numeroCompte>
+					<titulaire>EL HAIRY SARAH</titulaire>
+					<valeur>10</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</comptesBancaireDto>
+		<bienDiverDto>
+			<neant>true</neant>
+		</bienDiverDto>
+		<vehiculeDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>PEUGEOT 206</marque>
+					<anneeAchat>2009</anneeAchat>
+					<valeurAchat>3500</valeurAchat>
+					<valeur>1500</valeur>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>achet&#233; aux ench&#232;res 1ere mise en circulation 2007</commentaire>
+					<nature>Terrestre &#224; moteur</nature>
+					<marque>scenic</marque>
+					<anneeAchat>2020</anneeAchat>
+					<valeurAchat>1800</valeurAchat>
+					<valeur>1800</valeur>
+				</items>
+			</items>
+			<neant>false</neant>
+		</vehiculeDto>
+		<fondDto>
+			<neant>true</neant>
+		</fondDto>
+		<autreBienDto>
+			<neant>true</neant>
+		</autreBienDto>
+		<bienEtrangerDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nature>COMPTE BANCAIRE DIRHAMS CONVERTIBLE</nature>
+					<localisation>
+            [Donn&#233;es non publi&#233;es]
+        </localisation>
+					<valeur>30</valeur>
+					<description>
+        [Donn&#233;es non publi&#233;es]
+    </description>
+				</items>
+			</items>
+			<neant>false</neant>
+		</bienEtrangerDto>
+		<passifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Taux int&#233;r&#234;t nominal 3.11%</commentaire>
+					<nomCreancier>BANQUE POPULAIRE 
+        [Donn&#233;es non publi&#233;es]
+    </nomCreancier>
+					<adresseCreancier>
+            [Donn&#233;es non publi&#233;es]
+        </adresseCreancier>
+					<nature>emprunt bancaire</nature>
+					<datePassif>24/02/2023</datePassif>
+					<objetDette>pret immobilier maison principale</objetDette>
+					<montant>422458</montant>
+					<duree>300</duree>
+					<restantDu>422458</restantDu>
+					<mensualite>2283</mensualite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</passifDto>
+		<revenuMandatDto>
+			<items/>
+			<neant>false</neant>
+		</revenuMandatDto>
+		<evenementMajeurDto>
+			<items/>
+			<neant>false</neant>
+		</evenementMajeurDto>
+		<observationPatrimoineDto>
+			<items/>
+			<neant>true</neant>
+		</observationPatrimoineDto>
+		<general>
+			<typeDeclaration>
+				<id>DSP</id>
+				<label>D&#233;claration de situation patrimoniale modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Membre du Gouvernement</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>&#65279;Membre</typeMandat>
+				<codCategorieMandat>GVT</codCategorieMandat>
+				<nomCategorieMandat>Membre du Gouvernement</nomCategorieMandat>
+				<codTypeMandatFichier>gouvernement</codTypeMandatFichier>
+				<labelTypeMandat/>
+				<labelOrgane>Intitul&#233; du minist&#232;re</labelOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>secjsnu</codeOrgane>
+				<codeListeOrgane>MIN</codeListeOrgane>
+				<nomListeOrgane>Minist&#232;res</nomListeOrgane>
+				<labelOrgane>Secr&#233;tariat d'&#201;tat charg&#233; de la jeunesse et du service national universel</labelOrgane>
+				<labelDeclaration>Secr&#233;taire d'&#201;tat aupr&#232;s du ministre des arm&#233;es et du ministre de l'&#233;ducation nationale et de la jeunesse, charg&#233;e de la jeunesse et du service national universel</labelDeclaration>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Secr&#233;taire d'&#201;tat aupr&#232;s du ministre des arm&#233;es et du ministre de l'&#233;ducation nationale et de la jeunesse, charg&#233;e de la jeunesse et du service national universel</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial>N&#233;ant</regimeMatrimonial>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>El Ha&#239;ry</nom>
+				<prenom>SARAH</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>16/03/1989</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

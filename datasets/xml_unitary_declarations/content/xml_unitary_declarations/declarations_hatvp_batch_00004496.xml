@@ -1,0 +1,286 @@
+<declarations><declaration>
+		<dateDepot>22/10/2017 18:32:44</dateDepot>
+		<uuid>1ac2d85a-2bee-4552-99f6-6541a90ac257</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>fullsizeoutput_6c7.jpeg</fileName>
+				<serverFileName>1ac2d85a-2bee-4552-99f6-6541a90ac257_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>fullsizeoutput_6ca.jpeg</fileName>
+				<serverFileName>1ac2d85a-2bee-4552-99f6-6541a90ac257_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon activit&#233; sera r&#233;duite &#224; 10/15% d'un temps plein pendant la dur&#233;e du mandat.</commentaire>
+					<conservee>true</conservee>
+					<description>Co-g&#233;rant d'une SARL d'Architecture</description>
+					<employeur>SARL BA.ba Architecture</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>28167</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>29904</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>28971</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>30189</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>30831</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>30163</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Conseil D&#233;partemental de l'Is&#232;re</employeurConjoint>
+					<activiteProf>Cat&#233;gorie B - Fonctionnaire territoriale.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin du mandat de Maire le 23 septembre 2017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>MAIRE DE LE PERCY</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>6336</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>6336</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>6338</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6340</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>6340</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6342</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6342</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2011</dateDebut>
+					<dateFin>10/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis Co-gerant de la SARL d'architecture BA.ba Architecture. Ma r&#233;mun&#233;ration est pr&#233;cis&#233;e dans la rubrique professionnelle. Il s'agit ici des dividendes per&#231;us.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SARL BA.ba Architecture</nomSociete>
+					<activite>SARL d'Architecture</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>350</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>350</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>350</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>350</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>350</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2012</dateDebut>
+					<dateFin>09/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d'autres employeurs &#224; ma connaissance. Poste &#224; 100%.</commentaire>
+					<nom>LAVAU Delphine</nom>
+					<employeur>?</employeur>
+					<descriptionActivite>?</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d'autres employeurs &#224; ma connaissance. Poste &#224; 100%.</commentaire>
+					<nom>DUQUESNE Fabien</nom>
+					<employeur>?</employeur>
+					<descriptionActivite>?</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>S&#233;nateur</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>senateur</codTypeMandatFichier>
+				<labelTypeMandat>S&#233;nateur</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>38</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Is&#232;re(38)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>S&#233;nateur/Is&#232;re(38)</qualiteDeclarantForPDF>
+			<dateDebutMandat>24/09/2017</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Gontard</nom>
+				<prenom>Guillaume</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>11/03/1971</dateNaissance>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

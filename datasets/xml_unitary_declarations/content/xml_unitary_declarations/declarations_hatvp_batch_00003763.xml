@@ -1,0 +1,243 @@
+<declarations><declaration>
+		<dateDepot>24/08/2020 19:53:39</dateDepot>
+		<uuid>f912e713-c40e-4d77-998f-0dbe6e209d55</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>TOTAL SA</employeurConjoint>
+					<activiteProf>Assistante de direction 
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour 2020, total brut de Janvier &#224; Aout 2020</commentaire>
+					<descriptionMandat>MAIRE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>5017</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>5017</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>5032</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5104</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5109</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5133</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3507</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233;s de Janvier 2020 &#224; Juillet 2020</commentaire>
+					<descriptionMandat>Pr&#233;sident du syndicat Mixte eau et assainissement des trois cantons</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>6806</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>9880</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>9909</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10050</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10060</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10109</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5897</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Indemnit&#233;s de d&#233;l&#233;gu&#233; du mois de Janvier 2020 au mois de Juin 2020</commentaire>
+					<descriptionMandat>D&#233;l&#233;gu&#233; du Bureau Communaut&#233; d'Agglomeration de Pau Bearn Pyrenees</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>5995</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6015</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6043</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3022</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>CAPBP (Communaut&#233; d'Agglomeration Pau Bearn Pyrenees)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Vice Pr&#233;sident EPCI + 100 000 hab</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/CAPBP (Communaut&#233; d'Agglomeration Pau Bearn Pyrenees)/Vice Pr&#233;sident EPCI + 100 000 hab</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>FAURE</nom>
+				<prenom>philippe</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>24/01/1955</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

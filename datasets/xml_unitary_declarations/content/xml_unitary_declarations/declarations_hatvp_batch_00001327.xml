@@ -1,0 +1,660 @@
+<declarations><declaration>
+		<dateDepot>01/09/2022 19:05:32</dateDepot>
+		<uuid>a6570d62-78a6-4224-9838-029d0ddfaa11</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>aucune activit&#233; - compte auto entrepreneur en cours de radiation Je n&#8217;exerce plus cette activit&#233;</commentaire>
+					<nomEmployeur>auto-entreprise</nomEmployeur>
+					<description>expertises, &#233;valuations immobilieres</description>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mon contrat de collaborateur a pris fin au 27 juin 2021.</commentaire>
+					<description>Collaborateur de groupe politique "Notre R&#233;gion d'avance"</description>
+					<employeur>R&#233;gion Bourgogne Franche comt&#233;</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>24860</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24860</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24860</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24860</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>24860</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#160;430</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2016</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>conseiller am&#233;nagement foncier</description>
+					<employeur>chambre d'agriculture de c&#244;te d'or</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>19200</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>1600</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2014</dateDebut>
+					<dateFin>01/2016</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mandat 2014-2020</commentaire>
+					<descriptionMandat>conseiller municipal de dijon d&#233;l&#233;gu&#233; au commerce</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>7911</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>10440</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>10440</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>10440</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>10440</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10440</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>6090</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mandat 2014-2020</commentaire>
+					<descriptionMandat>conseiller dijon metropole d&#233;l&#233;gu&#233; &#224; l'agriculture</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>9600</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14400</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mandat 2020-2026 D&#233;mission de mon mandat municipal le 15 juillet 2022</commentaire>
+					<descriptionMandat>Adjoint aux anciens combattants, devoir de m&#233;moire, engagement citoyen et d&#233;fense nationale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24&#8239;000</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>mandat 2020-2026 D&#233;mission avec mon mandat de conseiller municipal le 15 juillet 2022</commentaire>
+					<descriptionMandat>conseiller dijon m&#233;tropole d&#233;l&#233;gu&#233; agriculture et viticulture</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7&#8239;200</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14&#8239;400</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>7&#8239;200</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>L&#8217;indemnit&#233; net est d&#8217;environ 1850 euros par mois. Pour 2021, j&#8217;ai indiqu&#233; ainsi les mois de juillet &#224; d&#233;cembre 2021</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller d&#233;partemental de c&#244;te d&#8217;or</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11&#160;100</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11&#8239;000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>activit&#233; b&#233;n&#233;vole Ne peut plus si&#233;ger suite &#224; ma d&#233;mission du conseil municipal de Dijon le 15 juillet 2022</commentaire>
+					<nomSociete>association Terres en Villes</nomSociete>
+					<activite>membre du conseil d'administatrion</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune r&#233;mun&#233;ration n&#8217;est pr&#233;vue Ne peut plus si&#233;ger suite &#224; ma d&#233;mission du conseil municipal de Dijon le 15 juillet 2022</commentaire>
+					<nomSociete>Office de tourisme dijon m&#233;tropole</nomSociete>
+					<activite>Membre du conseil d&#8217;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune r&#233;mun&#233;ration n&#8217;est pr&#233;vue Ne peut plus si&#233;ger suite &#224; ma d&#233;mission du conseil municipal de Dijon le 15 juillet 2022</commentaire>
+					<nomSociete>EPFL</nomSociete>
+					<activite>Membre du conseil d&#8217;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune r&#233;mun&#233;ration n&#8217;est pr&#233;vue</commentaire>
+					<nomSociete>latitude21</nomSociete>
+					<activite>Membre du conseil d&#8217;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune r&#233;mun&#233;ration n&#8217;est pr&#233;vue Ne peut plus si&#233;ger suite &#224; ma d&#233;mission du conseil municipal de Dijon le 15 juillet 2022</commentaire>
+					<nomSociete>Syndicat du bassin de la vouge</nomSociete>
+					<activite>Membre de l&#8217;assembl&#233;e</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>parts d&#233;tenues en nu-propri&#233;t&#233; suite 
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+     succession. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SCEA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>208915</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>6</capitalDetenu>
+					<nombreParts>5619</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>parts d&#233;tenues en nu-propri&#233;t&#233; suite
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+    succession. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>Groupement Foncier Agricole 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>104954</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>129</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>parts d&#233;tenues en nu-propri&#233;t&#233; suite 
+        [Donn&#233;es non publi&#233;es]
+    
+        [Donn&#233;es non publi&#233;es]
+     succession. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>GFA 
+        [Donn&#233;es non publi&#233;es]
+    </nomSociete>
+					<evaluation>665725</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>10</capitalDetenu>
+					<nombreParts>4916</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Lariepe Adrien</nom>
+					<employeur>Collaborateur &#224; mi temps aupr&#232;s du D&#233;put&#233; Fabrice Le Vigoureux 1ere circonscription du Calvados</employeur>
+					<descriptionActivite>Collaborateur &#224; mi temps &#224; Paris en charge du suivi des projets et propositions de lois, amendements et pr&#233;parations de notes sur les sujets nationaux</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Jordane Gallois</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur &#224; Dijon &#224; temps plein en charge de l&#8217;organisation g&#233;n&#233;rale, pr&#233;paration des notes et discours , animation des r&#233;seaux sociaux et pr&#233;paration des d&#233;placements</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Claire Gauchat</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice assistante en charge des questions administratives, courrier, revue de presse et secr&#233;tariat &#224; Dijon</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Jean Fr&#233;d&#233;ric Bourdeau</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur &#224; mi temps en charge d&#8217;un suivi des travaux &#224; la commission de La D&#233;fense . R&#233;daction de notes et suivi des questions militaires</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#233;es non publi&#233;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>21</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>C&#244;te-d'Or(21)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/C&#244;te-d'Or(21)</qualiteDeclarantForPDF>
+			<dateDebutMandat>22/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Bordat</nom>
+				<prenom>Beno&#238;t</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>07/02/1984</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,425 @@
+<declarations><declaration>
+		<dateDepot>07/04/2022 16:28:05</dateDepot>
+		<uuid>73431c63-8c56-46c6-ac58-0bdaf8f24ab4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<description>Repr&#233;sentante du personnel</description>
+					<employeur>DEPARTEMENT DE LA REUNION</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>37&#8239;437</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>62&#8239;077</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>62&#8239;952</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>61&#8239;115</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>53&#8239;048</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>59&#8239;165</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2016</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis conseill&#232;re municipale dans la commune de St Pierre de la R&#233;union, &#233;lue de l'opposition et ne per&#231;ois aucune indemnit&#233;. Je si&#232;ge &#233;galement au CCAS,&#224; la caisse des Ecoles, &#224; la commission d'appels d'offres et ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<descriptionMandat>Conseill&#232;re municipale</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je per&#231;ois une indemnit&#233; brute mensuel de 233 Euros soit un montant total brut de annuel de 2800 euros pour 2020 et la somme de 2097 euros correspond &#224; la p&#233;riode du 01/01/2021 au 30/09/2021</commentaire>
+					<descriptionMandat>Conseill&#232;re communautaire &#224; la CIVIS</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2&#8239;800</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;097</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis membre du Conseil d'Administration et ne per&#231;oit aucune indemnit&#233; et repr&#233;sentante de la R&#233;gion R&#233;union en qualit&#233; de conseill&#232;re r&#233;gionale</commentaire>
+					<nomSociete>SEMITTEL</nomSociete>
+					<activite>Soci&#233;t&#233; d'&#233;conomie mixte de Transport urbains et scolairest</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis membre du conseil d'administration en tant que conseill&#232;re r&#233;gionale. Je ne per&#231;oit aucune indemnit&#233;</commentaire>
+					<nomSociete>SEMATRA</nomSociete>
+					<activite>Soci&#233;t&#233; d'&#233;conomie mixte d transports a&#233;riens</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis vice pr&#233;sidente en ma qualit&#233; de conseill&#232;re r&#233;gionale d&#233;sign&#233;e pour repr&#233;senter la R&#233;gion. Je ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<nomSociete>SOLIHA : Solidaires pour l'habitat</nomSociete>
+					<activite>association qui intervient dans le domaine de la construction et de la r&#233;novation de l'habitat</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en ma qualit&#233; de conseill&#232;re r&#233;gionale repr&#233;sentante de la R&#233;gion. Je ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<nomSociete>Syndicat mixte de Pierrefonds</nomSociete>
+					<activite>Sp&#233;cialis&#233; dans le secteur d'activit&#233; des services auxiliaires des transports a&#233;riens</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en tant que conseill&#232;re r&#233;gionale et ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<nomSociete>ILEVA</nomSociete>
+					<activite>Syndicat mixte de traitement des d&#233;chets des microregions Sud et Ouest de l'&#238;le de la R&#233;union</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>En ma qualit&#233; de vice pr&#233;sidente du SMPRR je per&#231;ois une indemnit&#233; de fonction d'&#233;lu de 169 euros pour participer et animer les r&#233;unions du SMPRR, j'utilise mon v&#233;hicule personnel pour mes d&#233;placements Sud/Nord</commentaire>
+					<nomSociete>SMPRR</nomSociete>
+					<activite>Syndicat mixte du parc routier de la R&#233;union</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>335</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en qualit&#233; de conseill&#232;re r&#233;gionale et ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<nomSociete>CCES</nomSociete>
+					<activite>commission consultative d'&#233;laboration et de suivi du plan r&#233;gional de pr&#233;vention et de gestion des d&#233;chets de la R&#233;union</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en tant que conseill&#232;re g&#233;n&#233;rale, je per&#231;ois aucune indemnit&#233;s</commentaire>
+					<nomSociete>SDAGE SUD</nomSociete>
+					<activite>&#233;laboration du sch&#233;ma d'am&#233;nagement et de gestion de l'eau pour le sud de la R&#233;uniongement</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en tant que conseill&#232;re r&#233;gionale et ne per&#231;ois aucune indemnit&#233;</commentaire>
+					<nomSociete>SPL MARAINA</nomSociete>
+					<activite>Soci&#233;t&#233; qui a pour com&#233;tence a r&#233;aliser pour le compte de ses collectivit&#233;s actionnaires tout op&#233;ration d'am&#233;nagements</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge en tant que suppl&#233;ante pour la R&#233;gion</commentaire>
+					<nomSociete>EPFR</nomSociete>
+					<activite>Etablissement Public Foncier de La R&#233;union</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#232;ge dans en tant que titulaire et suppl&#233;ante dans des lyc&#233;es de la micro r&#233;gions r&#233;gion sud en tant que conseill&#232;re r&#233;gionale et communautaire et ne per&#231;ois aucune indemnit&#233;s (lyc&#233;e Ambroise vollard, lyc&#233;e de Bois d'Olive, lyc&#233;e Francois de Mahy, Lyc&#233;e Bois Joli Potier, Lyc&#233;e de la Rivi&#232;re St Louis</commentaire>
+					<nomSociete>4 lyc&#233;es de la R&#233;union</nomSociete>
+					<activite>Etablissements scolaires</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu r&#233;gional</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>cr</codTypeMandatFichier>
+				<labelTypeMandat>Elu r&#233;gional</labelTypeMandat>
+				<labelOrgane>R&#233;gion</labelOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>04</codeOrgane>
+				<codeListeOrgane>REG</codeListeOrgane>
+				<nomListeOrgane>R&#233;gions</nomListeOrgane>
+				<labelOrgane>La R&#233;union (04)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant>titulaire d'une d&#233;l&#233;gation Logement et Habitat</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Elu r&#233;gional/La R&#233;union (04)/titulaire d'une d&#233;l&#233;gation Logement et Habitat</qualiteDeclarantForPDF>
+			<dateDebutMandat>20/08/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GOBALOU ERAMBRANPOULLE</nom>
+				<prenom>virginie</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>24/04/1966</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,195 @@
+<declarations><declaration>
+		<dateDepot>30/08/2020 15:51:26</dateDepot>
+		<uuid>711f1648-ec7f-440d-b72c-131ef4ae1210</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>2020_08_BP_aout.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>2019_01_AF_janvier.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj02</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>2018_01_AF_janvier.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj03</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>2017_01_AF_janvier.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj04</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>2016_01_AF_janvier.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj05</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>Revenus 2014 2015.pdf</fileName>
+				<serverFileName>711f1648-ec7f-440d-b72c-131ef4ae1210_pj06</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis fonctionnaire, titularis&#233;e en septembre 2007. Je suis toujours en fonction.Pour 2020, le montant indiqu&#233; correspond &#224; la somme des salaires per&#231;us de janvier &#224; ao&#251;t 2020.</commentaire>
+					<description>Professeur des &#233;coles</description>
+					<employeur>Minist&#232;re de l'Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>24934</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>25611</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>23993</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>24849</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26277</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>27165</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17828</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2014</dateDebut>
+					<dateFin>08/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Genevi&#232;ve Dumont.Activit&#233;s artistiques, promotion de l'art contemporain</nomStructure>
+					<descriptionActivite>Conservation de l'oeuvre du sculpteur Genevi&#232;ve Dumont.Organisations d'expositions.Je suis membre du Conseil d'administration qui d&#233;cide du calendrier des manifestations et des activit&#233;s de l'association. Je m'occupe &#233;galement des recherches d'archives concernant la conservation de l'oeuvre de G. Dumont.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69266</codeOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+				<nomListeOrgane>Communes +20KH</nomListeOrgane>
+				<labelOrgane>Villeurbanne (69)</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Adjointe de quartiers</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Villeurbanne (69)/Adjointe de quartiers</qualiteDeclarantForPDF>
+			<dateDebutMandat>04/07/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>PRADELLE</nom>
+				<prenom>Laure-Emmanuelle</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>09/09/1969</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

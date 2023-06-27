@@ -1,0 +1,282 @@
+<declarations><declaration>
+		<dateDepot>29/09/2020 13:10:23</dateDepot>
+		<uuid>0a03f266-e430-48f8-90a8-64088236a978</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>chiffre &#233;valu&#233;e en 2020 puisque l'ann&#233;e n'est pas finie &#224; la date de la d&#233;claration</commentaire>
+					<description>adjointe &#224; la maire de paris</description>
+					<employeur>marie de paris</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>45146</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>50008</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50013</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>62237</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>61747</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>parti communiste fran&#231;ais</employeurConjoint>
+					<activiteProf>
+        [Donn&#233;es non publi&#233;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>fonction exerc&#233;e &#224; titre b&#233;n&#233;vole.</commentaire>
+					<nomStructure>ECVF - association d'&#233;lues contre les violences faites aux femmes</nomStructure>
+					<descriptionActivite>pr&#233;sidente de l'association ECVF depuis le 29 juin 2019</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#233;valuation pour l'ann&#233;e 2020 en multipliant par 12 l'indemnit&#233; telle que vot&#233;e : en tant qu&#8217;adjointe, les indemnit&#233;s sont 5639,63 euros brut mensuel (d&#233;lib&#233;ration en Conseil de Paris des 23 et 24 juillet 2020)</commentaire>
+					<descriptionMandat>adjointe &#224; la maire de paris en charge de l'&#233;galit&#233; femmes-hommes de la jeunesse et de l'&#233;ducation populaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>45146</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>50008</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>50013</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>62237</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>61744</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45991</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>67675</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2014</dateDebut>
+					<dateFin>07/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>activit&#233; &#224; titre militante b&#233;n&#233;vole encore en cours</commentaire>
+					<nomSociete>parti communiste fran&#231;ais</nomSociete>
+					<activite>membre du Comit&#233; executif national</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>10/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>part sociale &#224; la banque populaire pour un montant de 2100 euros</commentaire>
+					<nomSociete>BANQUE POPULAIRE</nomSociete>
+					<evaluation>2100</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>les nominations au conseil de paris dans les organismes n&#8217;&#233;tant pas termin&#233;e, la d&#233;claration est faite en l'&#233;tat &#224; cette date mais susceptible d'&#234;tre modifi&#233;e en fonction de nouvelle nomination &#224; venir.</contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>maire adjointe &#224; Paris</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/maire adjointe &#224; Paris</qualiteDeclarantForPDF>
+			<dateDebutMandat>03/06/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Bidard</nom>
+				<prenom>H&#233;l&#232;ne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>06/04/1981</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

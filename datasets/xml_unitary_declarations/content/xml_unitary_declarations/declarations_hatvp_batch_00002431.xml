@@ -1,0 +1,333 @@
+<declarations><declaration>
+		<dateDepot>17/11/2020 21:08:27</dateDepot>
+		<uuid>5ee12390-07e8-4ed1-a789-f491b7b925fc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Ingenieur Recherche</description>
+					<employeur>IEP RF</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>26&#8239;952</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#8239;868</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>33&#8239;578</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>24&#8239;122</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22&#8239;304</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17&#8239;047</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>Inspection academique</employeurConjoint>
+					<activiteProf>Professeur des ecoles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association du Reseau Citoyen de Grenoble</nomStructure>
+					<descriptionActivite>Le R&#233;seau Citoyen a pour but "d'aider les citoyens &#224; se r&#233;unir en r&#233;seau et &#224; d&#233;velopper &#224; Grenoble et dans son agglom&#233;ration des id&#233;es et des actions permettant des initiatives citoyennes am&#233;liorant la vie d&#233;mocratique dans la cit&#233;". Je suis membre de cette association.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>EELV Grenoble</nomStructure>
+					<descriptionActivite>Parti politique Europe Ecologie les Verts. Je suis "coop&#233;rateur" &#224; Grenoble.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A partir de juillet 2020, je ne suis plus adjoint au Maire mais Conseiller municipal d&#233;l&#233;gu&#233; (suite &#224; l'&#233;lection municipale de 2020)</commentaire>
+					<descriptionMandat>Adjoint au Maire Grenoble</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>21570</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>19510</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21120</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>20&#8239;868</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20&#8239;814</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>12&#8239;688</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>A partir de sept 2020, je suis &#233;lu vice-pr&#233;sident de Grenoble-Alpes Metropole</commentaire>
+					<descriptionMandat>Conseiller Grenoble-Alpes Metropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>7200</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>6860</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6970</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6&#8239;864</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6&#8239;364</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;868</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Membre CNDP</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>612</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>470</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2018</dateDebut>
+					<dateFin>09/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomSociete>SEM INNOVIA</nomSociete>
+					<activite>Pr&#233;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SONGCHA DIFFUSION</nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>N&#233;ant</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>100</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Membre d&#8217;EPCI</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>epci</codTypeMandatFichier>
+				<labelTypeMandat>Membre d&#8217;EPCI</labelTypeMandat>
+				<labelOrgane>EPCI</labelOrgane>
+				<codeListeOrgane/>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane>Grenoble Alpes Metropole</labelOrgane>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Membre d&#8217;EPCI/Grenoble Alpes Metropole</qualiteDeclarantForPDF>
+			<dateDebutMandat>18/09/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>CLOUAIRE</nom>
+				<prenom>Pascal</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>26/03/1967</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

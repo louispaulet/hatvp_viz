@@ -1,0 +1,475 @@
+<declarations><declaration>
+		<dateDepot>19/08/2022 14:32:02</dateDepot>
+		<uuid>6b40cafb-9198-444a-a6ba-d3dc77517d80</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>false</conservee>
+					<description>DEPUTE</description>
+					<employeur>ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>77586</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>75351</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>75095</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>72678</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>67237</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>42842</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>retour &#224; la fonction de d&#233;put&#233; en D&#233;cembre 2018</commentaire>
+					<description>Ministre de l'agriculture et de l'alimentation</description>
+					<employeur>GOUVERNEMENT</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>89759</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>91463</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>10/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>INDEMNITES PARLEMENTAIRES DE NOVEMBRE 2018 &#224; JUILLET 2022</commentaire>
+					<description>DEPUTE</description>
+					<employeur>ASSEMBLEE NATIONALE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5&#8239;645</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>64&#8239;786</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>41&#8239;433</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>EDUCATION NATIONALE</employeurConjoint>
+					<activiteProf>PRINCIPALE ADJOINTE DE COLLEGE</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomStructure>Grenier Haytillon</nomStructure>
+					<descriptionActivite>activit&#233; th&#233;&#226;trale. membre simple</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Association qui cr&#233;e une f&#233;d&#233;ration d'&#233;lus progressistes.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>LA REPUBLIQUE ENSEMBLE</nomStructure>
+					<descriptionActivite>Pr&#233;sident de l'association structuration d'un r&#233;seau d'&#233;lus</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>membre simple</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>APPCO Association des p&#234;cheurs &#224; pied et plaisanciers de la c&#244;te ouest.</nomStructure>
+					<descriptionActivite>D&#233;fense des activit&#233;s nautiques et de p&#234;che de loisirs</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2017 : CUMUL NET IMPOSABLE ANNUEL AU 31062017</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>DEPUTE</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>26796</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>50262</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>50006</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>49680</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>45347</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>31829</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>07/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2017 : Indemnit&#233; &#233;lu regioanl au 3006217 Conseiller r&#233;gional Basse Normandie de mars 2010 &#224; d&#233;cembre 2015. Conseiller R&#233;gional Normandie depuis D&#233;cembre 2015</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>Conseiller R&#233;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>24044</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>25089</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>25089</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22998</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>21890</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>11553</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>06/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>DEPUTE</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>5&#8239;645</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>71&#8239;104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70&#8239;773</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>64&#8239;786</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>41&#8239;433</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pr&#233;sident &#224; titre b&#233;n&#233;vole de l'association LA REPUBLIQUE ENSEMBLE. R&#233;seau des &#233;lus progressistes. 
+        [Donn&#233;es non publi&#233;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>LA REPUBLIQUE ENSEMBLE</nomSociete>
+					<activite>RESEAU D ELUS</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>03/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>FONCTION DE SECRETAIRE DE L'ASSOCIATION</commentaire>
+					<nomSociete>association pour la coordination des comit&#233;s de soutien &#224; l'action du Pr&#233;sident de la R&#233;publique</nomSociete>
+					<activite>animation comit&#233;s de soutien</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ATTACHE PARLEMENTAIRE EN CIRCONSCRIPTION (MANCHE)</commentaire>
+					<nom>DENIS BERSAUTER</nom>
+					<employeur/>
+					<descriptionActivite>ATTACHE PARLEMENTAIRE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>ATTACHEE PARLEMENTAIRE EN CIRCONSCRIPTION (Manche)</commentaire>
+					<nom>Delphine JIMENEZ GRENIER</nom>
+					<employeur/>
+					<descriptionActivite>ATTACHEE PARLEMENTAIRE</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>EN POSTE &#224; Paris Assembl&#233;e nationale</commentaire>
+					<nom>Nathalie GENET RAVION</nom>
+					<employeur/>
+					<descriptionActivite>ATTACHEE PARLEMENTAIRE</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts et d'activit&#233;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#233;put&#233; ou s&#233;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#233;put&#233;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#233;put&#233; ou s&#233;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#233;put&#233;</labelTypeMandat>
+				<labelOrgane>D&#233;partement d'&#233;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>50</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d'&#233;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Manche(50)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#233;put&#233;/Manche(50)</qualiteDeclarantForPDF>
+			<dateDebutMandat>19/06/2022</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>TRAVERT</nom>
+				<prenom>stephane</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>12/10/1969</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

@@ -1,0 +1,321 @@
+<declarations><declaration>
+		<dateDepot>21/06/2020 18:35:26</dateDepot>
+		<uuid>43ad51c3-934e-4b62-bebf-6ff7c671e3fb</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il ne s'agit pas d'une activit&#233; de consultant mais d'une activit&#233; de formation</commentaire>
+					<nomEmployeur>APM</nomEmployeur>
+					<description>Formation sur l'internet et les op&#233;rations de commerce international</description>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2013</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>4838</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>7918</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>3300</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>APM, Action logement, Cr&#233;dit agricole, Cith&#233;a communication</nomEmployeur>
+					<description>formation ou conf&#233;rence</description>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>12/2019</dateFin>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>1100</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>1600</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>candidature de la France &#224; l'exposition universelle - pr&#233;sident</description>
+					<employeur>expofrance2025</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>49092</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>98194</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>73728</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>D&#233;l&#233;gu&#233; g&#233;n&#233;ral</description>
+					<employeur>Forum de l'Universel</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>30000</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>60000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#233;es non publi&#233;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#233;es non publi&#233;es]
+    </employeurConjoint>
+					<activiteProf>Cabinet dentaire</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Maire de Neuilly-sur-Seine et Vice-pr&#233;sident de Paris-Ouest La D&#233;fense depuis 2017</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>36744</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>36744</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>36744</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>68439</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>68439</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>68439</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>33156</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2014</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s'agit de la m&#234;me activit&#233; et de la m&#234;me r&#233;mun&#233;ration que celle &#233;voqu&#233;e au point 1 "Activit&#233;s professionnelles"</commentaire>
+					<nomSociete>EXPORT ENTREPRISES SA</nomSociete>
+					<activite>Edition de donn&#233;es &#233;conomiques et r&#233;glementaires pour les op&#233;rations de commerce international</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>46312</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>24089</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2012</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation c&#233;d&#233;e le 28 juillet 2014</commentaire>
+					<nomSociete>EXPORT ENTREPRISES SA</nomSociete>
+					<evaluation>200000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>93366</nombreParts>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Maire ou adjoint municipal</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>commune</codTypeMandatFichier>
+				<labelTypeMandat>Maire ou adjoint municipal</labelTypeMandat>
+				<labelOrgane>Commune</labelOrgane>
+				<codeListeOrgane>COMM</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane/>
+				<codeListeOrgane/>
+				<nomListeOrgane/>
+				<labelOrgane/>
+				<labelDeclaration/>
+			</organe>
+			<qualiteDeclarant>Maire</qualiteDeclarant>
+			<qualiteDeclarantForPDF>Maire ou adjoint municipal/Maire</qualiteDeclarantForPDF>
+			<dateDebutMandat>26/05/2020</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>FROMANTIN</nom>
+				<prenom>JEAN-CHRISTOPHE</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>30/08/1962</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>

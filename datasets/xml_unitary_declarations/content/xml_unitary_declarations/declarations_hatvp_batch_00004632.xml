@@ -1,0 +1,290 @@
+<declarations><declaration>
+		<dateDepot>01/09/2021 09:42:55</dateDepot>
+		<uuid>98b3f11c-673b-4934-9e74-02903cca2d36</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association des Membres de l'Ordre des Palmes Acad&#233;miques</nomStructure>
+					<descriptionActivite>Vice-Pr&#233;sidente de la section des Hautes-Alpes</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association des Membres de l'Ordre National du M&#233;rite</nomStructure>
+					<descriptionActivite>Membre du bureau de la section des Hautes-Alpes</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Conseil d'Architecture d'Urbanisme et Environnement des Hautes-Alpes</nomStructure>
+					<descriptionActivite>Tr&#233;sori&#232;re</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Salaires en "brut"Valeur 2021 au 30 juin</commentaire>
+					<descriptionMandat>Vice-Pr&#233;sidente du D&#233;partement des Hautes-Alpes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>19&#8239;088</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>25&#8239;622</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>25&#8239;997</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>26&#8239;010</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>26&#8239;136</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>26&#8239;136</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13&#8239;068</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeur en "brut" pour juillet 2021</commentaire>
+					<descriptionMandat>Vice-pr&#233;sidente du D&#233;partement des Hautes-Alpes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;178</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeurs en "brut"Pour 2021, mois d'ao&#251;t compris</commentaire>
+					<descriptionMandat>Ajointe au maire de Gap</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>17&#8239;672</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>17&#8239;725</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>17&#8239;876</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>17&#8239;993</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18&#8239;081</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18&#8239;081</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12&#8239;054</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Valeurs en "brut"Cessation des fonctions de Vice-pr&#233;sidente du SDIS 05 le 30 juin 2021</commentaire>
+					<descriptionMandat>Vice-pr&#233;sidente du SDIS 05</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>4&#8239;561</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>4&#8239;575</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>4&#8239;642</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>4&#8239;644</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4&#8239;667</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4&#8239;667</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2&#8239;333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DI</id>
+				<label>D&#233;claration d'int&#233;r&#234;ts</label>
+			</typeDeclaration>
+			<mandat>
+				<label>Elu local ou membre d&#8217;un &#233;tablissement public de coop&#233;ration intercommunale</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>Elu d&#233;partemental</typeMandat>
+				<codCategorieMandat>LOC</codCategorieMandat>
+				<nomCategorieMandat>Elu local ou membre d&#8217;EPCI</nomCategorieMandat>
+				<codTypeMandatFichier>departement</codTypeMandatFichier>
+				<labelTypeMandat>Elu d&#233;partemental</labelTypeMandat>
+				<labelOrgane>D&#233;partement</labelOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>05</codeOrgane>
+				<codeListeOrgane>DEP</codeListeOrgane>
+				<nomListeOrgane>D&#233;partements</nomListeOrgane>
+				<labelOrgane>Hautes-Alpes (05)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent>93</organeParent>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>Elu d&#233;partemental/Hautes-Alpes (05)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2021</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>GRENIER</nom>
+				<prenom>Maryvonne</prenom>
+				<email>
+            [Donn&#233;es non publi&#233;es]
+        </email>
+				<dateNaissance>23/11/1945</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#233;es non publi&#233;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#233;es non publi&#233;es]
+        </voie>
+					<complement>
+            [Donn&#233;es non publi&#233;es]
+        </complement>
+					<codePostal>
+            [Donn&#233;es non publi&#233;es]
+        </codePostal>
+					<ville>
+            [Donn&#233;es non publi&#233;es]
+        </ville>
+					<pays>
+            [Donn&#233;es non publi&#233;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+	</declarations>
